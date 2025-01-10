@@ -19718,5 +19718,13 @@
         "DataType": "Temperature Sensor",
         "Value": 36.5,
         "Timestamp": "2025-01-10 15:10:20"
+    },
+    {
+        "ID": 2031,
+        "PatientID": 919,
+        "DeviceID": 77,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "144/95",
+        "Timestamp": "2025-01-10 15:11:44"
     }
 ]
