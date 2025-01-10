@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 1,
+        "NAME": "MASSACHUSETTS GENERAL HOSPITAL",
+        "ADDRESS": "55 FRUIT STREET",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": 2114,
+        "LAT": 42.362813,
+        "LON": -71.069187,
+        "CreatedDate": "2024-11-18T17:32:16.245448",
+        "UpdatedDate": "2024-11-18T17:32:16.245448"
+    },
+    {
+        "Id": 2,
+        "NAME": "BRIGHAM AND WOMEN'S HOSPITAL",
+        "ADDRESS": "75 FRANCIS STREET",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": 2115,
+        "LAT": 42.336936,
+        "LON": -71.105761,
+        "CreatedDate": "2024-11-18T17:40:16.245448",
+        "UpdatedDate": "2024-11-18T17:40:16.245448"
+    },
+    {
+        "Id": 3,
+        "NAME": "BOSTON CHILDREN'S HOSPITAL",
+        "ADDRESS": "300 LONGWOOD AVENUE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": 2115,
+        "LAT": 42.337356,
+        "LON": -71.105539,
+        "CreatedDate": "2024-11-18T17:50:16.245448",
+        "UpdatedDate": "2024-11-18T17:50:16.245448"
+    },
+    {
+        "Id": 4,
+        "NAME": "BETH ISRAEL DEACONESS MEDICAL CTR",
+        "ADDRESS": "330 BROOKLINE AVENUE",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": 2215,
+        "LAT": 42.336121,
+        "LON": -71.104554,
+        "CreatedDate": "2024-11-18T18:00:16.245448",
+        "UpdatedDate": "2024-11-18T18:00:16.245448"
+    },
+    {
+        "Id": 5,
+        "NAME": "TUFTS MEDICAL CENTER",
+        "ADDRESS": "800 WASHINGTON STREET",
+        "CITY": "BOSTON",
+        "STATE": "MA",
+        "ZIP": 2111,
+        "LAT": 42.349462,
+        "LON": -71.063974,
+        "CreatedDate": "2024-11-18T18:10:16.245448",
+        "UpdatedDate": "2024-11-18T18:10:16.245448"
+    }
+]
