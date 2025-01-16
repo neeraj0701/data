@@ -19358,5 +19358,245 @@
         "DataType": "Heart Rate Monitor",
         "Value": 51,
         "Timestamp": "2025-01-16 15:27:48"
+    },
+    {
+        "ID": 2691,
+        "PatientID": 490,
+        "DeviceID": 655,
+        "DataType": "Glucose Monitor",
+        "Value": 77,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2692,
+        "PatientID": 495,
+        "DeviceID": 655,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2693,
+        "PatientID": 518,
+        "DeviceID": 655,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "142/98",
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2694,
+        "PatientID": 553,
+        "DeviceID": 544,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "142/98",
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2695,
+        "PatientID": 95,
+        "DeviceID": 48,
+        "DataType": "ECG",
+        "Value": "Irregular",
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2696,
+        "PatientID": 577,
+        "DeviceID": 48,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2697,
+        "PatientID": 25,
+        "DeviceID": 489,
+        "DataType": "Temperature Sensor",
+        "Value": 38.8,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2698,
+        "PatientID": 893,
+        "DeviceID": 33,
+        "DataType": "Pulse Oximeter",
+        "Value": 91.6,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2699,
+        "PatientID": 648,
+        "DeviceID": 489,
+        "DataType": "Temperature Sensor",
+        "Value": 38.8,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2700,
+        "PatientID": 498,
+        "DeviceID": 285,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2701,
+        "PatientID": 541,
+        "DeviceID": 48,
+        "DataType": "Temperature Sensor",
+        "Value": 38.8,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2702,
+        "PatientID": 399,
+        "DeviceID": 48,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2703,
+        "PatientID": 315,
+        "DeviceID": 285,
+        "DataType": "Pulse Oximeter",
+        "Value": 91.6,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2704,
+        "PatientID": 838,
+        "DeviceID": 655,
+        "DataType": "Temperature Sensor",
+        "Value": 38.8,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2705,
+        "PatientID": 118,
+        "DeviceID": 48,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2706,
+        "PatientID": 815,
+        "DeviceID": 535,
+        "DataType": "Pulse Oximeter",
+        "Value": 91.6,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2707,
+        "PatientID": 425,
+        "DeviceID": 285,
+        "DataType": "Temperature Sensor",
+        "Value": 38.8,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2708,
+        "PatientID": 722,
+        "DeviceID": 353,
+        "DataType": "Temperature Sensor",
+        "Value": 38.8,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2709,
+        "PatientID": 479,
+        "DeviceID": 535,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2710,
+        "PatientID": 374,
+        "DeviceID": 489,
+        "DataType": "Glucose Monitor",
+        "Value": 77,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2711,
+        "PatientID": 518,
+        "DeviceID": 274,
+        "DataType": "Temperature Sensor",
+        "Value": 38.8,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2712,
+        "PatientID": 315,
+        "DeviceID": 535,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2713,
+        "PatientID": 498,
+        "DeviceID": 535,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2714,
+        "PatientID": 722,
+        "DeviceID": 544,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "142/98",
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2715,
+        "PatientID": 893,
+        "DeviceID": 33,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "142/98",
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2716,
+        "PatientID": 118,
+        "DeviceID": 535,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "142/98",
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2717,
+        "PatientID": 893,
+        "DeviceID": 165,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2718,
+        "PatientID": 118,
+        "DeviceID": 489,
+        "DataType": "Glucose Monitor",
+        "Value": 77,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2719,
+        "PatientID": 374,
+        "DeviceID": 48,
+        "DataType": "Oxygen Monitor",
+        "Value": 95.9,
+        "Timestamp": "2025-01-16 15:29:17"
+    },
+    {
+        "ID": 2720,
+        "PatientID": 118,
+        "DeviceID": 285,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "142/98",
+        "Timestamp": "2025-01-16 15:29:17"
     }
 ]
