@@ -1,0 +1,7132 @@
+[
+  {
+    "Id": 1,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 100,
+    "Status": "Active",
+    "LastMaintenance": "20-04-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 2,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 100,
+    "Status": "Inactive",
+    "LastMaintenance": "13-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 3,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 100,
+    "Status": "Active",
+    "LastMaintenance": "24-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 4,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "30-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 5,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "24-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 6,
+    "DeviceType": "ECG",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "24-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 7,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "10-03-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 8,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 102,
+    "Status": "Active",
+    "LastMaintenance": "03-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 9,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "06-03-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 10,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 103,
+    "Status": "Active",
+    "LastMaintenance": "13-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 11,
+    "DeviceType": "ECG",
+    "RoomID": 103,
+    "Status": "Active",
+    "LastMaintenance": "03-12-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 12,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "25-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 13,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 104,
+    "Status": "Active",
+    "LastMaintenance": "03-12-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 14,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 104,
+    "Status": "Active",
+    "LastMaintenance": "10-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 15,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 104,
+    "Status": "Inactive",
+    "LastMaintenance": "10-12-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 16,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 105,
+    "Status": "Active",
+    "LastMaintenance": "18-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 17,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 105,
+    "Status": "Inactive",
+    "LastMaintenance": "25-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 18,
+    "DeviceType": "ECG",
+    "RoomID": 105,
+    "Status": "Inactive",
+    "LastMaintenance": "28-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 19,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 106,
+    "Status": "Inactive",
+    "LastMaintenance": "14-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 20,
+    "DeviceType": "ECG",
+    "RoomID": 106,
+    "Status": "Active",
+    "LastMaintenance": "28-09-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 21,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 106,
+    "Status": "Active",
+    "LastMaintenance": "30-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 22,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 107,
+    "Status": "Active",
+    "LastMaintenance": "05-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 23,
+    "DeviceType": "ECG",
+    "RoomID": 107,
+    "Status": "Inactive",
+    "LastMaintenance": "21-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 24,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 107,
+    "Status": "Active",
+    "LastMaintenance": "18-07-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 25,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 108,
+    "Status": "Active",
+    "LastMaintenance": "26-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 26,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 108,
+    "Status": "Inactive",
+    "LastMaintenance": "08-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 27,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 108,
+    "Status": "Inactive",
+    "LastMaintenance": "15-07-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 28,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 200,
+    "Status": "Active",
+    "LastMaintenance": "21-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 29,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 200,
+    "Status": "Inactive",
+    "LastMaintenance": "20-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 30,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 200,
+    "Status": "Active",
+    "LastMaintenance": "21-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 31,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 201,
+    "Status": "Inactive",
+    "LastMaintenance": "16-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 32,
+    "DeviceType": "ECG",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "19-07-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 33,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "13-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 34,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "27-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 35,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "10-04-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 36,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 202,
+    "Status": "Inactive",
+    "LastMaintenance": "30-09-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 37,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "11-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 38,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "05-07-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 39,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 203,
+    "Status": "Active",
+    "LastMaintenance": "10-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 40,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "09-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 41,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "27-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 42,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 204,
+    "Status": "Inactive",
+    "LastMaintenance": "14-09-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 43,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 205,
+    "Status": "Active",
+    "LastMaintenance": "06-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 44,
+    "DeviceType": "ECG",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "06-01-2025",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 45,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "12-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 46,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "01-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 47,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "07-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 48,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 300,
+    "Status": "Inactive",
+    "LastMaintenance": "21-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 49,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 301,
+    "Status": "Inactive",
+    "LastMaintenance": "15-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 50,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "30-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 51,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 301,
+    "Status": "Inactive",
+    "LastMaintenance": "16-04-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 52,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "06-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 53,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 302,
+    "Status": "Inactive",
+    "LastMaintenance": "26-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 54,
+    "DeviceType": "ECG",
+    "RoomID": 302,
+    "Status": "Inactive",
+    "LastMaintenance": "28-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 55,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "13-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 56,
+    "DeviceType": "ECG",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "29-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 57,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 303,
+    "Status": "Inactive",
+    "LastMaintenance": "19-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 58,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "09-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 59,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 304,
+    "Status": "Inactive",
+    "LastMaintenance": "25-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 60,
+    "DeviceType": "ECG",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "22-09-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 61,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "13-04-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 62,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "11-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 63,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 305,
+    "Status": "Active",
+    "LastMaintenance": "26-07-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 64,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 305,
+    "Status": "Active",
+    "LastMaintenance": "13-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 65,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 306,
+    "Status": "Inactive",
+    "LastMaintenance": "14-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 66,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 306,
+    "Status": "Active",
+    "LastMaintenance": "11-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 67,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 306,
+    "Status": "Active",
+    "LastMaintenance": "21-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 68,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 400,
+    "Status": "Active",
+    "LastMaintenance": "03-01-2025",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 69,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 400,
+    "Status": "Active",
+    "LastMaintenance": "03-03-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 70,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 400,
+    "Status": "Inactive",
+    "LastMaintenance": "05-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 71,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "13-03-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 72,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "07-03-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 73,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "08-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 74,
+    "DeviceType": "ECG",
+    "RoomID": 402,
+    "Status": "Inactive",
+    "LastMaintenance": "20-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 75,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 402,
+    "Status": "Active",
+    "LastMaintenance": "14-12-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 76,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 402,
+    "Status": "Active",
+    "LastMaintenance": "27-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 77,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 403,
+    "Status": "Active",
+    "LastMaintenance": "14-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 78,
+    "DeviceType": "ECG",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "26-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 79,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "01-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 80,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "23-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 81,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "24-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 82,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "15-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 83,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "23-07-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 84,
+    "DeviceType": "ECG",
+    "RoomID": 405,
+    "Status": "Active",
+    "LastMaintenance": "11-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 85,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "22-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 86,
+    "DeviceType": "ECG",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "28-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 87,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "08-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 88,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 406,
+    "Status": "Inactive",
+    "LastMaintenance": "20-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 89,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 407,
+    "Status": "Inactive",
+    "LastMaintenance": "14-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 90,
+    "DeviceType": "ECG",
+    "RoomID": 407,
+    "Status": "Active",
+    "LastMaintenance": "08-01-2025",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 91,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 407,
+    "Status": "Inactive",
+    "LastMaintenance": "14-09-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 92,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 408,
+    "Status": "Inactive",
+    "LastMaintenance": "05-12-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 93,
+    "DeviceType": "ECG",
+    "RoomID": 408,
+    "Status": "Inactive",
+    "LastMaintenance": "30-04-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 94,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 408,
+    "Status": "Inactive",
+    "LastMaintenance": "30-04-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 95,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 500,
+    "Status": "Inactive",
+    "LastMaintenance": "15-07-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 96,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "10-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 97,
+    "DeviceType": "ECG",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "23-09-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 98,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 501,
+    "Status": "Active",
+    "LastMaintenance": "11-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 99,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "31-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 100,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "17-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 101,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "03-01-2025",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 102,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 502,
+    "Status": "Active",
+    "LastMaintenance": "07-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 103,
+    "DeviceType": "ECG",
+    "RoomID": 502,
+    "Status": "Active",
+    "LastMaintenance": "11-10-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 104,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "06-01-2025",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 105,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "02-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 106,
+    "DeviceType": "ECG",
+    "RoomID": 503,
+    "Status": "Inactive",
+    "LastMaintenance": "04-12-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 107,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 503,
+    "Status": "Inactive",
+    "LastMaintenance": "13-03-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 108,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "15-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 109,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "16-09-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 110,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "09-03-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 111,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 505,
+    "Status": "Inactive",
+    "LastMaintenance": "29-01-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 112,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "20-07-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 113,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 505,
+    "Status": "Inactive",
+    "LastMaintenance": "08-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 114,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 506,
+    "Status": "Inactive",
+    "LastMaintenance": "29-11-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 115,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 506,
+    "Status": "Inactive",
+    "LastMaintenance": "14-05-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 116,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 506,
+    "Status": "Active",
+    "LastMaintenance": "19-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 117,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 507,
+    "Status": "Inactive",
+    "LastMaintenance": "06-04-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 118,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 507,
+    "Status": "Inactive",
+    "LastMaintenance": "15-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 119,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 507,
+    "Status": "Active",
+    "LastMaintenance": "29-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 120,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 508,
+    "Status": "Inactive",
+    "LastMaintenance": "14-08-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 121,
+    "DeviceType": "ECG",
+    "RoomID": 508,
+    "Status": "Inactive",
+    "LastMaintenance": "13-06-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 122,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 508,
+    "Status": "Inactive",
+    "LastMaintenance": "24-02-2024",
+    "HospitalID": 1,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 123,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 100,
+    "Status": "Inactive",
+    "LastMaintenance": "22-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 124,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 100,
+    "Status": "Active",
+    "LastMaintenance": "16-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 125,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 100,
+    "Status": "Inactive",
+    "LastMaintenance": "07-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 126,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 101,
+    "Status": "Inactive",
+    "LastMaintenance": "04-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 127,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 101,
+    "Status": "Inactive",
+    "LastMaintenance": "21-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 128,
+    "DeviceType": "ECG",
+    "RoomID": 101,
+    "Status": "Inactive",
+    "LastMaintenance": "15-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 129,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "21-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 130,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 102,
+    "Status": "Active",
+    "LastMaintenance": "15-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 131,
+    "DeviceType": "ECG",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "01-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 132,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 102,
+    "Status": "Active",
+    "LastMaintenance": "18-05-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 133,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "25-12-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 134,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "17-02-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 135,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "18-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 136,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 104,
+    "Status": "Inactive",
+    "LastMaintenance": "29-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 137,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 104,
+    "Status": "Active",
+    "LastMaintenance": "15-05-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 138,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 104,
+    "Status": "Active",
+    "LastMaintenance": "06-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 139,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 105,
+    "Status": "Active",
+    "LastMaintenance": "03-03-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 140,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 105,
+    "Status": "Inactive",
+    "LastMaintenance": "04-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 141,
+    "DeviceType": "ECG",
+    "RoomID": 105,
+    "Status": "Inactive",
+    "LastMaintenance": "24-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 142,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 105,
+    "Status": "Active",
+    "LastMaintenance": "08-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 143,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 106,
+    "Status": "Active",
+    "LastMaintenance": "24-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 144,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 106,
+    "Status": "Inactive",
+    "LastMaintenance": "26-02-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 145,
+    "DeviceType": "ECG",
+    "RoomID": 106,
+    "Status": "Inactive",
+    "LastMaintenance": "10-12-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 146,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 107,
+    "Status": "Inactive",
+    "LastMaintenance": "13-03-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 147,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 107,
+    "Status": "Inactive",
+    "LastMaintenance": "23-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 148,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 107,
+    "Status": "Inactive",
+    "LastMaintenance": "27-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 149,
+    "DeviceType": "ECG",
+    "RoomID": 108,
+    "Status": "Inactive",
+    "LastMaintenance": "14-02-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 150,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 108,
+    "Status": "Inactive",
+    "LastMaintenance": "04-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 151,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 108,
+    "Status": "Active",
+    "LastMaintenance": "12-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 152,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 200,
+    "Status": "Inactive",
+    "LastMaintenance": "17-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 153,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 200,
+    "Status": "Active",
+    "LastMaintenance": "25-03-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 154,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 200,
+    "Status": "Inactive",
+    "LastMaintenance": "25-12-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 155,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 201,
+    "Status": "Inactive",
+    "LastMaintenance": "13-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 156,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "07-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 157,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 201,
+    "Status": "Inactive",
+    "LastMaintenance": "02-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 158,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "18-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 159,
+    "DeviceType": "ECG",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "19-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 160,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "20-05-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 161,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "13-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 162,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 203,
+    "Status": "Active",
+    "LastMaintenance": "08-03-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 163,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "17-12-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 164,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "03-02-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 165,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "19-05-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 166,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "03-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 167,
+    "DeviceType": "ECG",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "18-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 168,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 205,
+    "Status": "Active",
+    "LastMaintenance": "26-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 169,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 205,
+    "Status": "Active",
+    "LastMaintenance": "13-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 170,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 206,
+    "Status": "Inactive",
+    "LastMaintenance": "25-05-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 171,
+    "DeviceType": "ECG",
+    "RoomID": 206,
+    "Status": "Inactive",
+    "LastMaintenance": "31-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 172,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 206,
+    "Status": "Active",
+    "LastMaintenance": "14-12-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 173,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "05-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 174,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 300,
+    "Status": "Inactive",
+    "LastMaintenance": "08-03-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 175,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 300,
+    "Status": "Inactive",
+    "LastMaintenance": "03-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 176,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "19-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 177,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "16-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 178,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 301,
+    "Status": "Inactive",
+    "LastMaintenance": "19-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 179,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "05-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 180,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "06-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 181,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "18-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 182,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 303,
+    "Status": "Inactive",
+    "LastMaintenance": "22-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 183,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 303,
+    "Status": "Inactive",
+    "LastMaintenance": "21-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 184,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "29-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 185,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "14-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 186,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "01-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 187,
+    "DeviceType": "ECG",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "03-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 188,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "26-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 189,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "04-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 190,
+    "DeviceType": "ECG",
+    "RoomID": 305,
+    "Status": "Active",
+    "LastMaintenance": "31-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 191,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "09-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 192,
+    "DeviceType": "ECG",
+    "RoomID": 306,
+    "Status": "Active",
+    "LastMaintenance": "01-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 193,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 306,
+    "Status": "Inactive",
+    "LastMaintenance": "24-02-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 194,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 306,
+    "Status": "Active",
+    "LastMaintenance": "14-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 195,
+    "DeviceType": "ECG",
+    "RoomID": 307,
+    "Status": "Active",
+    "LastMaintenance": "12-01-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 196,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 307,
+    "Status": "Active",
+    "LastMaintenance": "18-03-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 197,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 307,
+    "Status": "Active",
+    "LastMaintenance": "03-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 198,
+    "DeviceType": "ECG",
+    "RoomID": 400,
+    "Status": "Active",
+    "LastMaintenance": "02-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 199,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 400,
+    "Status": "Inactive",
+    "LastMaintenance": "21-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 200,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 400,
+    "Status": "Active",
+    "LastMaintenance": "06-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 201,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "11-05-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 202,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 401,
+    "Status": "Inactive",
+    "LastMaintenance": "23-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 203,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 401,
+    "Status": "Inactive",
+    "LastMaintenance": "29-05-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 204,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 402,
+    "Status": "Inactive",
+    "LastMaintenance": "24-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 205,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 402,
+    "Status": "Active",
+    "LastMaintenance": "09-01-2025",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 206,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 402,
+    "Status": "Active",
+    "LastMaintenance": "28-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 207,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "11-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 208,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "06-01-2025",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 209,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "12-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 210,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "05-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 211,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "05-01-2025",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 212,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "06-12-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 213,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 405,
+    "Status": "Active",
+    "LastMaintenance": "23-12-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 214,
+    "DeviceType": "ECG",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "13-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 215,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "04-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 216,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "29-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 217,
+    "DeviceType": "ECG",
+    "RoomID": 406,
+    "Status": "Inactive",
+    "LastMaintenance": "29-12-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 218,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "27-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 219,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 407,
+    "Status": "Inactive",
+    "LastMaintenance": "08-01-2025",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 220,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 407,
+    "Status": "Active",
+    "LastMaintenance": "22-03-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 221,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 407,
+    "Status": "Inactive",
+    "LastMaintenance": "20-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 222,
+    "DeviceType": "ECG",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "01-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 223,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "25-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 224,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "28-09-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 225,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "27-10-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 226,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "11-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 227,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "01-01-2025",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 228,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "27-03-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 229,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "26-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 230,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "15-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 231,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 503,
+    "Status": "Inactive",
+    "LastMaintenance": "24-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 232,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 503,
+    "Status": "Inactive",
+    "LastMaintenance": "02-08-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 233,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "29-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 234,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 504,
+    "Status": "Inactive",
+    "LastMaintenance": "31-01-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 235,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "23-02-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 236,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "05-06-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 237,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "22-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 238,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "01-11-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 239,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "06-07-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 240,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 506,
+    "Status": "Inactive",
+    "LastMaintenance": "03-04-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 241,
+    "DeviceType": "ECG",
+    "RoomID": 506,
+    "Status": "Inactive",
+    "LastMaintenance": "17-01-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 242,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 506,
+    "Status": "Active",
+    "LastMaintenance": "25-05-2024",
+    "HospitalID": 2,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 243,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 100,
+    "Status": "Inactive",
+    "LastMaintenance": "10-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 244,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 100,
+    "Status": "Inactive",
+    "LastMaintenance": "16-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 245,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 100,
+    "Status": "Active",
+    "LastMaintenance": "24-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 246,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 101,
+    "Status": "Inactive",
+    "LastMaintenance": "26-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 247,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 101,
+    "Status": "Inactive",
+    "LastMaintenance": "25-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 248,
+    "DeviceType": "ECG",
+    "RoomID": 101,
+    "Status": "Inactive",
+    "LastMaintenance": "01-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 249,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "28-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 250,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "05-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 251,
+    "DeviceType": "ECG",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "22-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 252,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "30-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 253,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "22-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 254,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "10-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 255,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "01-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 256,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 104,
+    "Status": "Inactive",
+    "LastMaintenance": "27-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 257,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 104,
+    "Status": "Active",
+    "LastMaintenance": "17-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 258,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 104,
+    "Status": "Inactive",
+    "LastMaintenance": "11-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 259,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 105,
+    "Status": "Active",
+    "LastMaintenance": "08-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 260,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 105,
+    "Status": "Inactive",
+    "LastMaintenance": "15-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 261,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 105,
+    "Status": "Inactive",
+    "LastMaintenance": "28-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 262,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 106,
+    "Status": "Inactive",
+    "LastMaintenance": "15-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 263,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 106,
+    "Status": "Inactive",
+    "LastMaintenance": "01-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 264,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 106,
+    "Status": "Inactive",
+    "LastMaintenance": "23-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 265,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 107,
+    "Status": "Inactive",
+    "LastMaintenance": "16-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 266,
+    "DeviceType": "ECG",
+    "RoomID": 107,
+    "Status": "Active",
+    "LastMaintenance": "08-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 267,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 107,
+    "Status": "Inactive",
+    "LastMaintenance": "17-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 268,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 200,
+    "Status": "Inactive",
+    "LastMaintenance": "20-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 269,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 200,
+    "Status": "Inactive",
+    "LastMaintenance": "29-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 270,
+    "DeviceType": "ECG",
+    "RoomID": 200,
+    "Status": "Active",
+    "LastMaintenance": "14-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 271,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 201,
+    "Status": "Inactive",
+    "LastMaintenance": "03-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 272,
+    "DeviceType": "ECG",
+    "RoomID": 201,
+    "Status": "Inactive",
+    "LastMaintenance": "03-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 273,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "14-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 274,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 202,
+    "Status": "Inactive",
+    "LastMaintenance": "25-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 275,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "07-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 276,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "10-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 277,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "05-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 278,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "30-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 279,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "17-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 280,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "11-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 281,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 204,
+    "Status": "Inactive",
+    "LastMaintenance": "02-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 282,
+    "DeviceType": "ECG",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "20-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 283,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "31-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 284,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "20-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 285,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "07-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 286,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "30-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 287,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 206,
+    "Status": "Active",
+    "LastMaintenance": "31-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 288,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 206,
+    "Status": "Active",
+    "LastMaintenance": "01-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 289,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 206,
+    "Status": "Active",
+    "LastMaintenance": "11-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 290,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "25-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 291,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 300,
+    "Status": "Inactive",
+    "LastMaintenance": "24-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 292,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "11-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 293,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 301,
+    "Status": "Inactive",
+    "LastMaintenance": "27-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 294,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "21-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 295,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "07-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 296,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "25-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 297,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 302,
+    "Status": "Inactive",
+    "LastMaintenance": "24-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 298,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "03-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 299,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "10-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 300,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "25-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 301,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "14-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 302,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "23-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 303,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "13-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 304,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 304,
+    "Status": "Inactive",
+    "LastMaintenance": "30-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 305,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "12-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 306,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 305,
+    "Status": "Active",
+    "LastMaintenance": "04-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 307,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 305,
+    "Status": "Active",
+    "LastMaintenance": "01-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 308,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 400,
+    "Status": "Active",
+    "LastMaintenance": "16-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 309,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 400,
+    "Status": "Inactive",
+    "LastMaintenance": "17-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 310,
+    "DeviceType": "ECG",
+    "RoomID": 400,
+    "Status": "Active",
+    "LastMaintenance": "22-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 311,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 400,
+    "Status": "Active",
+    "LastMaintenance": "02-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 312,
+    "DeviceType": "ECG",
+    "RoomID": 401,
+    "Status": "Inactive",
+    "LastMaintenance": "30-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 313,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 401,
+    "Status": "Inactive",
+    "LastMaintenance": "15-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 314,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "03-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 315,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 402,
+    "Status": "Active",
+    "LastMaintenance": "08-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 316,
+    "DeviceType": "ECG",
+    "RoomID": 402,
+    "Status": "Inactive",
+    "LastMaintenance": "07-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 317,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 402,
+    "Status": "Active",
+    "LastMaintenance": "12-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 318,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "07-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 319,
+    "DeviceType": "ECG",
+    "RoomID": 403,
+    "Status": "Active",
+    "LastMaintenance": "19-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 320,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "05-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 321,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "16-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 322,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "05-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 323,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 404,
+    "Status": "Inactive",
+    "LastMaintenance": "02-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 324,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "30-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 325,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "20-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 326,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "11-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 327,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 406,
+    "Status": "Inactive",
+    "LastMaintenance": "31-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 328,
+    "DeviceType": "ECG",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "20-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 329,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "19-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 330,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 407,
+    "Status": "Active",
+    "LastMaintenance": "15-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 331,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 407,
+    "Status": "Active",
+    "LastMaintenance": "06-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 332,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 407,
+    "Status": "Inactive",
+    "LastMaintenance": "22-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 333,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 408,
+    "Status": "Inactive",
+    "LastMaintenance": "18-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 334,
+    "DeviceType": "ECG",
+    "RoomID": 408,
+    "Status": "Active",
+    "LastMaintenance": "10-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 335,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 408,
+    "Status": "Inactive",
+    "LastMaintenance": "14-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 336,
+    "DeviceType": "ECG",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "04-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 337,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "16-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 338,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "24-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 339,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 501,
+    "Status": "Active",
+    "LastMaintenance": "29-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 340,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "07-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 341,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 501,
+    "Status": "Active",
+    "LastMaintenance": "07-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 342,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 502,
+    "Status": "Active",
+    "LastMaintenance": "09-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 343,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "23-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 344,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 502,
+    "Status": "Active",
+    "LastMaintenance": "24-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 345,
+    "DeviceType": "ECG",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "04-01-2025",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 346,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 503,
+    "Status": "Inactive",
+    "LastMaintenance": "01-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 347,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "07-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 348,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "04-01-2025",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 349,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 504,
+    "Status": "Inactive",
+    "LastMaintenance": "03-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 350,
+    "DeviceType": "ECG",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "02-01-2025",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 351,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 504,
+    "Status": "Inactive",
+    "LastMaintenance": "09-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 352,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "22-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 353,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "22-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 354,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 505,
+    "Status": "Inactive",
+    "LastMaintenance": "25-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 355,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 506,
+    "Status": "Active",
+    "LastMaintenance": "21-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 356,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 506,
+    "Status": "Active",
+    "LastMaintenance": "21-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 357,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 506,
+    "Status": "Inactive",
+    "LastMaintenance": "20-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 358,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 600,
+    "Status": "Inactive",
+    "LastMaintenance": "06-10-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 359,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 600,
+    "Status": "Inactive",
+    "LastMaintenance": "24-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 360,
+    "DeviceType": "ECG",
+    "RoomID": 600,
+    "Status": "Active",
+    "LastMaintenance": "17-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 361,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 600,
+    "Status": "Inactive",
+    "LastMaintenance": "06-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 362,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 601,
+    "Status": "Inactive",
+    "LastMaintenance": "25-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 363,
+    "DeviceType": "ECG",
+    "RoomID": 601,
+    "Status": "Inactive",
+    "LastMaintenance": "17-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 364,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 601,
+    "Status": "Inactive",
+    "LastMaintenance": "28-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 365,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 602,
+    "Status": "Inactive",
+    "LastMaintenance": "15-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 366,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 602,
+    "Status": "Inactive",
+    "LastMaintenance": "07-04-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 367,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 602,
+    "Status": "Active",
+    "LastMaintenance": "12-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 368,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 603,
+    "Status": "Inactive",
+    "LastMaintenance": "11-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 369,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 603,
+    "Status": "Active",
+    "LastMaintenance": "05-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 370,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 603,
+    "Status": "Active",
+    "LastMaintenance": "09-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 371,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 604,
+    "Status": "Active",
+    "LastMaintenance": "22-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 372,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 604,
+    "Status": "Active",
+    "LastMaintenance": "22-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 373,
+    "DeviceType": "ECG",
+    "RoomID": 604,
+    "Status": "Inactive",
+    "LastMaintenance": "24-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 374,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 605,
+    "Status": "Inactive",
+    "LastMaintenance": "03-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 375,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 605,
+    "Status": "Inactive",
+    "LastMaintenance": "08-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 376,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 605,
+    "Status": "Inactive",
+    "LastMaintenance": "16-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 377,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 606,
+    "Status": "Inactive",
+    "LastMaintenance": "04-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 378,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 606,
+    "Status": "Inactive",
+    "LastMaintenance": "12-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 379,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 606,
+    "Status": "Inactive",
+    "LastMaintenance": "26-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 380,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 607,
+    "Status": "Inactive",
+    "LastMaintenance": "15-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 381,
+    "DeviceType": "ECG",
+    "RoomID": 607,
+    "Status": "Active",
+    "LastMaintenance": "21-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 382,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 607,
+    "Status": "Inactive",
+    "LastMaintenance": "30-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 383,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 608,
+    "Status": "Active",
+    "LastMaintenance": "04-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 384,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 608,
+    "Status": "Inactive",
+    "LastMaintenance": "23-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 385,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 608,
+    "Status": "Inactive",
+    "LastMaintenance": "21-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 386,
+    "DeviceType": "ECG",
+    "RoomID": 609,
+    "Status": "Inactive",
+    "LastMaintenance": "13-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 387,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 609,
+    "Status": "Inactive",
+    "LastMaintenance": "24-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 388,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 609,
+    "Status": "Active",
+    "LastMaintenance": "25-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 389,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 700,
+    "Status": "Active",
+    "LastMaintenance": "03-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 390,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 700,
+    "Status": "Inactive",
+    "LastMaintenance": "09-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 391,
+    "DeviceType": "ECG",
+    "RoomID": 700,
+    "Status": "Active",
+    "LastMaintenance": "08-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 392,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 701,
+    "Status": "Active",
+    "LastMaintenance": "15-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 393,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 701,
+    "Status": "Active",
+    "LastMaintenance": "25-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 394,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 701,
+    "Status": "Active",
+    "LastMaintenance": "10-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 395,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 702,
+    "Status": "Inactive",
+    "LastMaintenance": "17-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 396,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 702,
+    "Status": "Inactive",
+    "LastMaintenance": "18-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 397,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 702,
+    "Status": "Inactive",
+    "LastMaintenance": "26-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 398,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 703,
+    "Status": "Inactive",
+    "LastMaintenance": "16-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 399,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 703,
+    "Status": "Inactive",
+    "LastMaintenance": "31-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 400,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 703,
+    "Status": "Active",
+    "LastMaintenance": "28-02-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 401,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 704,
+    "Status": "Inactive",
+    "LastMaintenance": "28-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 402,
+    "DeviceType": "ECG",
+    "RoomID": 704,
+    "Status": "Active",
+    "LastMaintenance": "30-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 403,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 704,
+    "Status": "Active",
+    "LastMaintenance": "11-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 404,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 705,
+    "Status": "Active",
+    "LastMaintenance": "26-11-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 405,
+    "DeviceType": "ECG",
+    "RoomID": 705,
+    "Status": "Inactive",
+    "LastMaintenance": "05-05-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 406,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 705,
+    "Status": "Inactive",
+    "LastMaintenance": "23-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 407,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 706,
+    "Status": "Active",
+    "LastMaintenance": "25-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 408,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 706,
+    "Status": "Inactive",
+    "LastMaintenance": "08-07-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 409,
+    "DeviceType": "ECG",
+    "RoomID": 706,
+    "Status": "Active",
+    "LastMaintenance": "26-03-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 410,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 707,
+    "Status": "Inactive",
+    "LastMaintenance": "02-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 411,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 707,
+    "Status": "Active",
+    "LastMaintenance": "29-06-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 412,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 707,
+    "Status": "Active",
+    "LastMaintenance": "14-08-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 413,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 708,
+    "Status": "Active",
+    "LastMaintenance": "28-12-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 414,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 708,
+    "Status": "Inactive",
+    "LastMaintenance": "26-09-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 415,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 708,
+    "Status": "Inactive",
+    "LastMaintenance": "31-01-2024",
+    "HospitalID": 3,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 416,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 100,
+    "Status": "Inactive",
+    "LastMaintenance": "13-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 417,
+    "DeviceType": "ECG",
+    "RoomID": 100,
+    "Status": "Active",
+    "LastMaintenance": "18-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 418,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 100,
+    "Status": "Active",
+    "LastMaintenance": "03-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 419,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "25-01-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 420,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "28-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 421,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "16-01-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 422,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 102,
+    "Status": "Active",
+    "LastMaintenance": "26-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 423,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 102,
+    "Status": "Active",
+    "LastMaintenance": "01-04-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 424,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "31-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 425,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 103,
+    "Status": "Active",
+    "LastMaintenance": "11-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 426,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "15-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 427,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "09-11-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 428,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 104,
+    "Status": "Inactive",
+    "LastMaintenance": "27-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 429,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 104,
+    "Status": "Inactive",
+    "LastMaintenance": "09-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 430,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 104,
+    "Status": "Inactive",
+    "LastMaintenance": "25-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 431,
+    "DeviceType": "ECG",
+    "RoomID": 105,
+    "Status": "Inactive",
+    "LastMaintenance": "24-01-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 432,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 105,
+    "Status": "Active",
+    "LastMaintenance": "13-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 433,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 105,
+    "Status": "Inactive",
+    "LastMaintenance": "25-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 434,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 106,
+    "Status": "Active",
+    "LastMaintenance": "17-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 435,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 106,
+    "Status": "Active",
+    "LastMaintenance": "26-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 436,
+    "DeviceType": "ECG",
+    "RoomID": 106,
+    "Status": "Active",
+    "LastMaintenance": "31-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 437,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 107,
+    "Status": "Active",
+    "LastMaintenance": "17-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 438,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 107,
+    "Status": "Active",
+    "LastMaintenance": "04-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 439,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 107,
+    "Status": "Active",
+    "LastMaintenance": "26-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 440,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 200,
+    "Status": "Inactive",
+    "LastMaintenance": "29-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 441,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 200,
+    "Status": "Active",
+    "LastMaintenance": "01-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 442,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 200,
+    "Status": "Active",
+    "LastMaintenance": "22-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 443,
+    "DeviceType": "ECG",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "31-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 444,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "21-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 445,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "22-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 446,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 202,
+    "Status": "Inactive",
+    "LastMaintenance": "29-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 447,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "07-11-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 448,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "28-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 449,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 203,
+    "Status": "Active",
+    "LastMaintenance": "09-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 450,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "16-01-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 451,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 203,
+    "Status": "Active",
+    "LastMaintenance": "13-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 452,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "24-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 453,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 204,
+    "Status": "Inactive",
+    "LastMaintenance": "09-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 454,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "15-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 455,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "06-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 456,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "09-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 457,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 205,
+    "Status": "Inactive",
+    "LastMaintenance": "23-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 458,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "14-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 459,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "20-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 460,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "07-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 461,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "01-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 462,
+    "DeviceType": "ECG",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "04-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 463,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "15-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 464,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "08-04-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 465,
+    "DeviceType": "ECG",
+    "RoomID": 302,
+    "Status": "Inactive",
+    "LastMaintenance": "08-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 466,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 302,
+    "Status": "Inactive",
+    "LastMaintenance": "10-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 467,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "06-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 468,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "02-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 469,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 303,
+    "Status": "Inactive",
+    "LastMaintenance": "15-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 470,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "12-11-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 471,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "22-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 472,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 304,
+    "Status": "Inactive",
+    "LastMaintenance": "27-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 473,
+    "DeviceType": "ECG",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "10-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 474,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 305,
+    "Status": "Active",
+    "LastMaintenance": "23-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 475,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "11-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 476,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 306,
+    "Status": "Inactive",
+    "LastMaintenance": "24-04-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 477,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 306,
+    "Status": "Inactive",
+    "LastMaintenance": "23-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 478,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 306,
+    "Status": "Inactive",
+    "LastMaintenance": "24-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 479,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 400,
+    "Status": "Inactive",
+    "LastMaintenance": "26-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 480,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 400,
+    "Status": "Inactive",
+    "LastMaintenance": "05-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 481,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 400,
+    "Status": "Active",
+    "LastMaintenance": "11-04-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 482,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "03-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 483,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 401,
+    "Status": "Inactive",
+    "LastMaintenance": "17-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 484,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "03-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 485,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 402,
+    "Status": "Inactive",
+    "LastMaintenance": "08-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 486,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 402,
+    "Status": "Active",
+    "LastMaintenance": "16-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 487,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 402,
+    "Status": "Active",
+    "LastMaintenance": "18-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 488,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 403,
+    "Status": "Active",
+    "LastMaintenance": "01-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 489,
+    "DeviceType": "ECG",
+    "RoomID": 403,
+    "Status": "Active",
+    "LastMaintenance": "26-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 490,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "30-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 491,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "24-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 492,
+    "DeviceType": "ECG",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "26-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 493,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 404,
+    "Status": "Active",
+    "LastMaintenance": "24-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 494,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "29-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 495,
+    "DeviceType": "ECG",
+    "RoomID": 500,
+    "Status": "Inactive",
+    "LastMaintenance": "27-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 496,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "15-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 497,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "08-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 498,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "24-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 499,
+    "DeviceType": "ECG",
+    "RoomID": 501,
+    "Status": "Active",
+    "LastMaintenance": "14-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 500,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "08-01-2025",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 501,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "13-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 502,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 502,
+    "Status": "Active",
+    "LastMaintenance": "11-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 503,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 502,
+    "Status": "Active",
+    "LastMaintenance": "14-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 504,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 503,
+    "Status": "Inactive",
+    "LastMaintenance": "17-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 505,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "27-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 506,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "10-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 507,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 504,
+    "Status": "Inactive",
+    "LastMaintenance": "27-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 508,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 504,
+    "Status": "Inactive",
+    "LastMaintenance": "02-04-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 509,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "16-01-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 510,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 505,
+    "Status": "Inactive",
+    "LastMaintenance": "10-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 511,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "17-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 512,
+    "DeviceType": "ECG",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "14-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 513,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 506,
+    "Status": "Active",
+    "LastMaintenance": "16-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 514,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 506,
+    "Status": "Inactive",
+    "LastMaintenance": "16-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 515,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 506,
+    "Status": "Inactive",
+    "LastMaintenance": "12-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 516,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 600,
+    "Status": "Inactive",
+    "LastMaintenance": "03-04-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 517,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 600,
+    "Status": "Active",
+    "LastMaintenance": "02-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 518,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 600,
+    "Status": "Inactive",
+    "LastMaintenance": "18-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 519,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 601,
+    "Status": "Inactive",
+    "LastMaintenance": "25-11-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 520,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 601,
+    "Status": "Active",
+    "LastMaintenance": "16-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 521,
+    "DeviceType": "ECG",
+    "RoomID": 601,
+    "Status": "Inactive",
+    "LastMaintenance": "19-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 522,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 602,
+    "Status": "Inactive",
+    "LastMaintenance": "12-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 523,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 602,
+    "Status": "Active",
+    "LastMaintenance": "01-04-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 524,
+    "DeviceType": "ECG",
+    "RoomID": 602,
+    "Status": "Active",
+    "LastMaintenance": "19-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 525,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 603,
+    "Status": "Active",
+    "LastMaintenance": "06-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 526,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 603,
+    "Status": "Active",
+    "LastMaintenance": "10-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 527,
+    "DeviceType": "ECG",
+    "RoomID": 603,
+    "Status": "Inactive",
+    "LastMaintenance": "11-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 528,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 603,
+    "Status": "Active",
+    "LastMaintenance": "26-11-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 529,
+    "DeviceType": "ECG",
+    "RoomID": 604,
+    "Status": "Inactive",
+    "LastMaintenance": "02-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 530,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 604,
+    "Status": "Inactive",
+    "LastMaintenance": "19-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 531,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 604,
+    "Status": "Active",
+    "LastMaintenance": "01-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 532,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 605,
+    "Status": "Active",
+    "LastMaintenance": "09-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 533,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 605,
+    "Status": "Active",
+    "LastMaintenance": "30-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 534,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 605,
+    "Status": "Active",
+    "LastMaintenance": "13-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 535,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 606,
+    "Status": "Active",
+    "LastMaintenance": "01-01-2025",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 536,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 606,
+    "Status": "Inactive",
+    "LastMaintenance": "05-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 537,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 606,
+    "Status": "Inactive",
+    "LastMaintenance": "16-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 538,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 700,
+    "Status": "Inactive",
+    "LastMaintenance": "18-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 539,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 700,
+    "Status": "Inactive",
+    "LastMaintenance": "29-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 540,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 700,
+    "Status": "Active",
+    "LastMaintenance": "18-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 541,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 701,
+    "Status": "Active",
+    "LastMaintenance": "27-04-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 542,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 701,
+    "Status": "Active",
+    "LastMaintenance": "03-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 543,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 701,
+    "Status": "Active",
+    "LastMaintenance": "18-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 544,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 702,
+    "Status": "Inactive",
+    "LastMaintenance": "13-09-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 545,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 702,
+    "Status": "Inactive",
+    "LastMaintenance": "13-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 546,
+    "DeviceType": "ECG",
+    "RoomID": 702,
+    "Status": "Active",
+    "LastMaintenance": "25-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 547,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 703,
+    "Status": "Active",
+    "LastMaintenance": "21-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 548,
+    "DeviceType": "ECG",
+    "RoomID": 703,
+    "Status": "Active",
+    "LastMaintenance": "17-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 549,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 703,
+    "Status": "Inactive",
+    "LastMaintenance": "06-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 550,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 704,
+    "Status": "Inactive",
+    "LastMaintenance": "02-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 551,
+    "DeviceType": "ECG",
+    "RoomID": 704,
+    "Status": "Inactive",
+    "LastMaintenance": "14-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 552,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 704,
+    "Status": "Active",
+    "LastMaintenance": "27-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 553,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 705,
+    "Status": "Active",
+    "LastMaintenance": "08-05-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 554,
+    "DeviceType": "ECG",
+    "RoomID": 705,
+    "Status": "Active",
+    "LastMaintenance": "17-02-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 555,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 705,
+    "Status": "Active",
+    "LastMaintenance": "24-01-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 556,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 706,
+    "Status": "Active",
+    "LastMaintenance": "13-10-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 557,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 706,
+    "Status": "Inactive",
+    "LastMaintenance": "23-08-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 558,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 706,
+    "Status": "Active",
+    "LastMaintenance": "19-07-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 559,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 707,
+    "Status": "Active",
+    "LastMaintenance": "14-03-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 560,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 707,
+    "Status": "Inactive",
+    "LastMaintenance": "15-12-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 561,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 707,
+    "Status": "Active",
+    "LastMaintenance": "01-01-2025",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 562,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 708,
+    "Status": "Active",
+    "LastMaintenance": "10-11-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 563,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 708,
+    "Status": "Active",
+    "LastMaintenance": "18-11-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 564,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 708,
+    "Status": "Inactive",
+    "LastMaintenance": "26-06-2024",
+    "HospitalID": 4,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 565,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 100,
+    "Status": "Inactive",
+    "LastMaintenance": "15-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 566,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 100,
+    "Status": "Inactive",
+    "LastMaintenance": "16-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 567,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 100,
+    "Status": "Active",
+    "LastMaintenance": "08-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 568,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "21-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 569,
+    "DeviceType": "ECG",
+    "RoomID": 101,
+    "Status": "Inactive",
+    "LastMaintenance": "26-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 570,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 101,
+    "Status": "Active",
+    "LastMaintenance": "12-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 571,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 102,
+    "Status": "Active",
+    "LastMaintenance": "19-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 572,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 102,
+    "Status": "Inactive",
+    "LastMaintenance": "27-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 573,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 102,
+    "Status": "Active",
+    "LastMaintenance": "23-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 574,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "14-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 575,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "17-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 576,
+    "DeviceType": "ECG",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "18-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 577,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 103,
+    "Status": "Inactive",
+    "LastMaintenance": "10-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 578,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 104,
+    "Status": "Active",
+    "LastMaintenance": "13-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 579,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 104,
+    "Status": "Active",
+    "LastMaintenance": "15-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 580,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 104,
+    "Status": "Inactive",
+    "LastMaintenance": "03-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 581,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 200,
+    "Status": "Inactive",
+    "LastMaintenance": "18-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 582,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 200,
+    "Status": "Inactive",
+    "LastMaintenance": "25-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 583,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 200,
+    "Status": "Active",
+    "LastMaintenance": "01-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 584,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "09-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 585,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 201,
+    "Status": "Active",
+    "LastMaintenance": "06-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 586,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 201,
+    "Status": "Inactive",
+    "LastMaintenance": "05-06-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 587,
+    "DeviceType": "ECG",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "25-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 588,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 202,
+    "Status": "Active",
+    "LastMaintenance": "05-01-2025",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 589,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 202,
+    "Status": "Inactive",
+    "LastMaintenance": "23-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 590,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 203,
+    "Status": "Active",
+    "LastMaintenance": "14-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 591,
+    "DeviceType": "ECG",
+    "RoomID": 203,
+    "Status": "Active",
+    "LastMaintenance": "08-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 592,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 203,
+    "Status": "Inactive",
+    "LastMaintenance": "28-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 593,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 204,
+    "Status": "Inactive",
+    "LastMaintenance": "11-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 594,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 204,
+    "Status": "Inactive",
+    "LastMaintenance": "24-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 595,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 204,
+    "Status": "Active",
+    "LastMaintenance": "07-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 596,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 205,
+    "Status": "Active",
+    "LastMaintenance": "21-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 597,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 205,
+    "Status": "Active",
+    "LastMaintenance": "15-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 598,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 205,
+    "Status": "Active",
+    "LastMaintenance": "26-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 599,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 300,
+    "Status": "Inactive",
+    "LastMaintenance": "22-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 600,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 300,
+    "Status": "Inactive",
+    "LastMaintenance": "12-06-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 601,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 300,
+    "Status": "Active",
+    "LastMaintenance": "22-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 602,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 301,
+    "Status": "Active",
+    "LastMaintenance": "20-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 603,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 301,
+    "Status": "Inactive",
+    "LastMaintenance": "23-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 604,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 301,
+    "Status": "Inactive",
+    "LastMaintenance": "28-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 605,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 302,
+    "Status": "Inactive",
+    "LastMaintenance": "26-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 606,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "11-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 607,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 302,
+    "Status": "Active",
+    "LastMaintenance": "07-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 608,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 303,
+    "Status": "Inactive",
+    "LastMaintenance": "08-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 609,
+    "DeviceType": "ECG",
+    "RoomID": 303,
+    "Status": "Active",
+    "LastMaintenance": "28-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 610,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 303,
+    "Status": "Inactive",
+    "LastMaintenance": "20-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 611,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 304,
+    "Status": "Active",
+    "LastMaintenance": "30-06-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 612,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 304,
+    "Status": "Inactive",
+    "LastMaintenance": "21-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 613,
+    "DeviceType": "ECG",
+    "RoomID": 304,
+    "Status": "Inactive",
+    "LastMaintenance": "05-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 614,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 305,
+    "Status": "Active",
+    "LastMaintenance": "10-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 615,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "26-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 616,
+    "DeviceType": "ECG",
+    "RoomID": 305,
+    "Status": "Inactive",
+    "LastMaintenance": "18-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 617,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 305,
+    "Status": "Active",
+    "LastMaintenance": "29-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 618,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 306,
+    "Status": "Active",
+    "LastMaintenance": "23-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 619,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 306,
+    "Status": "Active",
+    "LastMaintenance": "28-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 620,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 306,
+    "Status": "Inactive",
+    "LastMaintenance": "07-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 621,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 400,
+    "Status": "Inactive",
+    "LastMaintenance": "31-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 622,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 400,
+    "Status": "Inactive",
+    "LastMaintenance": "26-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 623,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 400,
+    "Status": "Inactive",
+    "LastMaintenance": "23-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 624,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "20-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 625,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 401,
+    "Status": "Inactive",
+    "LastMaintenance": "23-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 626,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 401,
+    "Status": "Active",
+    "LastMaintenance": "17-06-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 627,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 402,
+    "Status": "Inactive",
+    "LastMaintenance": "28-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 628,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 402,
+    "Status": "Inactive",
+    "LastMaintenance": "26-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 629,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 402,
+    "Status": "Inactive",
+    "LastMaintenance": "27-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 630,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 403,
+    "Status": "Inactive",
+    "LastMaintenance": "11-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 631,
+    "DeviceType": "ECG",
+    "RoomID": 403,
+    "Status": "Active",
+    "LastMaintenance": "20-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 632,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 403,
+    "Status": "Active",
+    "LastMaintenance": "22-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 633,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 404,
+    "Status": "Inactive",
+    "LastMaintenance": "06-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 634,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 404,
+    "Status": "Inactive",
+    "LastMaintenance": "06-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 635,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 404,
+    "Status": "Inactive",
+    "LastMaintenance": "10-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 636,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "06-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 637,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 405,
+    "Status": "Inactive",
+    "LastMaintenance": "24-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 638,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 405,
+    "Status": "Active",
+    "LastMaintenance": "07-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 639,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "11-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 640,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "06-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 641,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 406,
+    "Status": "Active",
+    "LastMaintenance": "24-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 642,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 407,
+    "Status": "Inactive",
+    "LastMaintenance": "18-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 643,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 407,
+    "Status": "Inactive",
+    "LastMaintenance": "19-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 644,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 407,
+    "Status": "Inactive",
+    "LastMaintenance": "27-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 645,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 500,
+    "Status": "Inactive",
+    "LastMaintenance": "05-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 646,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 500,
+    "Status": "Active",
+    "LastMaintenance": "23-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 647,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 500,
+    "Status": "Inactive",
+    "LastMaintenance": "23-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 648,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 501,
+    "Status": "Active",
+    "LastMaintenance": "07-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 649,
+    "DeviceType": "ECG",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "05-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 650,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 501,
+    "Status": "Inactive",
+    "LastMaintenance": "01-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 651,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "13-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 652,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 502,
+    "Status": "Inactive",
+    "LastMaintenance": "13-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 653,
+    "DeviceType": "ECG",
+    "RoomID": 502,
+    "Status": "Active",
+    "LastMaintenance": "06-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 654,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "21-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 655,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "11-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 656,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 503,
+    "Status": "Active",
+    "LastMaintenance": "30-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 657,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 504,
+    "Status": "Active",
+    "LastMaintenance": "20-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 658,
+    "DeviceType": "ECG",
+    "RoomID": 504,
+    "Status": "Inactive",
+    "LastMaintenance": "30-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 659,
+    "DeviceType": "ECG Rhythm Sensor",
+    "RoomID": 504,
+    "Status": "Inactive",
+    "LastMaintenance": "09-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 660,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "06-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 661,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 505,
+    "Status": "Inactive",
+    "LastMaintenance": "08-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 662,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 505,
+    "Status": "Active",
+    "LastMaintenance": "03-06-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 663,
+    "DeviceType": "Heart Rate Monitor",
+    "RoomID": 506,
+    "Status": "Active",
+    "LastMaintenance": "12-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 664,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 506,
+    "Status": "Inactive",
+    "LastMaintenance": "22-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 665,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 506,
+    "Status": "Active",
+    "LastMaintenance": "04-06-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 666,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 507,
+    "Status": "Active",
+    "LastMaintenance": "13-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 667,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 507,
+    "Status": "Active",
+    "LastMaintenance": "23-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 668,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 507,
+    "Status": "Inactive",
+    "LastMaintenance": "13-06-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 669,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 508,
+    "Status": "Inactive",
+    "LastMaintenance": "05-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 670,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 508,
+    "Status": "Inactive",
+    "LastMaintenance": "18-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 671,
+    "DeviceType": "ECG",
+    "RoomID": 508,
+    "Status": "Inactive",
+    "LastMaintenance": "01-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 672,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 600,
+    "Status": "Active",
+    "LastMaintenance": "16-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 673,
+    "DeviceType": "ECG",
+    "RoomID": 600,
+    "Status": "Inactive",
+    "LastMaintenance": "08-11-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 674,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 600,
+    "Status": "Inactive",
+    "LastMaintenance": "19-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 675,
+    "DeviceType": "ECG",
+    "RoomID": 601,
+    "Status": "Active",
+    "LastMaintenance": "18-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 676,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 601,
+    "Status": "Active",
+    "LastMaintenance": "11-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 677,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 601,
+    "Status": "Active",
+    "LastMaintenance": "25-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 678,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 602,
+    "Status": "Active",
+    "LastMaintenance": "08-01-2025",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 679,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 602,
+    "Status": "Active",
+    "LastMaintenance": "03-01-2025",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 680,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 602,
+    "Status": "Active",
+    "LastMaintenance": "06-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 681,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 603,
+    "Status": "Active",
+    "LastMaintenance": "06-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 682,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 603,
+    "Status": "Active",
+    "LastMaintenance": "13-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 683,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 603,
+    "Status": "Inactive",
+    "LastMaintenance": "17-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 684,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 604,
+    "Status": "Active",
+    "LastMaintenance": "22-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 685,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 604,
+    "Status": "Inactive",
+    "LastMaintenance": "25-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 686,
+    "DeviceType": "ECG",
+    "RoomID": 604,
+    "Status": "Active",
+    "LastMaintenance": "05-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 687,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 605,
+    "Status": "Inactive",
+    "LastMaintenance": "23-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 688,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 605,
+    "Status": "Inactive",
+    "LastMaintenance": "18-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 689,
+    "DeviceType": "ECG",
+    "RoomID": 605,
+    "Status": "Inactive",
+    "LastMaintenance": "01-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 690,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 606,
+    "Status": "Inactive",
+    "LastMaintenance": "21-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 691,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 606,
+    "Status": "Inactive",
+    "LastMaintenance": "14-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 692,
+    "DeviceType": "ECG",
+    "RoomID": 606,
+    "Status": "Inactive",
+    "LastMaintenance": "11-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 693,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 607,
+    "Status": "Active",
+    "LastMaintenance": "10-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 694,
+    "DeviceType": "ECG",
+    "RoomID": 607,
+    "Status": "Active",
+    "LastMaintenance": "14-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 695,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 607,
+    "Status": "Inactive",
+    "LastMaintenance": "30-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 696,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 608,
+    "Status": "Inactive",
+    "LastMaintenance": "20-09-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 697,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 608,
+    "Status": "Inactive",
+    "LastMaintenance": "09-01-2025",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 698,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 608,
+    "Status": "Active",
+    "LastMaintenance": "29-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 699,
+    "DeviceType": "Weight Sensor",
+    "RoomID": 700,
+    "Status": "Inactive",
+    "LastMaintenance": "08-08-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 700,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 700,
+    "Status": "Inactive",
+    "LastMaintenance": "03-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 701,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 700,
+    "Status": "Active",
+    "LastMaintenance": "08-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 702,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 701,
+    "Status": "Inactive",
+    "LastMaintenance": "06-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 703,
+    "DeviceType": "ECG",
+    "RoomID": 701,
+    "Status": "Active",
+    "LastMaintenance": "21-01-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 704,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 701,
+    "Status": "Active",
+    "LastMaintenance": "08-02-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 705,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 702,
+    "Status": "Active",
+    "LastMaintenance": "07-10-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 706,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 702,
+    "Status": "Inactive",
+    "LastMaintenance": "25-05-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 707,
+    "DeviceType": "Temperature Sensor",
+    "RoomID": 702,
+    "Status": "Inactive",
+    "LastMaintenance": "04-04-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 708,
+    "DeviceType": "Oxygen Monitor",
+    "RoomID": 703,
+    "Status": "Inactive",
+    "LastMaintenance": "29-07-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 709,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 703,
+    "Status": "Active",
+    "LastMaintenance": "09-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 710,
+    "DeviceType": "Pulse Oximeter",
+    "RoomID": 703,
+    "Status": "Inactive",
+    "LastMaintenance": "09-03-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 711,
+    "DeviceType": "Blood Pressure Sensor",
+    "RoomID": 704,
+    "Status": "Inactive",
+    "LastMaintenance": "28-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 712,
+    "DeviceType": "ECG",
+    "RoomID": 704,
+    "Status": "Active",
+    "LastMaintenance": "29-12-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  },
+  {
+    "Id": 713,
+    "DeviceType": "Glucose Monitor",
+    "RoomID": 704,
+    "Status": "Inactive",
+    "LastMaintenance": "13-06-2024",
+    "HospitalID": 5,
+    "CreatedDate": "16-01-2025 11:25",
+    "UpdatedDate": "16-01-2025 11:25"
+  }
+]
