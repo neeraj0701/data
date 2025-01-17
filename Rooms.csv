@@ -1,4 +1,4 @@
-Id,RoomID,RoomType,Floor,Capacity,HospitalID,CreatedDate,UpdatedDate
+ID,RoomID,RoomType,Floor,Capacity,Hospital,CreatedDate,UpdatedDate
 1,100,Emergency Room,1,1,1,16-01-2025 11:22,16-01-2025 11:22
 2,101,Isolation Room,1,1,1,16-01-2025 11:22,16-01-2025 11:22
 3,102,Emergency Room,1,1,1,16-01-2025 11:22,16-01-2025 11:22
