@@ -1,4 +1,4 @@
-ID,StaffID,FirstName,LastName,Role,PhoneNumber,Email,HospitalID,CreatedDate,CreatedDate
+ID,StaffID,FirstName,LastName,Role,PhoneNumber,Email,HospitalID,CreatedDate,UpdatedDate
 1,1,Chad,Hall,Administrator,001-889-468-5958x6345,zbaker@example.com,1,16-01-2025 11:22,16-01-2025 11:22
 2,2,Carrie,Keith,Administrator,(548)415-4031x0028,ddavis@example.com,1,16-01-2025 11:22,16-01-2025 11:22
 3,3,Brian,Miller,Doctor,+1-843-622-6800x4444,istout@example.net,1,16-01-2025 11:22,16-01-2025 11:22
