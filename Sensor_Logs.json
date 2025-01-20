@@ -16958,5 +16958,245 @@
         "DataType": "Temperature Sensor",
         "Value": 35.6,
         "Timestamp": "20-01-2025 15:23:24"
+    },
+    {
+        "ID": 2121,
+        "PatientID": 337,
+        "DeviceID": 377,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2122,
+        "PatientID": 718,
+        "DeviceID": 171,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2123,
+        "PatientID": 418,
+        "DeviceID": 381,
+        "DataType": "Temperature Sensor",
+        "Value": 38.2,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2124,
+        "PatientID": 66,
+        "DeviceID": 110,
+        "DataType": "ECG Rhythm Sensor",
+        "Value": "Irregular",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2125,
+        "PatientID": 511,
+        "DeviceID": 269,
+        "DataType": "ECG",
+        "Value": "Abnormal",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2126,
+        "PatientID": 235,
+        "DeviceID": 377,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2127,
+        "PatientID": 474,
+        "DeviceID": 69,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2128,
+        "PatientID": 672,
+        "DeviceID": 67,
+        "DataType": "ECG",
+        "Value": "Abnormal",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2129,
+        "PatientID": 600,
+        "DeviceID": 381,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2130,
+        "PatientID": 399,
+        "DeviceID": 110,
+        "DataType": "Heart Rate Monitor",
+        "Value": 104,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2131,
+        "PatientID": 802,
+        "DeviceID": 160,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2132,
+        "PatientID": 650,
+        "DeviceID": 69,
+        "DataType": "ECG Rhythm Sensor",
+        "Value": "Irregular",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2133,
+        "PatientID": 734,
+        "DeviceID": 171,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2134,
+        "PatientID": 45,
+        "DeviceID": 381,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2135,
+        "PatientID": 230,
+        "DeviceID": 377,
+        "DataType": "Temperature Sensor",
+        "Value": 38.2,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2136,
+        "PatientID": 526,
+        "DeviceID": 438,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2137,
+        "PatientID": 199,
+        "DeviceID": 160,
+        "DataType": "Temperature Sensor",
+        "Value": 38.2,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2138,
+        "PatientID": 65,
+        "DeviceID": 377,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2139,
+        "PatientID": 232,
+        "DeviceID": 377,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2140,
+        "PatientID": 357,
+        "DeviceID": 269,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2141,
+        "PatientID": 357,
+        "DeviceID": 69,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2142,
+        "PatientID": 650,
+        "DeviceID": 381,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2143,
+        "PatientID": 66,
+        "DeviceID": 381,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2144,
+        "PatientID": 600,
+        "DeviceID": 67,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2145,
+        "PatientID": 526,
+        "DeviceID": 69,
+        "DataType": "Temperature Sensor",
+        "Value": 38.2,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2146,
+        "PatientID": 718,
+        "DeviceID": 171,
+        "DataType": "Blood Pressure Sensor",
+        "Value": "134/99",
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2147,
+        "PatientID": 399,
+        "DeviceID": 438,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2148,
+        "PatientID": 718,
+        "DeviceID": 69,
+        "DataType": "Oxygen Monitor",
+        "Value": 91.9,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2149,
+        "PatientID": 718,
+        "DeviceID": 171,
+        "DataType": "Temperature Sensor",
+        "Value": 38.2,
+        "Timestamp": "20-01-2025 17:43:01"
+    },
+    {
+        "ID": 2150,
+        "PatientID": 418,
+        "DeviceID": 269,
+        "DataType": "ECG Rhythm Sensor",
+        "Value": "Irregular",
+        "Timestamp": "20-01-2025 17:43:01"
     }
 ]
