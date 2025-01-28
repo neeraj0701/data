@@ -1,6 +1,6 @@
 [
   {
-    "Id": "1398886a-d351-4f83-87fb-f348ed7562d4",
+    "ID": "1398886a-d351-4f83-87fb-f348ed7562d4",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "27-06-2024",
@@ -9,7 +9,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2be3d036-bd6b-444f-b274-98cccd10cf89",
+    "ID": "2be3d036-bd6b-444f-b274-98cccd10cf89",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-01-2025",
@@ -18,7 +18,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9d72996b-5b28-4eb3-864a-8e8179d3799f",
+    "ID": "9d72996b-5b28-4eb3-864a-8e8179d3799f",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "15-08-2024",
@@ -27,7 +27,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f167346e-af63-4bcb-9a25-d4e1ceb4fd1e",
+    "ID": "f167346e-af63-4bcb-9a25-d4e1ceb4fd1e",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "29-10-2024",
@@ -36,7 +36,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9263cdce-46fc-40c7-b8f8-c0c3df7d1c17",
+    "ID": "9263cdce-46fc-40c7-b8f8-c0c3df7d1c17",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-09-2024",
@@ -45,7 +45,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5450e3c3-652c-447b-a549-a8933d73b4da",
+    "ID": "5450e3c3-652c-447b-a549-a8933d73b4da",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "16-03-2024",
@@ -54,7 +54,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d95c25de-7b53-477c-bfb2-3a6238da82f4",
+    "ID": "d95c25de-7b53-477c-bfb2-3a6238da82f4",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "30-06-2024",
@@ -63,7 +63,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5a5ce8ec-8d0a-42ae-8c28-7a4f6c9e011a",
+    "ID": "5a5ce8ec-8d0a-42ae-8c28-7a4f6c9e011a",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "31-05-2024",
@@ -72,7 +72,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c2d7df63-49c4-4ce6-bdd5-190a78d3eff9",
+    "ID": "c2d7df63-49c4-4ce6-bdd5-190a78d3eff9",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "11-03-2024",
@@ -81,7 +81,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "741e9454-aa1c-4f91-97f0-b93dc1e90686",
+    "ID": "741e9454-aa1c-4f91-97f0-b93dc1e90686",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "30-04-2024",
@@ -90,7 +90,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "745df577-074c-4588-b246-026d3cfc54d7",
+    "ID": "745df577-074c-4588-b246-026d3cfc54d7",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "07-09-2024",
@@ -99,7 +99,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "165ac9c6-2b6c-4285-99a3-15f7a5cd2d11",
+    "ID": "165ac9c6-2b6c-4285-99a3-15f7a5cd2d11",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "08-09-2024",
@@ -108,7 +108,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f7155819-7620-4221-b120-84e24bc94e30",
+    "ID": "f7155819-7620-4221-b120-84e24bc94e30",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "16-05-2024",
@@ -117,7 +117,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f54b1da3-835a-480e-9f57-3d318fe824b5",
+    "ID": "f54b1da3-835a-480e-9f57-3d318fe824b5",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "02-12-2024",
@@ -126,7 +126,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e0a83b61-604d-4fcb-9b7b-9a6bb66a7544",
+    "ID": "e0a83b61-604d-4fcb-9b7b-9a6bb66a7544",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "29-03-2024",
@@ -135,7 +135,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d4f9a36b-9c73-4a9c-b544-941fb12de20f",
+    "ID": "d4f9a36b-9c73-4a9c-b544-941fb12de20f",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "20-07-2024",
@@ -144,7 +144,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cd0f92ce-a6ea-4432-a727-98959cd38c80",
+    "ID": "cd0f92ce-a6ea-4432-a727-98959cd38c80",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "10-09-2024",
@@ -153,7 +153,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "867faa77-3f0b-490c-a17b-565c67ec862f",
+    "ID": "867faa77-3f0b-490c-a17b-565c67ec862f",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "27-08-2024",
@@ -162,7 +162,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b2df58c0-9660-4d32-91cf-9dff65b4f45d",
+    "ID": "b2df58c0-9660-4d32-91cf-9dff65b4f45d",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "23-04-2024",
@@ -171,7 +171,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a8e87680-c083-42fe-aa98-d00c8e12b2a3",
+    "ID": "a8e87680-c083-42fe-aa98-d00c8e12b2a3",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "30-09-2024",
@@ -180,7 +180,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "71e2a961-370b-4c3a-8430-1596d5ba85ac",
+    "ID": "71e2a961-370b-4c3a-8430-1596d5ba85ac",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "22-02-2024",
@@ -189,7 +189,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f8bd4ca3-9fb0-44c2-9bef-4218923f3d13",
+    "ID": "f8bd4ca3-9fb0-44c2-9bef-4218923f3d13",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "17-02-2024",
@@ -198,7 +198,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "baae1daa-9dc3-4a30-a6b4-16f340a4c0f0",
+    "ID": "baae1daa-9dc3-4a30-a6b4-16f340a4c0f0",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "23-04-2024",
@@ -207,7 +207,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5c6df2da-5524-453a-95be-f34a4eeae265",
+    "ID": "5c6df2da-5524-453a-95be-f34a4eeae265",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "27-10-2024",
@@ -216,7 +216,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b83cbe52-3393-4cb3-b5d9-e9588be685c0",
+    "ID": "b83cbe52-3393-4cb3-b5d9-e9588be685c0",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "28-12-2024",
@@ -225,7 +225,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "114ee61e-d7c8-407e-9334-e8c59b8e3d75",
+    "ID": "114ee61e-d7c8-407e-9334-e8c59b8e3d75",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "15-03-2024",
@@ -234,7 +234,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "515fe8a1-99cf-455d-8ef2-2c98482e1a67",
+    "ID": "515fe8a1-99cf-455d-8ef2-2c98482e1a67",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "04-07-2024",
@@ -243,7 +243,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ce2b3701-03c9-4361-bafb-0a088efdd418",
+    "ID": "ce2b3701-03c9-4361-bafb-0a088efdd418",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "20-11-2024",
@@ -252,7 +252,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "586e7a81-4f43-47d9-9277-b46b7f329186",
+    "ID": "586e7a81-4f43-47d9-9277-b46b7f329186",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-11-2024",
@@ -261,7 +261,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "79fe6c12-d21e-4e7d-a893-4806cfdbeb1e",
+    "ID": "79fe6c12-d21e-4e7d-a893-4806cfdbeb1e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "16-08-2024",
@@ -270,7 +270,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d7e5402d-f936-4268-8aae-6c7a6592ebee",
+    "ID": "d7e5402d-f936-4268-8aae-6c7a6592ebee",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "24-01-2024",
@@ -279,7 +279,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f941e6f3-b13f-4c60-855c-09dd33866e44",
+    "ID": "f941e6f3-b13f-4c60-855c-09dd33866e44",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "18-07-2024",
@@ -288,7 +288,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f232119d-d6b9-4a0c-8c3e-5bb9f8fb58f1",
+    "ID": "f232119d-d6b9-4a0c-8c3e-5bb9f8fb58f1",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "13-11-2024",
@@ -297,7 +297,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2b058afe-67ff-4cbf-8d40-ab9e82347fa0",
+    "ID": "2b058afe-67ff-4cbf-8d40-ab9e82347fa0",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "09-06-2024",
@@ -306,7 +306,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c312fbdf-0c78-43a4-a000-3b58988858a8",
+    "ID": "c312fbdf-0c78-43a4-a000-3b58988858a8",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "28-02-2024",
@@ -315,7 +315,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1853eab5-63b3-4760-81a5-3cb3f4f6dc8e",
+    "ID": "1853eab5-63b3-4760-81a5-3cb3f4f6dc8e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "20-04-2024",
@@ -324,7 +324,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d1e613b3-3915-46da-bcb1-d0fd4b7615ba",
+    "ID": "d1e613b3-3915-46da-bcb1-d0fd4b7615ba",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "10-07-2024",
@@ -333,7 +333,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d498d27c-ef30-4f55-ad43-8dcda5824bf1",
+    "ID": "d498d27c-ef30-4f55-ad43-8dcda5824bf1",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "15-11-2024",
@@ -342,7 +342,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e1451613-c374-4dc0-9673-4c605f085cbf",
+    "ID": "e1451613-c374-4dc0-9673-4c605f085cbf",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "13-11-2024",
@@ -351,7 +351,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "90c98074-943f-4004-b42c-5761368a4fbd",
+    "ID": "90c98074-943f-4004-b42c-5761368a4fbd",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "28-05-2024",
@@ -360,7 +360,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ece2b723-de9b-4327-b929-b14ac61617f5",
+    "ID": "ece2b723-de9b-4327-b929-b14ac61617f5",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "05-02-2024",
@@ -369,7 +369,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "aac52439-dd09-43d7-a276-207519c7d6ca",
+    "ID": "aac52439-dd09-43d7-a276-207519c7d6ca",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "24-11-2024",
@@ -378,7 +378,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6098685b-1b40-47dc-a6e5-1f3d9216ef86",
+    "ID": "6098685b-1b40-47dc-a6e5-1f3d9216ef86",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "06-06-2024",
@@ -387,7 +387,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1c0dd9bd-dc20-4efb-bdff-b6090a55d318",
+    "ID": "1c0dd9bd-dc20-4efb-bdff-b6090a55d318",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "17-05-2024",
@@ -396,7 +396,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e4ce0a4b-42b3-4b21-a6f8-1d4b87783295",
+    "ID": "e4ce0a4b-42b3-4b21-a6f8-1d4b87783295",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "04-11-2024",
@@ -405,7 +405,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0865ad81-8a40-49dd-b443-58355a5cad0a",
+    "ID": "0865ad81-8a40-49dd-b443-58355a5cad0a",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "25-01-2024",
@@ -414,7 +414,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "db1ce830-5fd1-4ab8-8881-7d126c7a1e5c",
+    "ID": "db1ce830-5fd1-4ab8-8881-7d126c7a1e5c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "02-08-2024",
@@ -423,7 +423,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8aeddc91-184e-45e5-8f61-76c9666bc8ff",
+    "ID": "8aeddc91-184e-45e5-8f61-76c9666bc8ff",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "25-10-2024",
@@ -432,7 +432,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "432250f6-bc6b-4ab9-9973-ea476ae25440",
+    "ID": "432250f6-bc6b-4ab9-9973-ea476ae25440",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "21-06-2024",
@@ -441,7 +441,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1ef8dd82-cf8b-466c-828f-a4b0fbf28b0a",
+    "ID": "1ef8dd82-cf8b-466c-828f-a4b0fbf28b0a",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "12-09-2024",
@@ -450,7 +450,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c2effa34-b8b1-4ca0-99d4-090a109b45c0",
+    "ID": "c2effa34-b8b1-4ca0-99d4-090a109b45c0",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "21-02-2024",
@@ -459,7 +459,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fd3b3b46-3636-4533-8a51-8905c0671576",
+    "ID": "fd3b3b46-3636-4533-8a51-8905c0671576",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "13-04-2024",
@@ -468,7 +468,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b76a25f7-fb15-448e-923e-aa3570cb6d24",
+    "ID": "b76a25f7-fb15-448e-923e-aa3570cb6d24",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "25-02-2024",
@@ -477,7 +477,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "bb96d296-f84a-478d-9305-8e21ef1ac11a",
+    "ID": "bb96d296-f84a-478d-9305-8e21ef1ac11a",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "20-04-2024",
@@ -486,7 +486,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9dc98230-0929-4e67-952a-7e837e7b9dc2",
+    "ID": "9dc98230-0929-4e67-952a-7e837e7b9dc2",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "26-10-2024",
@@ -495,7 +495,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2faafd26-3d19-45b6-8130-2ced39337750",
+    "ID": "2faafd26-3d19-45b6-8130-2ced39337750",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "15-07-2024",
@@ -504,7 +504,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f318ccc2-6f1a-43dd-a8de-3158e0bacb67",
+    "ID": "f318ccc2-6f1a-43dd-a8de-3158e0bacb67",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "23-02-2024",
@@ -513,7 +513,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ad1f4b1a-d98a-4ce2-a29a-779ae1a51b5d",
+    "ID": "ad1f4b1a-d98a-4ce2-a29a-779ae1a51b5d",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "15-12-2024",
@@ -522,7 +522,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "69c70dc6-59cb-4751-88b7-ec1f7a16cde7",
+    "ID": "69c70dc6-59cb-4751-88b7-ec1f7a16cde7",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "25-06-2024",
@@ -531,7 +531,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b323116e-ab7f-4299-ac80-535c0eba3039",
+    "ID": "b323116e-ab7f-4299-ac80-535c0eba3039",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "12-10-2024",
@@ -540,7 +540,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5e4c83ba-2be0-4dd6-a8ad-a3636e9a518d",
+    "ID": "5e4c83ba-2be0-4dd6-a8ad-a3636e9a518d",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "06-09-2024",
@@ -549,7 +549,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "166d6615-9c6b-42aa-82a5-44e6a9504299",
+    "ID": "166d6615-9c6b-42aa-82a5-44e6a9504299",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "19-02-2024",
@@ -558,7 +558,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4550b47b-e9d5-483c-b677-0306378d28c1",
+    "ID": "4550b47b-e9d5-483c-b677-0306378d28c1",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "10-06-2024",
@@ -567,7 +567,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "216f659c-6dec-44e3-8380-325aab2069d5",
+    "ID": "216f659c-6dec-44e3-8380-325aab2069d5",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "03-08-2024",
@@ -576,7 +576,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "273d7e61-7b45-4474-a04b-cae24b449072",
+    "ID": "273d7e61-7b45-4474-a04b-cae24b449072",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "17-02-2024",
@@ -585,7 +585,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "baf21dde-e703-4a58-8f31-f1ab2cf4483a",
+    "ID": "baf21dde-e703-4a58-8f31-f1ab2cf4483a",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "15-06-2024",
@@ -594,7 +594,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6be559d9-7ab3-44ae-b2b1-8bd016a243e2",
+    "ID": "6be559d9-7ab3-44ae-b2b1-8bd016a243e2",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "24-06-2024",
@@ -603,7 +603,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "23706149-2d33-4553-8e46-87d45178e58a",
+    "ID": "23706149-2d33-4553-8e46-87d45178e58a",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "19-07-2024",
@@ -612,7 +612,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "107c4dc8-8c55-4365-a122-6fa124904066",
+    "ID": "107c4dc8-8c55-4365-a122-6fa124904066",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "24-10-2024",
@@ -621,7 +621,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9c468771-856e-4f08-a264-2784e3d09f1e",
+    "ID": "9c468771-856e-4f08-a264-2784e3d09f1e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "22-04-2024",
@@ -630,7 +630,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ca0bebf1-6072-4863-b9d8-5f6b3d21349c",
+    "ID": "ca0bebf1-6072-4863-b9d8-5f6b3d21349c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "29-01-2024",
@@ -639,7 +639,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "241a8725-645d-4fda-a012-95211cb64f0d",
+    "ID": "241a8725-645d-4fda-a012-95211cb64f0d",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "23-03-2024",
@@ -648,7 +648,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5b36f0d7-d5c3-45ac-a86b-761549706303",
+    "ID": "5b36f0d7-d5c3-45ac-a86b-761549706303",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "14-10-2024",
@@ -657,7 +657,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "22a89bb2-741d-4acc-b28f-820390d7ac69",
+    "ID": "22a89bb2-741d-4acc-b28f-820390d7ac69",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "18-02-2024",
@@ -666,7 +666,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cc6625c0-7ff7-4144-ab28-0898ab45bd5c",
+    "ID": "cc6625c0-7ff7-4144-ab28-0898ab45bd5c",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "03-05-2024",
@@ -675,7 +675,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2c038107-abe9-4d32-8caf-25c1ef3621e4",
+    "ID": "2c038107-abe9-4d32-8caf-25c1ef3621e4",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "05-10-2024",
@@ -684,7 +684,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ba840c87-3cb8-4a8f-9c68-0a38e1cac154",
+    "ID": "ba840c87-3cb8-4a8f-9c68-0a38e1cac154",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "14-08-2024",
@@ -693,7 +693,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ed1dbbaf-81a8-40b0-b1a2-646e5fc8a9b2",
+    "ID": "ed1dbbaf-81a8-40b0-b1a2-646e5fc8a9b2",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "22-02-2024",
@@ -702,7 +702,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2ea3e955-9c1e-4a33-8603-a64e2931045d",
+    "ID": "2ea3e955-9c1e-4a33-8603-a64e2931045d",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "11-12-2024",
@@ -711,7 +711,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "484ddfe3-8b89-43a6-b732-3ba29d44b777",
+    "ID": "484ddfe3-8b89-43a6-b732-3ba29d44b777",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "14-05-2024",
@@ -720,7 +720,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e59f95d7-2040-4ba8-b319-2f5e6a7ff450",
+    "ID": "e59f95d7-2040-4ba8-b319-2f5e6a7ff450",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "07-05-2024",
@@ -729,7 +729,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e04242e9-d013-43da-9c4a-720f218ce98d",
+    "ID": "e04242e9-d013-43da-9c4a-720f218ce98d",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "21-11-2024",
@@ -738,7 +738,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "794d55c4-f31e-4cd1-a01d-2fd62d4fcedb",
+    "ID": "794d55c4-f31e-4cd1-a01d-2fd62d4fcedb",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "14-04-2024",
@@ -747,7 +747,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2d80f321-8f61-4231-a437-6e00dae64327",
+    "ID": "2d80f321-8f61-4231-a437-6e00dae64327",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "04-09-2024",
@@ -756,7 +756,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "787e907d-117e-4436-89da-5ca41fd38867",
+    "ID": "787e907d-117e-4436-89da-5ca41fd38867",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "08-07-2024",
@@ -765,7 +765,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f946fc43-2fef-4055-8b45-7ea393bcd087",
+    "ID": "f946fc43-2fef-4055-8b45-7ea393bcd087",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "21-09-2024",
@@ -774,7 +774,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "dca0fde1-f1fe-4b85-87f0-45199877c10c",
+    "ID": "dca0fde1-f1fe-4b85-87f0-45199877c10c",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "21-09-2024",
@@ -783,7 +783,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "bbf9130d-cc4e-4eb9-b31c-c8144c14cd7d",
+    "ID": "bbf9130d-cc4e-4eb9-b31c-c8144c14cd7d",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "07-06-2024",
@@ -792,7 +792,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2420ec3e-4922-479e-b829-c92486b5890f",
+    "ID": "2420ec3e-4922-479e-b829-c92486b5890f",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "29-01-2024",
@@ -801,7 +801,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "77738df7-cf67-48c3-a2fd-3c3db09079dd",
+    "ID": "77738df7-cf67-48c3-a2fd-3c3db09079dd",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "24-06-2024",
@@ -810,7 +810,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "541d4e02-b30a-40aa-96a1-1791afe4538f",
+    "ID": "541d4e02-b30a-40aa-96a1-1791afe4538f",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "28-02-2024",
@@ -819,7 +819,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c8d803c0-aa72-404a-881f-87fa0fc30d52",
+    "ID": "c8d803c0-aa72-404a-881f-87fa0fc30d52",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "03-02-2024",
@@ -828,7 +828,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f9facfde-5dc6-476d-b792-942f4435ddac",
+    "ID": "f9facfde-5dc6-476d-b792-942f4435ddac",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "19-12-2024",
@@ -837,7 +837,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "189fbfe2-7d90-4325-b459-c94baaceaae8",
+    "ID": "189fbfe2-7d90-4325-b459-c94baaceaae8",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "29-10-2024",
@@ -846,7 +846,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f187c801-d063-440d-afce-5d31cf7c7afc",
+    "ID": "f187c801-d063-440d-afce-5d31cf7c7afc",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "24-02-2024",
@@ -855,7 +855,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f1d42710-aacb-4d70-9021-c422541f4cf0",
+    "ID": "f1d42710-aacb-4d70-9021-c422541f4cf0",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "25-02-2024",
@@ -864,7 +864,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e9a1585e-2560-40cb-b0bf-f01340407f71",
+    "ID": "e9a1585e-2560-40cb-b0bf-f01340407f71",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "12-12-2024",
@@ -873,7 +873,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "03f9dc8f-ef02-4c26-bd98-7f48b1618f65",
+    "ID": "03f9dc8f-ef02-4c26-bd98-7f48b1618f65",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "02-12-2024",
@@ -882,7 +882,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "bb932d1f-9aee-4fcd-a4db-57f67b4e22fd",
+    "ID": "bb932d1f-9aee-4fcd-a4db-57f67b4e22fd",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "03-08-2024",
@@ -891,7 +891,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4cc243eb-116d-416d-accf-05cbe73e2e3e",
+    "ID": "4cc243eb-116d-416d-accf-05cbe73e2e3e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "14-05-2024",
@@ -900,7 +900,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "eed97f1d-860e-489c-844a-c2f95fe2a041",
+    "ID": "eed97f1d-860e-489c-844a-c2f95fe2a041",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "14-09-2024",
@@ -909,7 +909,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a4603ec2-3f95-4cd4-a42e-f4adadd2ba00",
+    "ID": "a4603ec2-3f95-4cd4-a42e-f4adadd2ba00",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "24-05-2024",
@@ -918,7 +918,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f88d40fd-392a-4add-b88b-fe186d2a3748",
+    "ID": "f88d40fd-392a-4add-b88b-fe186d2a3748",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "15-05-2024",
@@ -927,7 +927,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "658f8240-2425-4aab-af4d-04a999872977",
+    "ID": "658f8240-2425-4aab-af4d-04a999872977",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "05-05-2024",
@@ -936,7 +936,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9eab18f3-9b6c-44a9-ba82-a4ba5a8ea284",
+    "ID": "9eab18f3-9b6c-44a9-ba82-a4ba5a8ea284",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "20-11-2024",
@@ -945,7 +945,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c2fd9ffd-463a-4b6a-b3c9-29bba6d9d779",
+    "ID": "c2fd9ffd-463a-4b6a-b3c9-29bba6d9d779",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "28-07-2024",
@@ -954,7 +954,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3564201e-2e03-469f-a798-148cfa0ace13",
+    "ID": "3564201e-2e03-469f-a798-148cfa0ace13",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "10-03-2024",
@@ -963,7 +963,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "373355e6-c026-42f8-87a1-0f6f1c266a03",
+    "ID": "373355e6-c026-42f8-87a1-0f6f1c266a03",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "29-10-2024",
@@ -972,7 +972,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "40ea0972-77be-482b-9589-244977e766f8",
+    "ID": "40ea0972-77be-482b-9589-244977e766f8",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "06-07-2024",
@@ -981,7 +981,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "785c3988-9e69-4a51-8e88-8041e85ad9e6",
+    "ID": "785c3988-9e69-4a51-8e88-8041e85ad9e6",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "29-11-2024",
@@ -990,7 +990,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "45c62df6-20cb-47e2-b774-82c719c9afe8",
+    "ID": "45c62df6-20cb-47e2-b774-82c719c9afe8",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "20-08-2024",
@@ -999,7 +999,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fa63263d-ad30-4019-97dd-1683910aa68c",
+    "ID": "fa63263d-ad30-4019-97dd-1683910aa68c",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "24-04-2024",
@@ -1008,7 +1008,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1b728613-b751-4c8b-b47e-1802c3d83a47",
+    "ID": "1b728613-b751-4c8b-b47e-1802c3d83a47",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "14-12-2024",
@@ -1017,7 +1017,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f1576572-f8b1-4875-b21a-b1f039ef41c3",
+    "ID": "f1576572-f8b1-4875-b21a-b1f039ef41c3",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "30-05-2024",
@@ -1026,7 +1026,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0cab97fb-0d7a-4020-9a30-524f04b78373",
+    "ID": "0cab97fb-0d7a-4020-9a30-524f04b78373",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "08-04-2024",
@@ -1035,7 +1035,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0d7208ef-3c48-4334-9af5-7ba167924120",
+    "ID": "0d7208ef-3c48-4334-9af5-7ba167924120",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "07-03-2024",
@@ -1044,7 +1044,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e70e534f-d603-4237-b914-a3cd53358b35",
+    "ID": "e70e534f-d603-4237-b914-a3cd53358b35",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "17-09-2024",
@@ -1053,7 +1053,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "12d42470-ad70-48fb-b7eb-13c3ef1b4a22",
+    "ID": "12d42470-ad70-48fb-b7eb-13c3ef1b4a22",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "18-08-2024",
@@ -1062,7 +1062,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "62a60073-d2d7-4b7b-a278-12ecbfe6c3f8",
+    "ID": "62a60073-d2d7-4b7b-a278-12ecbfe6c3f8",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "08-01-2025",
@@ -1071,7 +1071,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6bbc066f-4acc-45a2-815b-0c293839a000",
+    "ID": "6bbc066f-4acc-45a2-815b-0c293839a000",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "01-06-2024",
@@ -1080,7 +1080,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4b236341-bf41-4f6e-97fa-834f9605e861",
+    "ID": "4b236341-bf41-4f6e-97fa-834f9605e861",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "20-11-2024",
@@ -1089,7 +1089,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c53c74d9-bf59-4beb-b1a9-03af2681fbf6",
+    "ID": "c53c74d9-bf59-4beb-b1a9-03af2681fbf6",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "26-10-2024",
@@ -1098,7 +1098,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "93f5f9f2-db75-47d5-86fe-0fda7c102325",
+    "ID": "93f5f9f2-db75-47d5-86fe-0fda7c102325",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "04-04-2024",
@@ -1107,7 +1107,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "852b5482-67ca-4b92-9050-1fe56fbb03fa",
+    "ID": "852b5482-67ca-4b92-9050-1fe56fbb03fa",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "16-11-2024",
@@ -1116,7 +1116,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7bc51033-1989-40da-a9bc-fa12632fea9f",
+    "ID": "7bc51033-1989-40da-a9bc-fa12632fea9f",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "14-05-2024",
@@ -1125,7 +1125,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4ef74eba-2f8e-467b-ba0a-142ce865b25d",
+    "ID": "4ef74eba-2f8e-467b-ba0a-142ce865b25d",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "27-01-2024",
@@ -1134,7 +1134,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4ee1c161-adfa-48cc-aaf0-be923cb66b2d",
+    "ID": "4ee1c161-adfa-48cc-aaf0-be923cb66b2d",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "31-07-2024",
@@ -1143,7 +1143,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6a029c44-ce7b-45a7-8d43-7da1a39e3e32",
+    "ID": "6a029c44-ce7b-45a7-8d43-7da1a39e3e32",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "17-09-2024",
@@ -1152,7 +1152,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f1d7ca78-79d8-4cab-b526-a4bb03f1f421",
+    "ID": "f1d7ca78-79d8-4cab-b526-a4bb03f1f421",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "25-05-2024",
@@ -1161,7 +1161,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "da363e7e-8618-4494-83f3-e99607d55b30",
+    "ID": "da363e7e-8618-4494-83f3-e99607d55b30",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "09-03-2024",
@@ -1170,7 +1170,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9d84d63d-62d7-4793-9095-f281879a0437",
+    "ID": "9d84d63d-62d7-4793-9095-f281879a0437",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "13-04-2024",
@@ -1179,7 +1179,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9a90e379-34fe-40d7-82dc-674a697d1cbd",
+    "ID": "9a90e379-34fe-40d7-82dc-674a697d1cbd",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "03-05-2024",
@@ -1188,7 +1188,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "98088059-f5b2-484c-b895-22cbef569539",
+    "ID": "98088059-f5b2-484c-b895-22cbef569539",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "01-06-2024",
@@ -1197,7 +1197,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "bad925fd-aaed-43e1-9a8c-a741263edd56",
+    "ID": "bad925fd-aaed-43e1-9a8c-a741263edd56",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "08-02-2024",
@@ -1206,7 +1206,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f6394db2-d4d5-44a3-a3cc-54efb108c9a8",
+    "ID": "f6394db2-d4d5-44a3-a3cc-54efb108c9a8",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "25-09-2024",
@@ -1215,7 +1215,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e86c92dc-f885-4c5d-8ed9-77a07cb1eceb",
+    "ID": "e86c92dc-f885-4c5d-8ed9-77a07cb1eceb",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "28-02-2024",
@@ -1224,7 +1224,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "227af2c5-6036-46c7-9655-6c1d4cc65da3",
+    "ID": "227af2c5-6036-46c7-9655-6c1d4cc65da3",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "10-09-2024",
@@ -1233,7 +1233,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b4050b85-f7ee-451c-b742-c55e04e26efd",
+    "ID": "b4050b85-f7ee-451c-b742-c55e04e26efd",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "13-10-2024",
@@ -1242,7 +1242,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "40c87c11-5e70-4a9b-96f0-d1c384bd7dc8",
+    "ID": "40c87c11-5e70-4a9b-96f0-d1c384bd7dc8",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "25-01-2024",
@@ -1251,7 +1251,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3b9e5329-9401-45dc-b6ba-6de286088af3",
+    "ID": "3b9e5329-9401-45dc-b6ba-6de286088af3",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "09-05-2024",
@@ -1260,7 +1260,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "18d980da-d30c-4fba-9890-417779c425fc",
+    "ID": "18d980da-d30c-4fba-9890-417779c425fc",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "07-01-2025",
@@ -1269,7 +1269,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e6e15ecf-9299-4e66-8582-632399b0aedf",
+    "ID": "e6e15ecf-9299-4e66-8582-632399b0aedf",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "11-04-2024",
@@ -1278,7 +1278,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "42105dd2-c98b-4b04-b645-c4009e1330bd",
+    "ID": "42105dd2-c98b-4b04-b645-c4009e1330bd",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "05-06-2024",
@@ -1287,7 +1287,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "14e9d6fb-be74-4554-80be-3a68bcd34e28",
+    "ID": "14e9d6fb-be74-4554-80be-3a68bcd34e28",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "01-04-2024",
@@ -1296,7 +1296,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "782267de-a85b-473d-a303-17813fc195b9",
+    "ID": "782267de-a85b-473d-a303-17813fc195b9",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "18-11-2024",
@@ -1305,7 +1305,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d210c48b-77ba-447b-b3fe-5daee96fc0ec",
+    "ID": "d210c48b-77ba-447b-b3fe-5daee96fc0ec",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "30-11-2024",
@@ -1314,7 +1314,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ae085511-a169-4549-9640-617d28288d00",
+    "ID": "ae085511-a169-4549-9640-617d28288d00",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "04-02-2024",
@@ -1323,7 +1323,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d310c6aa-d32a-491c-8a6d-7295fb36e020",
+    "ID": "d310c6aa-d32a-491c-8a6d-7295fb36e020",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "10-02-2024",
@@ -1332,7 +1332,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8031feff-6ab6-4793-9637-24d36e3e75e6",
+    "ID": "8031feff-6ab6-4793-9637-24d36e3e75e6",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "18-10-2024",
@@ -1341,7 +1341,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "34972c2c-3bc2-48c6-8e31-f332662488a1",
+    "ID": "34972c2c-3bc2-48c6-8e31-f332662488a1",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "25-03-2024",
@@ -1350,7 +1350,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fb5af97d-c441-4644-93ca-4e1fbc528975",
+    "ID": "fb5af97d-c441-4644-93ca-4e1fbc528975",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "03-03-2024",
@@ -1359,7 +1359,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f8848cb9-38a5-46fa-982b-56e834b3834b",
+    "ID": "f8848cb9-38a5-46fa-982b-56e834b3834b",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "09-11-2024",
@@ -1368,7 +1368,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3faf0981-cfcd-492a-b07d-bde6372f3348",
+    "ID": "3faf0981-cfcd-492a-b07d-bde6372f3348",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "17-10-2024",
@@ -1377,7 +1377,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "45866e5a-5eb2-4e2c-8656-c5e054991c4a",
+    "ID": "45866e5a-5eb2-4e2c-8656-c5e054991c4a",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "30-08-2024",
@@ -1386,7 +1386,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "edd6a3fd-a48a-443e-a747-3f2d8359b6cd",
+    "ID": "edd6a3fd-a48a-443e-a747-3f2d8359b6cd",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "25-10-2024",
@@ -1395,7 +1395,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "dc90d0bf-cbd9-46e0-85f0-799e76a449cf",
+    "ID": "dc90d0bf-cbd9-46e0-85f0-799e76a449cf",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "22-09-2024",
@@ -1404,7 +1404,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8bc82e64-28b2-433f-9d7a-de731ff67316",
+    "ID": "8bc82e64-28b2-433f-9d7a-de731ff67316",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "12-09-2024",
@@ -1413,7 +1413,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e35a964c-5713-4118-99ee-a4fb837ac0b0",
+    "ID": "e35a964c-5713-4118-99ee-a4fb837ac0b0",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "23-11-2024",
@@ -1422,7 +1422,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8759b1f4-a15c-4aa2-9f8a-1acfa8d6d463",
+    "ID": "8759b1f4-a15c-4aa2-9f8a-1acfa8d6d463",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "18-05-2024",
@@ -1431,7 +1431,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a8deb6cd-4aee-4900-aa86-ed8d6d89cf2f",
+    "ID": "a8deb6cd-4aee-4900-aa86-ed8d6d89cf2f",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "03-12-2024",
@@ -1440,7 +1440,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b45f87d2-ca3c-497f-9129-3370a97c5c17",
+    "ID": "b45f87d2-ca3c-497f-9129-3370a97c5c17",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "05-05-2024",
@@ -1449,7 +1449,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6f2f8478-7fd6-4f7b-88d4-36fa4e478fd2",
+    "ID": "6f2f8478-7fd6-4f7b-88d4-36fa4e478fd2",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "25-04-2024",
@@ -1458,7 +1458,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d51932d7-cfc0-4292-9bbb-673bf1e3f41c",
+    "ID": "d51932d7-cfc0-4292-9bbb-673bf1e3f41c",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "27-12-2024",
@@ -1467,7 +1467,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c75f471e-ecb7-44f8-8716-b57b5b9b80d1",
+    "ID": "c75f471e-ecb7-44f8-8716-b57b5b9b80d1",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "06-06-2024",
@@ -1476,7 +1476,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1ab9397f-00b6-4a70-ad79-ce994522bd14",
+    "ID": "1ab9397f-00b6-4a70-ad79-ce994522bd14",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "25-10-2024",
@@ -1485,7 +1485,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "47b33a02-96a3-4db8-b971-5d338e881249",
+    "ID": "47b33a02-96a3-4db8-b971-5d338e881249",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "10-11-2024",
@@ -1494,7 +1494,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "742e063b-87f1-49f5-a78e-532bb67a3ef8",
+    "ID": "742e063b-87f1-49f5-a78e-532bb67a3ef8",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "14-12-2024",
@@ -1503,7 +1503,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "89360d04-db65-4092-bea0-47af7bedbd13",
+    "ID": "89360d04-db65-4092-bea0-47af7bedbd13",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "09-08-2024",
@@ -1512,7 +1512,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2351a390-ffea-48c4-be76-48bc413e738c",
+    "ID": "2351a390-ffea-48c4-be76-48bc413e738c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "04-07-2024",
@@ -1521,7 +1521,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f4636cf1-df7e-4256-b9b1-a1a8c74108c4",
+    "ID": "f4636cf1-df7e-4256-b9b1-a1a8c74108c4",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "06-10-2024",
@@ -1530,7 +1530,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ab794b67-7345-4793-8c9c-1a39db4cdf50",
+    "ID": "ab794b67-7345-4793-8c9c-1a39db4cdf50",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "03-08-2024",
@@ -1539,7 +1539,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "68f33661-60cb-41a9-ab5b-00b3b61369e4",
+    "ID": "68f33661-60cb-41a9-ab5b-00b3b61369e4",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "30-06-2024",
@@ -1548,7 +1548,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "12f2d878-bf3c-4213-b688-c56205cb61d3",
+    "ID": "12f2d878-bf3c-4213-b688-c56205cb61d3",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "18-12-2024",
@@ -1557,7 +1557,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b09db50d-03cb-4c85-b736-7aee1ecffbfa",
+    "ID": "b09db50d-03cb-4c85-b736-7aee1ecffbfa",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "23-09-2024",
@@ -1566,7 +1566,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "53a958c2-0c06-46d2-af27-6b5f70329acc",
+    "ID": "53a958c2-0c06-46d2-af27-6b5f70329acc",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "04-04-2024",
@@ -1575,7 +1575,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b45b3b77-d9f7-44ee-8f32-daa19ac84e71",
+    "ID": "b45b3b77-d9f7-44ee-8f32-daa19ac84e71",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "25-10-2024",
@@ -1584,7 +1584,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "363866c3-21fc-4159-b567-4ab44eb97abc",
+    "ID": "363866c3-21fc-4159-b567-4ab44eb97abc",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "19-07-2024",
@@ -1593,7 +1593,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "efaa548b-d409-4977-a6cb-9a627f6f02cc",
+    "ID": "efaa548b-d409-4977-a6cb-9a627f6f02cc",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "01-07-2024",
@@ -1602,7 +1602,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e2da1b74-4206-4ca0-8650-a49add39cead",
+    "ID": "e2da1b74-4206-4ca0-8650-a49add39cead",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "09-04-2024",
@@ -1611,7 +1611,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "099b1d63-6053-4227-9791-f507149e2a99",
+    "ID": "099b1d63-6053-4227-9791-f507149e2a99",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "05-04-2024",
@@ -1620,7 +1620,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "37e80a5d-78bd-4377-9450-24fa0d4fa802",
+    "ID": "37e80a5d-78bd-4377-9450-24fa0d4fa802",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "26-05-2024",
@@ -1629,7 +1629,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8157707d-3705-4622-b049-f67bc68dc0ec",
+    "ID": "8157707d-3705-4622-b049-f67bc68dc0ec",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "22-02-2024",
@@ -1638,7 +1638,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "63d6d1a1-6861-45b7-8d51-b179e45b18fa",
+    "ID": "63d6d1a1-6861-45b7-8d51-b179e45b18fa",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "13-08-2024",
@@ -1647,7 +1647,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0362b123-bf1a-43aa-96ee-d05d0c0d4e91",
+    "ID": "0362b123-bf1a-43aa-96ee-d05d0c0d4e91",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "11-11-2024",
@@ -1656,7 +1656,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0b47d780-8a05-4187-bd79-fd1d71e9b6ab",
+    "ID": "0b47d780-8a05-4187-bd79-fd1d71e9b6ab",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "12-04-2024",
@@ -1665,7 +1665,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f0f15d5f-2656-45e7-88d2-3fce47a9b54c",
+    "ID": "f0f15d5f-2656-45e7-88d2-3fce47a9b54c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "03-05-2024",
@@ -1674,7 +1674,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ec050b51-4172-4250-84f6-71ad251d6a8c",
+    "ID": "ec050b51-4172-4250-84f6-71ad251d6a8c",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "12-09-2024",
@@ -1683,7 +1683,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e80b88f3-d03e-4359-9308-c8d0ebd638a4",
+    "ID": "e80b88f3-d03e-4359-9308-c8d0ebd638a4",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "08-05-2024",
@@ -1692,7 +1692,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ac0e5b75-0be6-4800-9a5b-538c88a2ca4a",
+    "ID": "ac0e5b75-0be6-4800-9a5b-538c88a2ca4a",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "16-02-2024",
@@ -1701,7 +1701,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b2db7e78-a172-4b13-9b0c-4a66a7d24bad",
+    "ID": "b2db7e78-a172-4b13-9b0c-4a66a7d24bad",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "30-07-2024",
@@ -1710,7 +1710,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e783b092-53af-4177-aa45-4d1a0608bc5d",
+    "ID": "e783b092-53af-4177-aa45-4d1a0608bc5d",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "30-07-2024",
@@ -1719,7 +1719,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "43e0150a-70bc-4009-97b0-7b30e8a74824",
+    "ID": "43e0150a-70bc-4009-97b0-7b30e8a74824",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "02-11-2024",
@@ -1728,7 +1728,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8a0b9ffa-8fdd-4763-b389-88651b116333",
+    "ID": "8a0b9ffa-8fdd-4763-b389-88651b116333",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "01-04-2024",
@@ -1737,7 +1737,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "20665472-d6f9-4d13-a21e-a606091eb490",
+    "ID": "20665472-d6f9-4d13-a21e-a606091eb490",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "17-06-2024",
@@ -1746,7 +1746,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d63f43c6-d8a7-4718-9299-6e0aa0a8b44c",
+    "ID": "d63f43c6-d8a7-4718-9299-6e0aa0a8b44c",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "28-11-2024",
@@ -1755,7 +1755,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5ce92c3b-9ece-4765-ac55-4a82ab8b165d",
+    "ID": "5ce92c3b-9ece-4765-ac55-4a82ab8b165d",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "02-12-2024",
@@ -1764,7 +1764,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c8b030ef-211a-4323-9a83-dcfdc682d7e9",
+    "ID": "c8b030ef-211a-4323-9a83-dcfdc682d7e9",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "29-05-2024",
@@ -1773,7 +1773,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "57056131-ff82-4742-97d2-c81b4da5da5c",
+    "ID": "57056131-ff82-4742-97d2-c81b4da5da5c",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "02-01-2025",
@@ -1782,7 +1782,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6cfc8e54-1f64-48f6-bffb-be46abdb4588",
+    "ID": "6cfc8e54-1f64-48f6-bffb-be46abdb4588",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "20-10-2024",
@@ -1791,7 +1791,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a85f3a7f-bfdf-49f1-8f06-d936edf483b5",
+    "ID": "a85f3a7f-bfdf-49f1-8f06-d936edf483b5",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "16-09-2024",
@@ -1800,7 +1800,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "50921624-cda7-4519-8515-f4f7499cf829",
+    "ID": "50921624-cda7-4519-8515-f4f7499cf829",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "25-01-2024",
@@ -1809,7 +1809,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4dc8a204-d4e7-447d-8dce-76c9b5e1c3b0",
+    "ID": "4dc8a204-d4e7-447d-8dce-76c9b5e1c3b0",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "26-08-2024",
@@ -1818,7 +1818,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3eb2f0b7-e163-48f7-9f7a-917b47cde3d5",
+    "ID": "3eb2f0b7-e163-48f7-9f7a-917b47cde3d5",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "18-03-2024",
@@ -1827,7 +1827,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "554170c1-40de-40f0-ac6b-966a253830f4",
+    "ID": "554170c1-40de-40f0-ac6b-966a253830f4",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "31-08-2024",
@@ -1836,7 +1836,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "54edefd3-b153-4176-8d28-0e1e66804c3a",
+    "ID": "54edefd3-b153-4176-8d28-0e1e66804c3a",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "23-04-2024",
@@ -1845,7 +1845,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5a5bc98f-d885-4b88-9c17-43dc89c11567",
+    "ID": "5a5bc98f-d885-4b88-9c17-43dc89c11567",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "18-04-2024",
@@ -1854,7 +1854,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "14844b2c-ee4a-4799-99a0-f3b4b70e0414",
+    "ID": "14844b2c-ee4a-4799-99a0-f3b4b70e0414",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "19-05-2024",
@@ -1863,7 +1863,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1f1aeb8f-755a-4e20-bc19-e6c7c0d1dab1",
+    "ID": "1f1aeb8f-755a-4e20-bc19-e6c7c0d1dab1",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "14-06-2024",
@@ -1872,7 +1872,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "77270258-0eac-43a5-882f-fd7e2167e32c",
+    "ID": "77270258-0eac-43a5-882f-fd7e2167e32c",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "22-11-2024",
@@ -1881,7 +1881,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "62d110c5-286d-496c-aaf7-2dd18bc83b49",
+    "ID": "62d110c5-286d-496c-aaf7-2dd18bc83b49",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "15-04-2024",
@@ -1890,7 +1890,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a9bec5fa-bf1d-4906-af43-c5dd787c8b77",
+    "ID": "a9bec5fa-bf1d-4906-af43-c5dd787c8b77",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "03-04-2024",
@@ -1899,7 +1899,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "202c9ddb-0c49-4667-8184-551b11b2d542",
+    "ID": "202c9ddb-0c49-4667-8184-551b11b2d542",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "24-03-2024",
@@ -1908,7 +1908,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "29c9687c-3ed2-4381-846e-c9dc4713cb70",
+    "ID": "29c9687c-3ed2-4381-846e-c9dc4713cb70",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "26-11-2024",
@@ -1917,7 +1917,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "961fdd0e-e68f-487a-8c69-49a8a1f2ffbd",
+    "ID": "961fdd0e-e68f-487a-8c69-49a8a1f2ffbd",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "29-01-2024",
@@ -1926,7 +1926,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "162ae0f2-194d-4f24-a810-d3f1eb6db390",
+    "ID": "162ae0f2-194d-4f24-a810-d3f1eb6db390",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "12-01-2025",
@@ -1935,7 +1935,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "049dfbae-692b-482f-9612-7a27a294042f",
+    "ID": "049dfbae-692b-482f-9612-7a27a294042f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "03-04-2024",
@@ -1944,7 +1944,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "18f2e115-9097-459b-91ec-ee54aa64d2f7",
+    "ID": "18f2e115-9097-459b-91ec-ee54aa64d2f7",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "23-03-2024",
@@ -1953,7 +1953,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "82262f90-bebd-481c-a84a-f50e31992e81",
+    "ID": "82262f90-bebd-481c-a84a-f50e31992e81",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "09-11-2024",
@@ -1962,7 +1962,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1d6cb49f-aa0b-48f8-89c7-f73077532911",
+    "ID": "1d6cb49f-aa0b-48f8-89c7-f73077532911",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "30-11-2024",
@@ -1971,7 +1971,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0154036c-bc30-4dbe-a87f-5d7f9d3f08cd",
+    "ID": "0154036c-bc30-4dbe-a87f-5d7f9d3f08cd",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "11-08-2024",
@@ -1980,7 +1980,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "65b12f2a-046a-4c79-88c4-a72659748100",
+    "ID": "65b12f2a-046a-4c79-88c4-a72659748100",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "07-07-2024",
@@ -1989,7 +1989,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9bae3e1b-280d-4ec8-918a-3be1b01475fc",
+    "ID": "9bae3e1b-280d-4ec8-918a-3be1b01475fc",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "19-12-2024",
@@ -1998,7 +1998,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "05b63924-3942-4be8-902d-c59deb221860",
+    "ID": "05b63924-3942-4be8-902d-c59deb221860",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "29-12-2024",
@@ -2007,7 +2007,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "45977f40-9e13-4bc5-8f4a-b5571f4b2070",
+    "ID": "45977f40-9e13-4bc5-8f4a-b5571f4b2070",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "18-04-2024",
@@ -2016,7 +2016,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "be10b714-0d4f-4490-97fe-7dd445cc3b3b",
+    "ID": "be10b714-0d4f-4490-97fe-7dd445cc3b3b",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "24-05-2024",
@@ -2025,7 +2025,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4db5252a-255d-4639-aaec-d826bbe833da",
+    "ID": "4db5252a-255d-4639-aaec-d826bbe833da",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "04-09-2024",
@@ -2034,7 +2034,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5617c981-37aa-4eb1-a174-16ecbe11b11e",
+    "ID": "5617c981-37aa-4eb1-a174-16ecbe11b11e",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "16-09-2024",
@@ -2043,7 +2043,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c0176bcc-8547-42e0-a39f-19fc602b589b",
+    "ID": "c0176bcc-8547-42e0-a39f-19fc602b589b",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "27-05-2024",
@@ -2052,7 +2052,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "85de8633-582a-45c8-ae51-fba123a99bfd",
+    "ID": "85de8633-582a-45c8-ae51-fba123a99bfd",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "15-11-2024",
@@ -2061,7 +2061,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5b8af792-e910-4ba3-8af6-6adc1d117e1d",
+    "ID": "5b8af792-e910-4ba3-8af6-6adc1d117e1d",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "16-09-2024",
@@ -2070,7 +2070,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "52929691-128a-4201-8681-8701144e7311",
+    "ID": "52929691-128a-4201-8681-8701144e7311",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "17-10-2024",
@@ -2079,7 +2079,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "efdc7188-504f-4f6a-927c-8c77eb16397c",
+    "ID": "efdc7188-504f-4f6a-927c-8c77eb16397c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "27-07-2024",
@@ -2088,7 +2088,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "00bf762d-8e81-4189-b0e8-f89ccf21a18a",
+    "ID": "00bf762d-8e81-4189-b0e8-f89ccf21a18a",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "22-11-2024",
@@ -2097,7 +2097,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "af706043-8249-4f1f-b3d2-82cde9a81331",
+    "ID": "af706043-8249-4f1f-b3d2-82cde9a81331",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "03-12-2024",
@@ -2106,7 +2106,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b55c9e7e-fe73-4254-bb1b-8180c3530bfd",
+    "ID": "b55c9e7e-fe73-4254-bb1b-8180c3530bfd",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "13-05-2024",
@@ -2115,7 +2115,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fbf6694d-bf57-4649-a647-c4a3a1c45d7a",
+    "ID": "fbf6694d-bf57-4649-a647-c4a3a1c45d7a",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "16-12-2024",
@@ -2124,7 +2124,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "90c3d33a-890d-40de-a899-8f9485f4ff3b",
+    "ID": "90c3d33a-890d-40de-a899-8f9485f4ff3b",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "26-09-2024",
@@ -2133,7 +2133,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "18098f35-4277-47a2-8788-d1a691c8df26",
+    "ID": "18098f35-4277-47a2-8788-d1a691c8df26",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "25-08-2024",
@@ -2142,7 +2142,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d9222f05-354a-464c-a56d-4b2475f0ceba",
+    "ID": "d9222f05-354a-464c-a56d-4b2475f0ceba",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "17-07-2024",
@@ -2151,7 +2151,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6381b33b-0fee-428f-9efb-0e6644b19081",
+    "ID": "6381b33b-0fee-428f-9efb-0e6644b19081",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "05-08-2024",
@@ -2160,7 +2160,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ec3f4148-9eb2-4b25-b992-f340d982fe15",
+    "ID": "ec3f4148-9eb2-4b25-b992-f340d982fe15",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "16-09-2024",
@@ -2169,7 +2169,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f1a2143e-5d5f-4301-b7ab-557dbcf5bccc",
+    "ID": "f1a2143e-5d5f-4301-b7ab-557dbcf5bccc",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "16-02-2024",
@@ -2178,7 +2178,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7c685857-7621-4401-b8b7-90afa4ca1dcf",
+    "ID": "7c685857-7621-4401-b8b7-90afa4ca1dcf",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-02-2024",
@@ -2187,7 +2187,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "124b667f-787f-4573-8fc6-53bd10a0cd48",
+    "ID": "124b667f-787f-4573-8fc6-53bd10a0cd48",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "13-01-2025",
@@ -2196,7 +2196,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1bf76b0d-9e88-4cdf-b949-f56fb2a290b4",
+    "ID": "1bf76b0d-9e88-4cdf-b949-f56fb2a290b4",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "30-07-2024",
@@ -2205,7 +2205,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c5c1810c-fe32-4329-aca1-d6b9837f7ab7",
+    "ID": "c5c1810c-fe32-4329-aca1-d6b9837f7ab7",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "08-11-2024",
@@ -2214,7 +2214,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "14ff065b-5e54-4a5c-b4b4-765c937e57be",
+    "ID": "14ff065b-5e54-4a5c-b4b4-765c937e57be",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "08-10-2024",
@@ -2223,7 +2223,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cd2ae43f-378e-45fc-b05f-8e06564f1fda",
+    "ID": "cd2ae43f-378e-45fc-b05f-8e06564f1fda",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "08-11-2024",
@@ -2232,7 +2232,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ada0d243-3ebe-40b2-aa3f-8452e3b17aa3",
+    "ID": "ada0d243-3ebe-40b2-aa3f-8452e3b17aa3",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "16-06-2024",
@@ -2241,7 +2241,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7d62dadd-d9db-490b-b076-016e39f86248",
+    "ID": "7d62dadd-d9db-490b-b076-016e39f86248",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "30-03-2024",
@@ -2250,7 +2250,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "aed33c49-5e75-48ba-b094-efef4f78ed56",
+    "ID": "aed33c49-5e75-48ba-b094-efef4f78ed56",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "19-05-2024",
@@ -2259,7 +2259,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3f003359-940e-48f5-9583-0d44437b35f9",
+    "ID": "3f003359-940e-48f5-9583-0d44437b35f9",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "01-02-2024",
@@ -2268,7 +2268,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8bee857c-add3-45fb-9b1b-219ef51b1ef9",
+    "ID": "8bee857c-add3-45fb-9b1b-219ef51b1ef9",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "15-06-2024",
@@ -2277,7 +2277,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f1a850bb-04d2-4dc0-8395-1e0a9397c561",
+    "ID": "f1a850bb-04d2-4dc0-8395-1e0a9397c561",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "21-10-2024",
@@ -2286,7 +2286,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3c12937c-86a1-4689-a49f-2531c32daea1",
+    "ID": "3c12937c-86a1-4689-a49f-2531c32daea1",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "06-06-2024",
@@ -2295,7 +2295,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2dc9498c-2294-41b5-8f96-8c61c552136e",
+    "ID": "2dc9498c-2294-41b5-8f96-8c61c552136e",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "08-06-2024",
@@ -2304,7 +2304,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ba84a7a0-5d92-4db7-80c2-90dbb4175d9d",
+    "ID": "ba84a7a0-5d92-4db7-80c2-90dbb4175d9d",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "25-12-2024",
@@ -2313,7 +2313,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e894a18c-4521-4a7f-a28c-41b851d65d00",
+    "ID": "e894a18c-4521-4a7f-a28c-41b851d65d00",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "12-06-2024",
@@ -2322,7 +2322,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3e686590-c8e9-48ac-9b74-bb667b999373",
+    "ID": "3e686590-c8e9-48ac-9b74-bb667b999373",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "18-03-2024",
@@ -2331,7 +2331,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "45d3d3e6-62c6-464f-a554-de562e0c3838",
+    "ID": "45d3d3e6-62c6-464f-a554-de562e0c3838",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "21-02-2024",
@@ -2340,7 +2340,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f736f61e-1b6f-4c38-923c-eff69707e889",
+    "ID": "f736f61e-1b6f-4c38-923c-eff69707e889",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "18-10-2024",
@@ -2349,7 +2349,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e052842c-c1fe-4eed-908d-5c8f9311800d",
+    "ID": "e052842c-c1fe-4eed-908d-5c8f9311800d",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "01-10-2024",
@@ -2358,7 +2358,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "97752e16-f60b-4805-b157-2140577a1f76",
+    "ID": "97752e16-f60b-4805-b157-2140577a1f76",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "24-01-2024",
@@ -2367,7 +2367,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8f864752-101c-4bf7-9ce9-553174554835",
+    "ID": "8f864752-101c-4bf7-9ce9-553174554835",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "26-03-2024",
@@ -2376,7 +2376,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "45ff0e66-a414-427c-aaf4-a75a6c58c176",
+    "ID": "45ff0e66-a414-427c-aaf4-a75a6c58c176",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "21-01-2025",
@@ -2385,7 +2385,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "494cb37e-fdd1-452b-8f64-5eef9377afde",
+    "ID": "494cb37e-fdd1-452b-8f64-5eef9377afde",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "29-03-2024",
@@ -2394,7 +2394,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "801fa94d-07e4-4c4a-82d1-646a2b6a782f",
+    "ID": "801fa94d-07e4-4c4a-82d1-646a2b6a782f",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "02-11-2024",
@@ -2403,7 +2403,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "83cb3b4c-e3ce-4994-8483-44be209e88ab",
+    "ID": "83cb3b4c-e3ce-4994-8483-44be209e88ab",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "24-07-2024",
@@ -2412,7 +2412,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "333a8e58-fc7f-4edd-8e93-8e14c18322d7",
+    "ID": "333a8e58-fc7f-4edd-8e93-8e14c18322d7",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "12-12-2024",
@@ -2421,7 +2421,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "73b4e8e7-e9cd-4465-aee0-83c5eaf9d3fb",
+    "ID": "73b4e8e7-e9cd-4465-aee0-83c5eaf9d3fb",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "28-01-2024",
@@ -2430,7 +2430,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c0ff6e04-2d30-4a20-94d2-249f8c4a45a7",
+    "ID": "c0ff6e04-2d30-4a20-94d2-249f8c4a45a7",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "12-06-2024",
@@ -2439,7 +2439,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "63d2670e-e1b0-4249-af08-cb367b5121d7",
+    "ID": "63d2670e-e1b0-4249-af08-cb367b5121d7",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "08-08-2024",
@@ -2448,7 +2448,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "dfa25261-cf0b-4a94-8843-517f16b232bb",
+    "ID": "dfa25261-cf0b-4a94-8843-517f16b232bb",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-07-2024",
@@ -2457,7 +2457,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "93d1d170-1cc1-4f8c-9dde-72de821d8990",
+    "ID": "93d1d170-1cc1-4f8c-9dde-72de821d8990",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "19-09-2024",
@@ -2466,7 +2466,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "09b97562-7c13-4547-835c-cdbb21b75563",
+    "ID": "09b97562-7c13-4547-835c-cdbb21b75563",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "31-08-2024",
@@ -2475,7 +2475,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "13c36410-a07e-44f6-84a9-dc2a76f4be66",
+    "ID": "13c36410-a07e-44f6-84a9-dc2a76f4be66",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "21-12-2024",
@@ -2484,7 +2484,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5b7f0f96-0452-447e-b78a-9c2bdc7da117",
+    "ID": "5b7f0f96-0452-447e-b78a-9c2bdc7da117",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "10-07-2024",
@@ -2493,7 +2493,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4b68ebe0-dec7-4001-9c1d-37eaa1b321b1",
+    "ID": "4b68ebe0-dec7-4001-9c1d-37eaa1b321b1",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "09-04-2024",
@@ -2502,7 +2502,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9a786d8e-29c5-41fa-b72a-efc1b3d03b25",
+    "ID": "9a786d8e-29c5-41fa-b72a-efc1b3d03b25",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "22-01-2025",
@@ -2511,7 +2511,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c6fa9c3a-49f5-46e7-a2e3-36a8bbb34372",
+    "ID": "c6fa9c3a-49f5-46e7-a2e3-36a8bbb34372",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "21-05-2024",
@@ -2520,7 +2520,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a0847b7d-1383-4ea4-8516-3abca07d1890",
+    "ID": "a0847b7d-1383-4ea4-8516-3abca07d1890",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "20-01-2025",
@@ -2529,7 +2529,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "32a88521-2bbf-47dc-98ab-2bd4057bfbb4",
+    "ID": "32a88521-2bbf-47dc-98ab-2bd4057bfbb4",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "10-06-2024",
@@ -2538,7 +2538,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e28ccbcd-2c6d-49ba-8dd6-eb192af1ad00",
+    "ID": "e28ccbcd-2c6d-49ba-8dd6-eb192af1ad00",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "23-11-2024",
@@ -2547,7 +2547,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "893231bd-e4ea-4b97-bd84-2914a2de8265",
+    "ID": "893231bd-e4ea-4b97-bd84-2914a2de8265",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "04-06-2024",
@@ -2556,7 +2556,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a4855664-700d-4c9b-8532-17cb8ee5ac3f",
+    "ID": "a4855664-700d-4c9b-8532-17cb8ee5ac3f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "09-01-2025",
@@ -2565,7 +2565,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "80752361-c3d8-4609-bb70-dca90f4b49cb",
+    "ID": "80752361-c3d8-4609-bb70-dca90f4b49cb",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "18-12-2024",
@@ -2574,7 +2574,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "848ebec8-75e3-44c9-8001-f969e7ff5b2c",
+    "ID": "848ebec8-75e3-44c9-8001-f969e7ff5b2c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "22-08-2024",
@@ -2583,7 +2583,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2b69b5b3-826c-49a8-8eb3-c7f0cd3d2ce9",
+    "ID": "2b69b5b3-826c-49a8-8eb3-c7f0cd3d2ce9",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "01-05-2024",
@@ -2592,7 +2592,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c5ca6eb0-b218-4a20-ad9e-e2c6fdeb0aa9",
+    "ID": "c5ca6eb0-b218-4a20-ad9e-e2c6fdeb0aa9",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "26-07-2024",
@@ -2601,7 +2601,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4e19f934-eddf-4d88-aab3-f46b4e1974ae",
+    "ID": "4e19f934-eddf-4d88-aab3-f46b4e1974ae",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "28-07-2024",
@@ -2610,7 +2610,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "367b9b2e-5a0f-4411-b2b5-593c83800c8d",
+    "ID": "367b9b2e-5a0f-4411-b2b5-593c83800c8d",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "04-10-2024",
@@ -2619,7 +2619,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d8c2e448-974c-4ef1-98b6-a3146e3cf84d",
+    "ID": "d8c2e448-974c-4ef1-98b6-a3146e3cf84d",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "23-11-2024",
@@ -2628,7 +2628,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "79958561-1feb-4696-bec9-0e391156dca5",
+    "ID": "79958561-1feb-4696-bec9-0e391156dca5",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "17-07-2024",
@@ -2637,7 +2637,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f19a8dd1-a2fc-46d5-af11-30d5ab03f839",
+    "ID": "f19a8dd1-a2fc-46d5-af11-30d5ab03f839",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "02-01-2025",
@@ -2646,7 +2646,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6eec3253-1dcd-438f-8e6d-104e09d32893",
+    "ID": "6eec3253-1dcd-438f-8e6d-104e09d32893",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "03-12-2024",
@@ -2655,7 +2655,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e0abed31-6ffc-4707-a3f7-3b0d02b8df23",
+    "ID": "e0abed31-6ffc-4707-a3f7-3b0d02b8df23",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "06-10-2024",
@@ -2664,7 +2664,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0a56fb34-4fd2-4c0a-b905-f3c65baa2022",
+    "ID": "0a56fb34-4fd2-4c0a-b905-f3c65baa2022",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "11-06-2024",
@@ -2673,7 +2673,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "61202ebd-22be-40c4-9af1-adff2c6d50a0",
+    "ID": "61202ebd-22be-40c4-9af1-adff2c6d50a0",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "02-06-2024",
@@ -2682,7 +2682,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c59f6b8d-d14f-4154-9d6b-3253261b6fae",
+    "ID": "c59f6b8d-d14f-4154-9d6b-3253261b6fae",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "19-05-2024",
@@ -2691,7 +2691,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "08979013-e63e-46f6-a6a7-d767bfc7a792",
+    "ID": "08979013-e63e-46f6-a6a7-d767bfc7a792",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "14-10-2024",
@@ -2700,7 +2700,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a6dbf801-177a-4875-a6bc-e3cef8b26bd8",
+    "ID": "a6dbf801-177a-4875-a6bc-e3cef8b26bd8",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "12-07-2024",
@@ -2709,7 +2709,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f092a17a-4f35-401c-acec-ae640be3e3b7",
+    "ID": "f092a17a-4f35-401c-acec-ae640be3e3b7",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "24-11-2024",
@@ -2718,7 +2718,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "aff3e10b-3460-42ff-a09f-468c95dc4379",
+    "ID": "aff3e10b-3460-42ff-a09f-468c95dc4379",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "31-05-2024",
@@ -2727,7 +2727,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c49c2548-b929-46d6-8bd0-f76e8008e54c",
+    "ID": "c49c2548-b929-46d6-8bd0-f76e8008e54c",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "30-07-2024",
@@ -2736,7 +2736,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "491ee730-008b-4817-8e98-5d550e103f48",
+    "ID": "491ee730-008b-4817-8e98-5d550e103f48",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "21-12-2024",
@@ -2745,7 +2745,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1891d646-decf-434a-95e9-f3c6abf6ca68",
+    "ID": "1891d646-decf-434a-95e9-f3c6abf6ca68",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "17-08-2024",
@@ -2754,7 +2754,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f008f856-f006-4041-9c5f-57406422a542",
+    "ID": "f008f856-f006-4041-9c5f-57406422a542",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "24-05-2024",
@@ -2763,7 +2763,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c7768333-21e9-499e-8899-b3063e6b0d23",
+    "ID": "c7768333-21e9-499e-8899-b3063e6b0d23",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "18-11-2024",
@@ -2772,7 +2772,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "555e0951-6a4b-4076-8c8f-8703042a0eb3",
+    "ID": "555e0951-6a4b-4076-8c8f-8703042a0eb3",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "24-11-2024",
@@ -2781,7 +2781,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "397777fc-118c-4bea-a7f3-02a43512bfb6",
+    "ID": "397777fc-118c-4bea-a7f3-02a43512bfb6",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "11-04-2024",
@@ -2790,7 +2790,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "be080276-80cb-44af-a881-8b15c7ed978e",
+    "ID": "be080276-80cb-44af-a881-8b15c7ed978e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "08-10-2024",
@@ -2799,7 +2799,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6eaf21ba-7308-41d9-a156-8aa820e216c7",
+    "ID": "6eaf21ba-7308-41d9-a156-8aa820e216c7",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "11-11-2024",
@@ -2808,7 +2808,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "73b05efc-d760-4351-bb11-9886b3e4b35d",
+    "ID": "73b05efc-d760-4351-bb11-9886b3e4b35d",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "01-01-2025",
@@ -2817,7 +2817,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a18fc3a4-dc6d-4eec-a564-bd6b4bb4295f",
+    "ID": "a18fc3a4-dc6d-4eec-a564-bd6b4bb4295f",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "12-01-2025",
@@ -2826,7 +2826,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a05ca35b-cba2-4296-960f-3e08d41eb573",
+    "ID": "a05ca35b-cba2-4296-960f-3e08d41eb573",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "05-11-2024",
@@ -2835,7 +2835,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "de6d3191-b841-4601-bb5d-2cee84699123",
+    "ID": "de6d3191-b841-4601-bb5d-2cee84699123",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "26-04-2024",
@@ -2844,7 +2844,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5c988880-cc90-4bd0-88c9-f89bdf2e0c0f",
+    "ID": "5c988880-cc90-4bd0-88c9-f89bdf2e0c0f",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "19-03-2024",
@@ -2853,7 +2853,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "43db6408-42a0-427e-b4cb-9cb22b184192",
+    "ID": "43db6408-42a0-427e-b4cb-9cb22b184192",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "16-03-2024",
@@ -2862,7 +2862,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "07b749c9-3adc-42ce-a888-965a076df5f7",
+    "ID": "07b749c9-3adc-42ce-a888-965a076df5f7",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "10-06-2024",
@@ -2871,7 +2871,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ae1ffbd2-7f06-4706-87be-5f0d4108345e",
+    "ID": "ae1ffbd2-7f06-4706-87be-5f0d4108345e",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "19-06-2024",
@@ -2880,7 +2880,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "11353509-aa8d-4846-b0a4-4059acd73de6",
+    "ID": "11353509-aa8d-4846-b0a4-4059acd73de6",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "29-08-2024",
@@ -2889,7 +2889,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "985414e3-5587-46df-bc3c-13fffa6d0c15",
+    "ID": "985414e3-5587-46df-bc3c-13fffa6d0c15",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "29-05-2024",
@@ -2898,7 +2898,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7e72792c-f5b4-488f-bc71-3851b90fbb15",
+    "ID": "7e72792c-f5b4-488f-bc71-3851b90fbb15",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "23-11-2024",
@@ -2907,7 +2907,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "340a84ce-195d-4484-abe8-b281273b37a0",
+    "ID": "340a84ce-195d-4484-abe8-b281273b37a0",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "29-04-2024",
@@ -2916,7 +2916,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "916d3106-4bd6-4cd8-8176-bc29046b4777",
+    "ID": "916d3106-4bd6-4cd8-8176-bc29046b4777",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "01-02-2024",
@@ -2925,7 +2925,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5073f726-0a49-4d17-8e6b-a1745fe3a01f",
+    "ID": "5073f726-0a49-4d17-8e6b-a1745fe3a01f",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "11-03-2024",
@@ -2934,7 +2934,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "77ee86ab-e7e3-413b-b869-33df329a72cf",
+    "ID": "77ee86ab-e7e3-413b-b869-33df329a72cf",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "24-03-2024",
@@ -2943,7 +2943,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c3a5abbd-75d3-48f6-bb53-383edcd44be6",
+    "ID": "c3a5abbd-75d3-48f6-bb53-383edcd44be6",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "17-11-2024",
@@ -2952,7 +2952,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fd5b63ea-b9f1-45e8-8319-11d65e77183f",
+    "ID": "fd5b63ea-b9f1-45e8-8319-11d65e77183f",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "08-06-2024",
@@ -2961,7 +2961,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "868e6d24-16be-46e5-83a4-f34cd33cad1e",
+    "ID": "868e6d24-16be-46e5-83a4-f34cd33cad1e",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "11-10-2024",
@@ -2970,7 +2970,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "abe5792f-58b4-4024-a011-bd0b7fa7f929",
+    "ID": "abe5792f-58b4-4024-a011-bd0b7fa7f929",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "27-07-2024",
@@ -2979,7 +2979,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9cdb9ab0-cec0-46cd-a153-3cbc1bab28e3",
+    "ID": "9cdb9ab0-cec0-46cd-a153-3cbc1bab28e3",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "26-01-2024",
@@ -2988,7 +2988,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ea1068a9-8d45-4913-8899-3f2d4a08ffb5",
+    "ID": "ea1068a9-8d45-4913-8899-3f2d4a08ffb5",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "12-02-2024",
@@ -2997,7 +2997,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2c69387d-8d22-46bb-9195-dfbc3b18ab65",
+    "ID": "2c69387d-8d22-46bb-9195-dfbc3b18ab65",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "10-07-2024",
@@ -3006,7 +3006,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3f76e271-32b5-4933-a612-a2712b2a083f",
+    "ID": "3f76e271-32b5-4933-a612-a2712b2a083f",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "31-05-2024",
@@ -3015,7 +3015,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b379f38a-26b6-45ea-8116-a4c81fdcec3b",
+    "ID": "b379f38a-26b6-45ea-8116-a4c81fdcec3b",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "13-03-2024",
@@ -3024,7 +3024,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a06ca80f-2071-4df0-818a-78828f52688c",
+    "ID": "a06ca80f-2071-4df0-818a-78828f52688c",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "14-10-2024",
@@ -3033,7 +3033,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d832c372-a353-4961-a2d3-1a595dcf674b",
+    "ID": "d832c372-a353-4961-a2d3-1a595dcf674b",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "10-01-2025",
@@ -3042,7 +3042,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fc596809-817a-4d88-9159-ed6f8ac949e6",
+    "ID": "fc596809-817a-4d88-9159-ed6f8ac949e6",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "17-11-2024",
@@ -3051,7 +3051,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e5b91cdd-b3e9-407b-9994-78a1efc2f45b",
+    "ID": "e5b91cdd-b3e9-407b-9994-78a1efc2f45b",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "23-08-2024",
@@ -3060,7 +3060,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "aaa10c36-e0e4-42aa-b35d-28bffa4f6812",
+    "ID": "aaa10c36-e0e4-42aa-b35d-28bffa4f6812",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "31-07-2024",
@@ -3069,7 +3069,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "437195f8-8633-43c6-b96d-6a6b6d19addf",
+    "ID": "437195f8-8633-43c6-b96d-6a6b6d19addf",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "23-03-2024",
@@ -3078,7 +3078,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "918eb79f-48bc-4d17-82e4-b0ad12417dfc",
+    "ID": "918eb79f-48bc-4d17-82e4-b0ad12417dfc",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "16-03-2024",
@@ -3087,7 +3087,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "babb7ac0-49fd-4184-ac83-3a44e659e732",
+    "ID": "babb7ac0-49fd-4184-ac83-3a44e659e732",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "16-05-2024",
@@ -3096,7 +3096,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "20abe240-d848-4d20-b19e-32619e28c440",
+    "ID": "20abe240-d848-4d20-b19e-32619e28c440",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "06-07-2024",
@@ -3105,7 +3105,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8565ba1c-5ea7-471c-b91e-eebd91617222",
+    "ID": "8565ba1c-5ea7-471c-b91e-eebd91617222",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "28-01-2024",
@@ -3114,7 +3114,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f91205a4-c439-473e-84eb-5646036ed16c",
+    "ID": "f91205a4-c439-473e-84eb-5646036ed16c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "17-02-2024",
@@ -3123,7 +3123,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b5c205f3-dd1b-4832-a08e-a364d7c489a3",
+    "ID": "b5c205f3-dd1b-4832-a08e-a364d7c489a3",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "20-12-2024",
@@ -3132,7 +3132,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5809e89d-4a8c-444d-97a4-bc32d26024f0",
+    "ID": "5809e89d-4a8c-444d-97a4-bc32d26024f0",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "18-03-2024",
@@ -3141,7 +3141,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "776b83fd-9c85-4573-879a-5215c7c8a812",
+    "ID": "776b83fd-9c85-4573-879a-5215c7c8a812",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "19-03-2024",
@@ -3150,7 +3150,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "295bee7c-e75f-4509-8299-d1e78641df2e",
+    "ID": "295bee7c-e75f-4509-8299-d1e78641df2e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "20-04-2024",
@@ -3159,7 +3159,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4625f972-8525-4cb4-afee-f8bd4934600d",
+    "ID": "4625f972-8525-4cb4-afee-f8bd4934600d",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "31-05-2024",
@@ -3168,7 +3168,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6401f207-b8ea-436c-8aad-8f39f3df1616",
+    "ID": "6401f207-b8ea-436c-8aad-8f39f3df1616",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "01-12-2024",
@@ -3177,7 +3177,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8b58d5d5-ddd0-4050-b17f-c8e859361166",
+    "ID": "8b58d5d5-ddd0-4050-b17f-c8e859361166",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "23-04-2024",
@@ -3186,7 +3186,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cbb004fe-5f5d-457d-932a-112d343da592",
+    "ID": "cbb004fe-5f5d-457d-932a-112d343da592",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "24-01-2024",
@@ -3195,7 +3195,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "13adf0ad-23e6-46d0-b7be-eaec26c19619",
+    "ID": "13adf0ad-23e6-46d0-b7be-eaec26c19619",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "17-03-2024",
@@ -3204,7 +3204,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "56696024-08bc-4239-97e0-87c352fb9e8e",
+    "ID": "56696024-08bc-4239-97e0-87c352fb9e8e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "14-09-2024",
@@ -3213,7 +3213,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cc70f91d-3a73-4bf3-9085-161714fb5932",
+    "ID": "cc70f91d-3a73-4bf3-9085-161714fb5932",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-12-2024",
@@ -3222,7 +3222,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "637355ea-978c-4920-bf6f-2c35fd8a2547",
+    "ID": "637355ea-978c-4920-bf6f-2c35fd8a2547",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "13-11-2024",
@@ -3231,7 +3231,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "24c1149f-8e89-4583-a506-32f4c8dd6e54",
+    "ID": "24c1149f-8e89-4583-a506-32f4c8dd6e54",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "07-12-2024",
@@ -3240,7 +3240,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cf3ec46f-6d63-444f-ab30-0031f5a22aa1",
+    "ID": "cf3ec46f-6d63-444f-ab30-0031f5a22aa1",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "04-02-2024",
@@ -3249,7 +3249,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7319c24e-5f30-4563-a067-b9f7b1f6ae00",
+    "ID": "7319c24e-5f30-4563-a067-b9f7b1f6ae00",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "09-01-2025",
@@ -3258,7 +3258,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "acaa0c40-8db9-4478-b257-af0cfee4f7b4",
+    "ID": "acaa0c40-8db9-4478-b257-af0cfee4f7b4",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "21-01-2025",
@@ -3267,7 +3267,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "dda1f838-6ab9-42c5-b504-a0884c95c12f",
+    "ID": "dda1f838-6ab9-42c5-b504-a0884c95c12f",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "10-05-2024",
@@ -3276,7 +3276,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "63da092b-89cf-4459-99db-83e0a53eb28a",
+    "ID": "63da092b-89cf-4459-99db-83e0a53eb28a",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "25-01-2024",
@@ -3285,7 +3285,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "79e95ba0-70f3-4dad-a12f-f03834b617e7",
+    "ID": "79e95ba0-70f3-4dad-a12f-f03834b617e7",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "12-03-2024",
@@ -3294,7 +3294,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2dc8127c-423d-4ee7-b1f7-6262874c63e4",
+    "ID": "2dc8127c-423d-4ee7-b1f7-6262874c63e4",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "02-04-2024",
@@ -3303,7 +3303,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "68e7436f-fd51-47af-83a9-2da9e8c4a37c",
+    "ID": "68e7436f-fd51-47af-83a9-2da9e8c4a37c",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "10-04-2024",
@@ -3312,7 +3312,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d07919dc-be40-4e0b-bc13-d47d31b7dd9e",
+    "ID": "d07919dc-be40-4e0b-bc13-d47d31b7dd9e",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "24-11-2024",
@@ -3321,7 +3321,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d7685075-f54b-457f-82c6-2c0620ccd892",
+    "ID": "d7685075-f54b-457f-82c6-2c0620ccd892",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "09-05-2024",
@@ -3330,7 +3330,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "304431c6-9dbc-4ee2-baa3-c78fd6a66b74",
+    "ID": "304431c6-9dbc-4ee2-baa3-c78fd6a66b74",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "07-08-2024",
@@ -3339,7 +3339,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9f92472c-7bde-4fbc-becf-aa299ebacc43",
+    "ID": "9f92472c-7bde-4fbc-becf-aa299ebacc43",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "08-05-2024",
@@ -3348,7 +3348,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2c37bbdf-0cd5-4b76-be2a-b6225a6d5eec",
+    "ID": "2c37bbdf-0cd5-4b76-be2a-b6225a6d5eec",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "20-06-2024",
@@ -3357,7 +3357,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d7dfe082-0ae7-49ba-89c2-db150f3170f9",
+    "ID": "d7dfe082-0ae7-49ba-89c2-db150f3170f9",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "01-08-2024",
@@ -3366,7 +3366,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5370829a-daa6-4385-89a1-862f4d45269c",
+    "ID": "5370829a-daa6-4385-89a1-862f4d45269c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "24-03-2024",
@@ -3375,7 +3375,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d164af35-8761-4e14-92b9-2660a66bd848",
+    "ID": "d164af35-8761-4e14-92b9-2660a66bd848",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "22-06-2024",
@@ -3384,7 +3384,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e7b5513a-964a-4727-84ae-078c8bb7ea9a",
+    "ID": "e7b5513a-964a-4727-84ae-078c8bb7ea9a",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "03-02-2024",
@@ -3393,7 +3393,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d6bbd651-bc5f-497d-8e28-38f96cc3c57b",
+    "ID": "d6bbd651-bc5f-497d-8e28-38f96cc3c57b",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "01-12-2024",
@@ -3402,7 +3402,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5b552575-2caa-4d11-80a0-b471902e8aaa",
+    "ID": "5b552575-2caa-4d11-80a0-b471902e8aaa",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "30-07-2024",
@@ -3411,7 +3411,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "887c5e43-06cb-4d84-b27c-a92c8e2746ab",
+    "ID": "887c5e43-06cb-4d84-b27c-a92c8e2746ab",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "31-07-2024",
@@ -3420,7 +3420,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ed63fe23-d38f-4d58-8125-daf6a67e7620",
+    "ID": "ed63fe23-d38f-4d58-8125-daf6a67e7620",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "08-08-2024",
@@ -3429,7 +3429,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "532b4267-cb9e-4093-b870-88d894a431a2",
+    "ID": "532b4267-cb9e-4093-b870-88d894a431a2",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "21-09-2024",
@@ -3438,7 +3438,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0cc562e4-4872-496e-bd43-ad62edd2fb4f",
+    "ID": "0cc562e4-4872-496e-bd43-ad62edd2fb4f",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "09-02-2024",
@@ -3447,7 +3447,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ae28e3ef-1ced-462e-a755-df6b59c27682",
+    "ID": "ae28e3ef-1ced-462e-a755-df6b59c27682",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "28-03-2024",
@@ -3456,7 +3456,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f0abffb7-49c1-4692-930c-15d10922c2e7",
+    "ID": "f0abffb7-49c1-4692-930c-15d10922c2e7",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "27-08-2024",
@@ -3465,7 +3465,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2be4442f-6036-465d-a46c-889fda13e16e",
+    "ID": "2be4442f-6036-465d-a46c-889fda13e16e",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "04-11-2024",
@@ -3474,7 +3474,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5f800043-f2db-4b52-83b0-05c914931aa0",
+    "ID": "5f800043-f2db-4b52-83b0-05c914931aa0",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "12-09-2024",
@@ -3483,7 +3483,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "de592d9c-5e64-4a83-aae3-d8f981be3668",
+    "ID": "de592d9c-5e64-4a83-aae3-d8f981be3668",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "24-02-2024",
@@ -3492,7 +3492,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4dc92fa8-b12e-45b7-8c7a-b9654b8a67d5",
+    "ID": "4dc92fa8-b12e-45b7-8c7a-b9654b8a67d5",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "22-06-2024",
@@ -3501,7 +3501,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e0d75fe5-2f3d-43f6-905b-fa15cffc43b9",
+    "ID": "e0d75fe5-2f3d-43f6-905b-fa15cffc43b9",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "28-01-2024",
@@ -3510,7 +3510,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c35fea05-bc2f-45e2-b5e5-3392db6025a9",
+    "ID": "c35fea05-bc2f-45e2-b5e5-3392db6025a9",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "14-01-2025",
@@ -3519,7 +3519,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9d511909-d4e7-4734-83af-74f6e6e4255a",
+    "ID": "9d511909-d4e7-4734-83af-74f6e6e4255a",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "11-08-2024",
@@ -3528,7 +3528,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2b248157-0660-47b4-9e88-fc7ef87da3b2",
+    "ID": "2b248157-0660-47b4-9e88-fc7ef87da3b2",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "25-01-2024",
@@ -3537,7 +3537,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "be218869-f177-49eb-869a-2ddbd04af949",
+    "ID": "be218869-f177-49eb-869a-2ddbd04af949",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "03-01-2025",
@@ -3546,7 +3546,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "bc20b9a7-9142-4d82-b769-5d468a857ba5",
+    "ID": "bc20b9a7-9142-4d82-b769-5d468a857ba5",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "07-07-2024",
@@ -3555,7 +3555,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "505e6e38-62ab-4df8-9e13-a716e5cfa49f",
+    "ID": "505e6e38-62ab-4df8-9e13-a716e5cfa49f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "15-07-2024",
@@ -3564,7 +3564,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "dc8861c2-a96f-4620-8c99-3cd6872aa055",
+    "ID": "dc8861c2-a96f-4620-8c99-3cd6872aa055",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "23-12-2024",
@@ -3573,7 +3573,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "18389b49-7711-4da1-a79f-b0fd7c813172",
+    "ID": "18389b49-7711-4da1-a79f-b0fd7c813172",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "20-04-2024",
@@ -3582,7 +3582,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "106b20f8-dd1d-4fff-9390-d1e1c7baeb96",
+    "ID": "106b20f8-dd1d-4fff-9390-d1e1c7baeb96",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "25-11-2024",
@@ -3591,7 +3591,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c9af4e49-6278-44cc-b712-d37823aba4ce",
+    "ID": "c9af4e49-6278-44cc-b712-d37823aba4ce",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "30-08-2024",
@@ -3600,7 +3600,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c9e6afc9-5759-47be-9000-ea6667bae917",
+    "ID": "c9e6afc9-5759-47be-9000-ea6667bae917",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "31-01-2024",
@@ -3609,7 +3609,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "552fe741-8647-4a63-80a8-824b63fd1865",
+    "ID": "552fe741-8647-4a63-80a8-824b63fd1865",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "15-11-2024",
@@ -3618,7 +3618,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "62dac13c-30a0-44b7-9bd8-e49a1e9c3bc9",
+    "ID": "62dac13c-30a0-44b7-9bd8-e49a1e9c3bc9",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "06-01-2025",
@@ -3627,7 +3627,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f82133ae-83cf-475e-b77c-becd892d5418",
+    "ID": "f82133ae-83cf-475e-b77c-becd892d5418",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "25-04-2024",
@@ -3636,7 +3636,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "957d60b5-e663-428f-9b5b-329b11d93640",
+    "ID": "957d60b5-e663-428f-9b5b-329b11d93640",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "15-11-2024",
@@ -3645,7 +3645,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fefd9fd0-9f9d-4c5f-a2bc-6be703903564",
+    "ID": "fefd9fd0-9f9d-4c5f-a2bc-6be703903564",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "27-04-2024",
@@ -3654,7 +3654,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "12b3780f-eb18-40da-8368-61862704f467",
+    "ID": "12b3780f-eb18-40da-8368-61862704f467",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "16-07-2024",
@@ -3663,7 +3663,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e3f6d078-ecf2-4a2a-be91-5cca95ba008e",
+    "ID": "e3f6d078-ecf2-4a2a-be91-5cca95ba008e",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "29-02-2024",
@@ -3672,7 +3672,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "233cdfd3-4682-4e95-b2ca-595eeb58d072",
+    "ID": "233cdfd3-4682-4e95-b2ca-595eeb58d072",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "18-04-2024",
@@ -3681,7 +3681,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6294740f-4e08-42b1-9d23-5c2098d44a99",
+    "ID": "6294740f-4e08-42b1-9d23-5c2098d44a99",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "21-04-2024",
@@ -3690,7 +3690,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "88c46476-1c04-48ae-93c8-13a4152f6b8f",
+    "ID": "88c46476-1c04-48ae-93c8-13a4152f6b8f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "09-10-2024",
@@ -3699,7 +3699,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b22dc576-1e55-47f1-9772-c1251e835992",
+    "ID": "b22dc576-1e55-47f1-9772-c1251e835992",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "02-11-2024",
@@ -3708,7 +3708,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1fb67342-0821-4a99-9433-aa9982828550",
+    "ID": "1fb67342-0821-4a99-9433-aa9982828550",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "17-03-2024",
@@ -3717,7 +3717,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9166219f-b172-4d7e-ad40-4a0616713681",
+    "ID": "9166219f-b172-4d7e-ad40-4a0616713681",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "19-02-2024",
@@ -3726,7 +3726,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e6c72633-b52a-4958-896f-749ff9f72395",
+    "ID": "e6c72633-b52a-4958-896f-749ff9f72395",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "12-12-2024",
@@ -3735,7 +3735,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "52e8d957-fa62-497d-a043-7f670176c4e9",
+    "ID": "52e8d957-fa62-497d-a043-7f670176c4e9",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "14-11-2024",
@@ -3744,7 +3744,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e5482cd0-2ded-4161-9dba-f7ef7d54c99f",
+    "ID": "e5482cd0-2ded-4161-9dba-f7ef7d54c99f",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "07-12-2024",
@@ -3753,7 +3753,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ecaadd14-a117-4a3d-b3e2-1e71d14601c8",
+    "ID": "ecaadd14-a117-4a3d-b3e2-1e71d14601c8",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "25-09-2024",
@@ -3762,7 +3762,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2a216efe-3dd2-44ec-a150-155c85e5e6c0",
+    "ID": "2a216efe-3dd2-44ec-a150-155c85e5e6c0",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "03-09-2024",
@@ -3771,7 +3771,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f753ee14-5301-4068-9726-289ee7925760",
+    "ID": "f753ee14-5301-4068-9726-289ee7925760",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "14-01-2025",
@@ -3780,7 +3780,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "19ebfcd1-3b7e-414e-9301-b7a648ac4b47",
+    "ID": "19ebfcd1-3b7e-414e-9301-b7a648ac4b47",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "18-10-2024",
@@ -3789,7 +3789,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "423ff273-53fb-46eb-a8d7-2c98ba2b94f9",
+    "ID": "423ff273-53fb-46eb-a8d7-2c98ba2b94f9",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "20-04-2024",
@@ -3798,7 +3798,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "62731214-5d2b-45db-ae73-7d9a111f373c",
+    "ID": "62731214-5d2b-45db-ae73-7d9a111f373c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "03-03-2024",
@@ -3807,7 +3807,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "39da84fc-8685-4c53-9ab4-78a465a06284",
+    "ID": "39da84fc-8685-4c53-9ab4-78a465a06284",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "16-06-2024",
@@ -3816,7 +3816,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b731980c-776c-42d5-ab47-20afed68c5ab",
+    "ID": "b731980c-776c-42d5-ab47-20afed68c5ab",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "29-12-2024",
@@ -3825,7 +3825,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cf72c20c-9426-4178-8ea2-da3aa51f5b0f",
+    "ID": "cf72c20c-9426-4178-8ea2-da3aa51f5b0f",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "03-06-2024",
@@ -3834,7 +3834,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "51a2df9d-8a09-4c90-b1a0-ccc76209ecd3",
+    "ID": "51a2df9d-8a09-4c90-b1a0-ccc76209ecd3",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "12-05-2024",
@@ -3843,7 +3843,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0bc67b31-e374-41fe-b928-ab5b0c10de54",
+    "ID": "0bc67b31-e374-41fe-b928-ab5b0c10de54",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "07-08-2024",
@@ -3852,7 +3852,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b5dec97b-6d81-43ba-bd7e-038b374eead9",
+    "ID": "b5dec97b-6d81-43ba-bd7e-038b374eead9",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "19-07-2024",
@@ -3861,7 +3861,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d7c2b74e-ebd5-4954-a10e-0346efe67470",
+    "ID": "d7c2b74e-ebd5-4954-a10e-0346efe67470",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "12-06-2024",
@@ -3870,7 +3870,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6c89c797-20f8-467e-9698-5570452fdce5",
+    "ID": "6c89c797-20f8-467e-9698-5570452fdce5",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "21-12-2024",
@@ -3879,7 +3879,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f27d9f38-8069-4257-9421-c3403dbbd292",
+    "ID": "f27d9f38-8069-4257-9421-c3403dbbd292",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "09-07-2024",
@@ -3888,7 +3888,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "44e74710-0f26-4cbf-8afc-8ddebf576b42",
+    "ID": "44e74710-0f26-4cbf-8afc-8ddebf576b42",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "30-06-2024",
@@ -3897,7 +3897,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "35fc132c-047b-4d8e-99b5-d7c99a4cf990",
+    "ID": "35fc132c-047b-4d8e-99b5-d7c99a4cf990",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "17-11-2024",
@@ -3906,7 +3906,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c2b6ddb7-16a3-4e7a-9813-0be8a26f07f1",
+    "ID": "c2b6ddb7-16a3-4e7a-9813-0be8a26f07f1",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "20-01-2025",
@@ -3915,7 +3915,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7999a354-01d5-4e29-80e5-91fb90cf5cf6",
+    "ID": "7999a354-01d5-4e29-80e5-91fb90cf5cf6",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "18-06-2024",
@@ -3924,7 +3924,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8de9890a-d201-40e9-a19d-76622f39c41d",
+    "ID": "8de9890a-d201-40e9-a19d-76622f39c41d",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "08-07-2024",
@@ -3933,7 +3933,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d601ff89-2f02-4218-beec-efa1d3e66b2d",
+    "ID": "d601ff89-2f02-4218-beec-efa1d3e66b2d",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "12-12-2024",
@@ -3942,7 +3942,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f5cc0ee6-8b76-442c-a32c-6a5d5d2b67b5",
+    "ID": "f5cc0ee6-8b76-442c-a32c-6a5d5d2b67b5",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "08-07-2024",
@@ -3951,7 +3951,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "43d1577e-a34f-48ec-bb54-df3f4dac88fa",
+    "ID": "43d1577e-a34f-48ec-bb54-df3f4dac88fa",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "15-07-2024",
@@ -3960,7 +3960,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "94f37832-8333-45d6-b6a8-b3489a1ad1d1",
+    "ID": "94f37832-8333-45d6-b6a8-b3489a1ad1d1",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "26-01-2024",
@@ -3969,7 +3969,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6be9e014-6e3f-42cb-bc25-0f1f8eaf7a78",
+    "ID": "6be9e014-6e3f-42cb-bc25-0f1f8eaf7a78",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "19-08-2024",
@@ -3978,7 +3978,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3935f96f-d0db-4bdc-9984-7c111c5bf3ff",
+    "ID": "3935f96f-d0db-4bdc-9984-7c111c5bf3ff",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "12-09-2024",
@@ -3987,7 +3987,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1b2b2273-b025-46ac-af4f-a8b7ba86cff3",
+    "ID": "1b2b2273-b025-46ac-af4f-a8b7ba86cff3",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "13-11-2024",
@@ -3996,7 +3996,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4306cdf1-55fd-4f57-a20d-5e0c644c0b9f",
+    "ID": "4306cdf1-55fd-4f57-a20d-5e0c644c0b9f",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "22-10-2024",
@@ -4005,7 +4005,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ec05e90e-eba7-4224-a5a6-7f240e97a04d",
+    "ID": "ec05e90e-eba7-4224-a5a6-7f240e97a04d",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "14-07-2024",
@@ -4014,7 +4014,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ef4ea5f3-d103-41e1-a1d1-a307c9daca83",
+    "ID": "ef4ea5f3-d103-41e1-a1d1-a307c9daca83",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "12-05-2024",
@@ -4023,7 +4023,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "973a6fed-8269-4ac1-933f-ca574d02514c",
+    "ID": "973a6fed-8269-4ac1-933f-ca574d02514c",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "03-06-2024",
@@ -4032,7 +4032,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ec3000c6-570d-425e-a5cc-c3e967057698",
+    "ID": "ec3000c6-570d-425e-a5cc-c3e967057698",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "15-08-2024",
@@ -4041,7 +4041,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "65df2b54-951a-4426-ac77-2644248bb378",
+    "ID": "65df2b54-951a-4426-ac77-2644248bb378",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "08-09-2024",
@@ -4050,7 +4050,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "06da8c0d-380a-4afd-8a43-c2de7d340930",
+    "ID": "06da8c0d-380a-4afd-8a43-c2de7d340930",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "05-04-2024",
@@ -4059,7 +4059,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "af8f9d1b-007b-4d59-ae7c-9f7838fcea1e",
+    "ID": "af8f9d1b-007b-4d59-ae7c-9f7838fcea1e",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "06-09-2024",
@@ -4068,7 +4068,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "51c75825-9eaa-4bef-a1a2-746f1c7ea50d",
+    "ID": "51c75825-9eaa-4bef-a1a2-746f1c7ea50d",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "16-03-2024",
@@ -4077,7 +4077,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6fe1fa5e-640a-4dbc-bf9d-945983d45e83",
+    "ID": "6fe1fa5e-640a-4dbc-bf9d-945983d45e83",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "03-08-2024",
@@ -4086,7 +4086,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ad739488-3f47-4d16-b9cc-4a9d9486252b",
+    "ID": "ad739488-3f47-4d16-b9cc-4a9d9486252b",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "05-04-2024",
@@ -4095,7 +4095,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0d2913fc-7b6f-41d3-bb24-7afff4ed83f3",
+    "ID": "0d2913fc-7b6f-41d3-bb24-7afff4ed83f3",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "29-12-2024",
@@ -4104,7 +4104,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "dd75ab8f-c6cb-4c18-87bd-178496a0d17c",
+    "ID": "dd75ab8f-c6cb-4c18-87bd-178496a0d17c",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "21-03-2024",
@@ -4113,7 +4113,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d8a039ac-55ae-4448-ae3a-595515b5bbd8",
+    "ID": "d8a039ac-55ae-4448-ae3a-595515b5bbd8",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "23-09-2024",
@@ -4122,7 +4122,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c8914852-a730-4595-bb94-4e35bc633adf",
+    "ID": "c8914852-a730-4595-bb94-4e35bc633adf",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "16-10-2024",
@@ -4131,7 +4131,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ef083f29-0257-4462-88fe-2a15e1a411a3",
+    "ID": "ef083f29-0257-4462-88fe-2a15e1a411a3",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "20-01-2025",
@@ -4140,7 +4140,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0e1bb8d7-9111-4729-a609-d605d046506f",
+    "ID": "0e1bb8d7-9111-4729-a609-d605d046506f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "20-06-2024",
@@ -4149,7 +4149,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "17315f83-37be-4b94-83cb-6e5c332bd9e5",
+    "ID": "17315f83-37be-4b94-83cb-6e5c332bd9e5",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "05-01-2025",
@@ -4158,7 +4158,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7c4b3d8d-cd4e-48a9-b9ed-2ac399454bbf",
+    "ID": "7c4b3d8d-cd4e-48a9-b9ed-2ac399454bbf",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "27-12-2024",
@@ -4167,7 +4167,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d0c222a5-8143-4c72-ab72-87b56bbba261",
+    "ID": "d0c222a5-8143-4c72-ab72-87b56bbba261",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "08-08-2024",
@@ -4176,7 +4176,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "bad3450e-1684-4b2b-b260-d2447729e066",
+    "ID": "bad3450e-1684-4b2b-b260-d2447729e066",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "19-04-2024",
@@ -4185,7 +4185,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cedf966c-22b2-4b74-9525-b109122ca0ad",
+    "ID": "cedf966c-22b2-4b74-9525-b109122ca0ad",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "10-09-2024",
@@ -4194,7 +4194,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "650baa59-84c1-4f2a-8443-68d8226d8c35",
+    "ID": "650baa59-84c1-4f2a-8443-68d8226d8c35",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "15-09-2024",
@@ -4203,7 +4203,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "741956dc-4950-4818-8a6c-9ef1c8adba55",
+    "ID": "741956dc-4950-4818-8a6c-9ef1c8adba55",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "05-08-2024",
@@ -4212,7 +4212,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c2c41392-f493-4e1d-9311-9d977bb536bb",
+    "ID": "c2c41392-f493-4e1d-9311-9d977bb536bb",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "01-09-2024",
@@ -4221,7 +4221,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "530401eb-1d84-4d7d-a1ee-4b80b44b9cea",
+    "ID": "530401eb-1d84-4d7d-a1ee-4b80b44b9cea",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "05-01-2025",
@@ -4230,7 +4230,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0e46a0d8-5f41-40df-b676-e08115d59dd8",
+    "ID": "0e46a0d8-5f41-40df-b676-e08115d59dd8",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "06-08-2024",
@@ -4239,7 +4239,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "19e17322-33d2-4b0d-89f6-c7cac2e01197",
+    "ID": "19e17322-33d2-4b0d-89f6-c7cac2e01197",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "02-09-2024",
@@ -4248,7 +4248,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ebcd37a3-7059-4ade-b88d-6f2887ae11a9",
+    "ID": "ebcd37a3-7059-4ade-b88d-6f2887ae11a9",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "17-01-2025",
@@ -4257,7 +4257,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "65dc6967-15cd-4411-8cc3-91fe238fb221",
+    "ID": "65dc6967-15cd-4411-8cc3-91fe238fb221",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "21-05-2024",
@@ -4266,7 +4266,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b66f5145-b466-4ae1-94ae-a136bbd5da09",
+    "ID": "b66f5145-b466-4ae1-94ae-a136bbd5da09",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "25-01-2024",
@@ -4275,7 +4275,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "de5238b3-72c9-4adf-ac13-2c975e3fe1c3",
+    "ID": "de5238b3-72c9-4adf-ac13-2c975e3fe1c3",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "17-07-2024",
@@ -4284,7 +4284,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "82a546ee-bc70-4e30-86d3-f91277ea9110",
+    "ID": "82a546ee-bc70-4e30-86d3-f91277ea9110",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "23-07-2024",
@@ -4293,7 +4293,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e6935277-14e1-49f7-a98b-31ebb00a54d9",
+    "ID": "e6935277-14e1-49f7-a98b-31ebb00a54d9",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "11-01-2025",
@@ -4302,7 +4302,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6af2182c-aaa3-4e78-83fe-3272003a66ac",
+    "ID": "6af2182c-aaa3-4e78-83fe-3272003a66ac",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "13-01-2025",
@@ -4311,7 +4311,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b08fb7d4-d137-4f28-99bc-ffe178aa3056",
+    "ID": "b08fb7d4-d137-4f28-99bc-ffe178aa3056",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "06-01-2025",
@@ -4320,7 +4320,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "847a8293-6648-455b-925a-48fa2a4ba39e",
+    "ID": "847a8293-6648-455b-925a-48fa2a4ba39e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "29-04-2024",
@@ -4329,7 +4329,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "be671069-4be5-4f7a-b9e8-0b9a1270835a",
+    "ID": "be671069-4be5-4f7a-b9e8-0b9a1270835a",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "12-12-2024",
@@ -4338,7 +4338,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a5b73c05-914d-4134-9f9f-fce396f34013",
+    "ID": "a5b73c05-914d-4134-9f9f-fce396f34013",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "16-04-2024",
@@ -4347,7 +4347,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7c70e97b-42df-45eb-a7c3-fe6b655bde5f",
+    "ID": "7c70e97b-42df-45eb-a7c3-fe6b655bde5f",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "03-11-2024",
@@ -4356,7 +4356,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cd1aeb2f-8874-45a4-8972-6ab47815c08a",
+    "ID": "cd1aeb2f-8874-45a4-8972-6ab47815c08a",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "04-04-2024",
@@ -4365,7 +4365,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "22fd7dad-9385-47dd-af87-ed90eb6869aa",
+    "ID": "22fd7dad-9385-47dd-af87-ed90eb6869aa",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "06-06-2024",
@@ -4374,7 +4374,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "18058286-5090-41da-b909-1d853311b9ce",
+    "ID": "18058286-5090-41da-b909-1d853311b9ce",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "07-01-2025",
@@ -4383,7 +4383,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6a2d1cb2-b53c-4584-b8c2-ddaf876f2a38",
+    "ID": "6a2d1cb2-b53c-4584-b8c2-ddaf876f2a38",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "13-10-2024",
@@ -4392,7 +4392,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "38f9d1ab-a981-4394-a85e-0e3c02f238a3",
+    "ID": "38f9d1ab-a981-4394-a85e-0e3c02f238a3",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "24-07-2024",
@@ -4401,7 +4401,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8da5b95e-acb1-4a5f-bf12-58a34d7466fa",
+    "ID": "8da5b95e-acb1-4a5f-bf12-58a34d7466fa",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "13-09-2024",
@@ -4410,7 +4410,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f593d778-a98e-44f8-bf1c-d9365d116597",
+    "ID": "f593d778-a98e-44f8-bf1c-d9365d116597",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "28-04-2024",
@@ -4419,7 +4419,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "638d5d50-ddd8-4f33-a2e1-9292792e0a64",
+    "ID": "638d5d50-ddd8-4f33-a2e1-9292792e0a64",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "30-11-2024",
@@ -4428,7 +4428,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6256eed8-e86a-403e-a57f-f587598bfba9",
+    "ID": "6256eed8-e86a-403e-a57f-f587598bfba9",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "08-11-2024",
@@ -4437,7 +4437,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ff4cb632-f528-4d55-8764-ed12952b0081",
+    "ID": "ff4cb632-f528-4d55-8764-ed12952b0081",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "22-06-2024",
@@ -4446,7 +4446,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "bea102df-9b29-4eea-b4b5-95dee03eeba7",
+    "ID": "bea102df-9b29-4eea-b4b5-95dee03eeba7",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "27-07-2024",
@@ -4455,7 +4455,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "424599cb-092d-4c8c-9cf6-c7f63e115af5",
+    "ID": "424599cb-092d-4c8c-9cf6-c7f63e115af5",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "02-02-2024",
@@ -4464,7 +4464,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ba72c0d2-4fe0-4aec-b5ae-e815929605bb",
+    "ID": "ba72c0d2-4fe0-4aec-b5ae-e815929605bb",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "28-03-2024",
@@ -4473,7 +4473,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8942daad-65bd-43d2-9167-9bb91ef00280",
+    "ID": "8942daad-65bd-43d2-9167-9bb91ef00280",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "04-06-2024",
@@ -4482,7 +4482,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5a40ab24-2046-480e-af38-8cef273ab279",
+    "ID": "5a40ab24-2046-480e-af38-8cef273ab279",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "22-08-2024",
@@ -4491,7 +4491,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "860504c5-1355-4110-bdaa-1f4bfb9fa52c",
+    "ID": "860504c5-1355-4110-bdaa-1f4bfb9fa52c",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "24-04-2024",
@@ -4500,7 +4500,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "21bccf3a-2f55-45f3-aa7a-39446f7227f5",
+    "ID": "21bccf3a-2f55-45f3-aa7a-39446f7227f5",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "23-04-2024",
@@ -4509,7 +4509,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0afcf877-e4e6-4884-8956-5d7f30ed3807",
+    "ID": "0afcf877-e4e6-4884-8956-5d7f30ed3807",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "01-06-2024",
@@ -4518,7 +4518,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "822298c9-6144-4d90-aa8f-1358e2f99cff",
+    "ID": "822298c9-6144-4d90-aa8f-1358e2f99cff",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "09-06-2024",
@@ -4527,7 +4527,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0fa187fe-efba-46ce-b761-71113f9a8957",
+    "ID": "0fa187fe-efba-46ce-b761-71113f9a8957",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "28-12-2024",
@@ -4536,7 +4536,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "300581d8-c382-4ea2-88dd-deb407fc0985",
+    "ID": "300581d8-c382-4ea2-88dd-deb407fc0985",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "02-06-2024",
@@ -4545,7 +4545,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7612ebb4-4ae1-4063-a07a-ad6f9793a7df",
+    "ID": "7612ebb4-4ae1-4063-a07a-ad6f9793a7df",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "24-07-2024",
@@ -4554,7 +4554,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d4b8534d-0c63-4295-9c22-0baebbe43566",
+    "ID": "d4b8534d-0c63-4295-9c22-0baebbe43566",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "22-05-2024",
@@ -4563,7 +4563,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "27d47f62-5631-42e6-abe9-0f861b28899d",
+    "ID": "27d47f62-5631-42e6-abe9-0f861b28899d",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "04-05-2024",
@@ -4572,7 +4572,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6bc9dbda-cde5-47d3-b45d-fe6c4ebf6a6e",
+    "ID": "6bc9dbda-cde5-47d3-b45d-fe6c4ebf6a6e",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "25-12-2024",
@@ -4581,7 +4581,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a67a3fcc-bac9-455e-91eb-b9ce43027634",
+    "ID": "a67a3fcc-bac9-455e-91eb-b9ce43027634",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "05-09-2024",
@@ -4590,7 +4590,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a4fc7e1f-81e6-4260-b064-f358d6653f44",
+    "ID": "a4fc7e1f-81e6-4260-b064-f358d6653f44",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "11-01-2025",
@@ -4599,7 +4599,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2da1e16b-97ed-4481-8586-6471ffb534fe",
+    "ID": "2da1e16b-97ed-4481-8586-6471ffb534fe",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "21-03-2024",
@@ -4608,7 +4608,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f5c3cef5-d7b0-49e2-bca4-47dc7225f551",
+    "ID": "f5c3cef5-d7b0-49e2-bca4-47dc7225f551",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "11-03-2024",
@@ -4617,7 +4617,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "632faec3-d559-4ae9-a1d0-0f1b00b1d2a9",
+    "ID": "632faec3-d559-4ae9-a1d0-0f1b00b1d2a9",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "08-04-2024",
@@ -4626,7 +4626,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a234abc3-c176-41e7-b782-70fb71c99628",
+    "ID": "a234abc3-c176-41e7-b782-70fb71c99628",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "22-01-2025",
@@ -4635,7 +4635,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b9992cef-e396-4a3f-acc4-09dcf289ea29",
+    "ID": "b9992cef-e396-4a3f-acc4-09dcf289ea29",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "29-07-2024",
@@ -4644,7 +4644,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4ae084d1-0426-4e68-a17c-7a2e19c9354a",
+    "ID": "4ae084d1-0426-4e68-a17c-7a2e19c9354a",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "31-03-2024",
@@ -4653,7 +4653,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4cccd2a0-e48e-49cd-9e63-f18f42b81532",
+    "ID": "4cccd2a0-e48e-49cd-9e63-f18f42b81532",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "16-08-2024",
@@ -4662,7 +4662,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4d28b3ff-0ccd-44fa-b3ff-cb4f8ec537ed",
+    "ID": "4d28b3ff-0ccd-44fa-b3ff-cb4f8ec537ed",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "17-06-2024",
@@ -4671,7 +4671,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "619752b5-e209-4bdb-9e4b-fa38da9a62c5",
+    "ID": "619752b5-e209-4bdb-9e4b-fa38da9a62c5",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "07-02-2024",
@@ -4680,7 +4680,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "020c2009-1dc4-4e97-85d5-365535ef6337",
+    "ID": "020c2009-1dc4-4e97-85d5-365535ef6337",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "25-12-2024",
@@ -4689,7 +4689,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6f5701fd-943c-4d3c-a2c4-220e99547ec8",
+    "ID": "6f5701fd-943c-4d3c-a2c4-220e99547ec8",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "25-04-2024",
@@ -4698,7 +4698,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7e3eddf8-dae4-4bf5-bc7b-c7a9a0b7bec0",
+    "ID": "7e3eddf8-dae4-4bf5-bc7b-c7a9a0b7bec0",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "19-11-2024",
@@ -4707,7 +4707,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8a16f87f-3b46-4f44-99b4-69556f64e3f0",
+    "ID": "8a16f87f-3b46-4f44-99b4-69556f64e3f0",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "03-03-2024",
@@ -4716,7 +4716,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "70ce5558-e05e-47dd-8398-9f2eedca0017",
+    "ID": "70ce5558-e05e-47dd-8398-9f2eedca0017",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "17-10-2024",
@@ -4725,7 +4725,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e1854d60-5e97-4350-8bed-3deacb76d66a",
+    "ID": "e1854d60-5e97-4350-8bed-3deacb76d66a",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "16-10-2024",
@@ -4734,7 +4734,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "58601f6b-379c-4a3c-a99b-d0a087aa2410",
+    "ID": "58601f6b-379c-4a3c-a99b-d0a087aa2410",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "11-12-2024",
@@ -4743,7 +4743,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "72957fbe-b79e-4520-9a1a-5210cae297aa",
+    "ID": "72957fbe-b79e-4520-9a1a-5210cae297aa",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "19-07-2024",
@@ -4752,7 +4752,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5062fd6b-28dc-4fb3-b375-0f65bd93c3ab",
+    "ID": "5062fd6b-28dc-4fb3-b375-0f65bd93c3ab",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "14-10-2024",
@@ -4761,7 +4761,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b6b57d28-efa8-427e-ae93-ce20f85a5cfe",
+    "ID": "b6b57d28-efa8-427e-ae93-ce20f85a5cfe",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "09-02-2024",
@@ -4770,7 +4770,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5d0068d2-4446-45ff-aa81-5e2896a6b732",
+    "ID": "5d0068d2-4446-45ff-aa81-5e2896a6b732",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "16-04-2024",
@@ -4779,7 +4779,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0601d3d9-9515-45d2-82eb-4946d69e619e",
+    "ID": "0601d3d9-9515-45d2-82eb-4946d69e619e",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "20-04-2024",
@@ -4788,7 +4788,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "420815e9-66ba-4846-a96c-4f71ebd936bc",
+    "ID": "420815e9-66ba-4846-a96c-4f71ebd936bc",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "03-09-2024",
@@ -4797,7 +4797,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0dbab0ff-0c58-4927-88f3-b31925659a9f",
+    "ID": "0dbab0ff-0c58-4927-88f3-b31925659a9f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "14-04-2024",
@@ -4806,7 +4806,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7610304f-d775-4d82-b194-ded667d98109",
+    "ID": "7610304f-d775-4d82-b194-ded667d98109",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "28-12-2024",
@@ -4815,7 +4815,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f656cbb0-d52d-4dc4-9902-e3186a52f947",
+    "ID": "f656cbb0-d52d-4dc4-9902-e3186a52f947",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "06-07-2024",
@@ -4824,7 +4824,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b94c209d-6288-4487-afe7-22c17acc156d",
+    "ID": "b94c209d-6288-4487-afe7-22c17acc156d",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "15-07-2024",
@@ -4833,7 +4833,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6607c37d-adb9-4db3-a712-d5df6ed2c315",
+    "ID": "6607c37d-adb9-4db3-a712-d5df6ed2c315",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "15-02-2024",
@@ -4842,7 +4842,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e1725544-1409-4d71-9eca-1776acf9b2c6",
+    "ID": "e1725544-1409-4d71-9eca-1776acf9b2c6",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "26-05-2024",
@@ -4851,7 +4851,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "74ca96f5-95ed-4e9d-87bc-939b779409c8",
+    "ID": "74ca96f5-95ed-4e9d-87bc-939b779409c8",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "01-01-2025",
@@ -4860,7 +4860,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f17ea92e-32b0-44ad-aeba-4dd5fe2e0e17",
+    "ID": "f17ea92e-32b0-44ad-aeba-4dd5fe2e0e17",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "03-01-2025",
@@ -4869,7 +4869,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7f75db6e-a72f-4e43-b1c3-1a392cfe106e",
+    "ID": "7f75db6e-a72f-4e43-b1c3-1a392cfe106e",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "30-09-2024",
@@ -4878,7 +4878,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "629ba432-ae92-4ab0-9cf3-39304cd62e2d",
+    "ID": "629ba432-ae92-4ab0-9cf3-39304cd62e2d",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "21-06-2024",
@@ -4887,7 +4887,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ffe35498-182a-41b7-b1d5-3dfa7856b211",
+    "ID": "ffe35498-182a-41b7-b1d5-3dfa7856b211",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "27-08-2024",
@@ -4896,7 +4896,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5065fe68-18ef-4a51-906f-56b39be68199",
+    "ID": "5065fe68-18ef-4a51-906f-56b39be68199",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "01-06-2024",
@@ -4905,7 +4905,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6ce03ff6-2689-46e3-b7b7-4d06cda98ea4",
+    "ID": "6ce03ff6-2689-46e3-b7b7-4d06cda98ea4",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "18-12-2024",
@@ -4914,7 +4914,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c887472b-a201-46b8-966b-0cab46c62617",
+    "ID": "c887472b-a201-46b8-966b-0cab46c62617",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "27-11-2024",
@@ -4923,7 +4923,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "44d052c1-af59-4345-8a0a-cb02522f5580",
+    "ID": "44d052c1-af59-4345-8a0a-cb02522f5580",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "31-01-2024",
@@ -4932,7 +4932,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "db857b5b-df97-49a4-b773-f1a358e6ef3f",
+    "ID": "db857b5b-df97-49a4-b773-f1a358e6ef3f",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "15-06-2024",
@@ -4941,7 +4941,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3403e27f-e86b-43df-8849-84731ffd8e1a",
+    "ID": "3403e27f-e86b-43df-8849-84731ffd8e1a",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "24-08-2024",
@@ -4950,7 +4950,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "633f4a23-3606-42f6-acf7-f901673957c9",
+    "ID": "633f4a23-3606-42f6-acf7-f901673957c9",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "13-05-2024",
@@ -4959,7 +4959,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0cb1a8dd-55cc-4115-ac76-b028cfc07d14",
+    "ID": "0cb1a8dd-55cc-4115-ac76-b028cfc07d14",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "04-06-2024",
@@ -4968,7 +4968,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1097adbe-2232-4dcc-8a7d-eb003f6586e7",
+    "ID": "1097adbe-2232-4dcc-8a7d-eb003f6586e7",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "13-04-2024",
@@ -4977,7 +4977,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c5e0783d-f01a-4a9d-ba15-c5d70a62e52c",
+    "ID": "c5e0783d-f01a-4a9d-ba15-c5d70a62e52c",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "12-05-2024",
@@ -4986,7 +4986,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3e6ae94b-5935-4824-a4b9-b8524f20b8c8",
+    "ID": "3e6ae94b-5935-4824-a4b9-b8524f20b8c8",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "09-10-2024",
@@ -4995,7 +4995,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ae59e5f5-7ab8-482c-a620-b1daddd42116",
+    "ID": "ae59e5f5-7ab8-482c-a620-b1daddd42116",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "10-01-2025",
@@ -5004,7 +5004,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7ce14f80-d1ef-46b1-9f9c-4dc94d02094c",
+    "ID": "7ce14f80-d1ef-46b1-9f9c-4dc94d02094c",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "11-07-2024",
@@ -5013,7 +5013,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "690934f0-475c-410d-90cc-d87208bd220c",
+    "ID": "690934f0-475c-410d-90cc-d87208bd220c",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "14-04-2024",
@@ -5022,7 +5022,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0c314bcc-c655-454f-a38b-3e51aaa2fc74",
+    "ID": "0c314bcc-c655-454f-a38b-3e51aaa2fc74",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "21-05-2024",
@@ -5031,7 +5031,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c54e7746-6eec-4a7f-9aa3-8876584e74b7",
+    "ID": "c54e7746-6eec-4a7f-9aa3-8876584e74b7",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "29-12-2024",
@@ -5040,7 +5040,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e055e713-3c6e-4fe3-8f91-8f052d35f3e1",
+    "ID": "e055e713-3c6e-4fe3-8f91-8f052d35f3e1",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "08-08-2024",
@@ -5049,7 +5049,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9131f688-9a17-49dd-90ad-6b44da8c8cbf",
+    "ID": "9131f688-9a17-49dd-90ad-6b44da8c8cbf",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "12-09-2024",
@@ -5058,7 +5058,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1e61d266-69bb-42ef-ab52-16f8e0e05c9a",
+    "ID": "1e61d266-69bb-42ef-ab52-16f8e0e05c9a",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "24-11-2024",
@@ -5067,7 +5067,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fa6b4c3c-55ea-44e5-84f3-5a20be19c6dc",
+    "ID": "fa6b4c3c-55ea-44e5-84f3-5a20be19c6dc",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "20-11-2024",
@@ -5076,7 +5076,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "076404bf-a066-4b0a-b3e1-1eeff09c900b",
+    "ID": "076404bf-a066-4b0a-b3e1-1eeff09c900b",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "14-04-2024",
@@ -5085,7 +5085,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6b17305b-4bc2-45a5-a9aa-56eb7026cb70",
+    "ID": "6b17305b-4bc2-45a5-a9aa-56eb7026cb70",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "30-10-2024",
@@ -5094,7 +5094,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b744b158-f3e5-4615-b670-09db3f741c15",
+    "ID": "b744b158-f3e5-4615-b670-09db3f741c15",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "26-04-2024",
@@ -5103,7 +5103,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "636427cf-5433-4d4d-9e1d-1763ee94973f",
+    "ID": "636427cf-5433-4d4d-9e1d-1763ee94973f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "06-09-2024",
@@ -5112,7 +5112,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d5918f03-e978-4f27-bef4-a44da0b87c0f",
+    "ID": "d5918f03-e978-4f27-bef4-a44da0b87c0f",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "29-10-2024",
@@ -5121,7 +5121,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6b8c6804-c00d-4734-81aa-3d6e2bb6ae95",
+    "ID": "6b8c6804-c00d-4734-81aa-3d6e2bb6ae95",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "16-01-2025",
@@ -5130,7 +5130,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a162eaf2-2dc7-427c-aa6a-c6cf41576032",
+    "ID": "a162eaf2-2dc7-427c-aa6a-c6cf41576032",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "01-05-2024",
@@ -5139,7 +5139,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "76e1940a-5ec6-4283-9303-a06463e639ec",
+    "ID": "76e1940a-5ec6-4283-9303-a06463e639ec",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "31-10-2024",
@@ -5148,7 +5148,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cf1550a9-c02a-4222-8ebf-dfb46ba237c1",
+    "ID": "cf1550a9-c02a-4222-8ebf-dfb46ba237c1",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "18-04-2024",
@@ -5157,7 +5157,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "001ca37e-4ed2-4540-baf2-0d535561b1dc",
+    "ID": "001ca37e-4ed2-4540-baf2-0d535561b1dc",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "22-09-2024",
@@ -5166,7 +5166,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "de422606-c2ca-437e-8f76-fbf9731f3d67",
+    "ID": "de422606-c2ca-437e-8f76-fbf9731f3d67",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "05-01-2025",
@@ -5175,7 +5175,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "873339b8-4b29-4731-a73e-e3904d9ad865",
+    "ID": "873339b8-4b29-4731-a73e-e3904d9ad865",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "11-12-2024",
@@ -5184,7 +5184,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e6810c00-2cea-453e-a935-48086e0f9d0f",
+    "ID": "e6810c00-2cea-453e-a935-48086e0f9d0f",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "11-05-2024",
@@ -5193,7 +5193,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8a4324ca-b4b3-4963-ab1d-028d594cf71b",
+    "ID": "8a4324ca-b4b3-4963-ab1d-028d594cf71b",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-11-2024",
@@ -5202,7 +5202,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "38ccc668-76a3-46a2-8878-769970046c4b",
+    "ID": "38ccc668-76a3-46a2-8878-769970046c4b",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-04-2024",
@@ -5211,7 +5211,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "826fe066-a798-46f5-a531-1c8cee9018b2",
+    "ID": "826fe066-a798-46f5-a531-1c8cee9018b2",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "11-10-2024",
@@ -5220,7 +5220,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9de063a8-0d4b-46ad-b747-afbdf7ed3ca3",
+    "ID": "9de063a8-0d4b-46ad-b747-afbdf7ed3ca3",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "28-04-2024",
@@ -5229,7 +5229,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a2f4c26e-9159-476d-97d1-7cfd9571b6d7",
+    "ID": "a2f4c26e-9159-476d-97d1-7cfd9571b6d7",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "14-05-2024",
@@ -5238,7 +5238,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e530c132-28d6-4a25-a067-cc1ff548a72f",
+    "ID": "e530c132-28d6-4a25-a067-cc1ff548a72f",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "28-09-2024",
@@ -5247,7 +5247,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5500f3df-d6dc-49f7-85a4-2a82df723168",
+    "ID": "5500f3df-d6dc-49f7-85a4-2a82df723168",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "24-02-2024",
@@ -5256,7 +5256,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2f740a8c-0114-4fd2-8208-874bec5c72d1",
+    "ID": "2f740a8c-0114-4fd2-8208-874bec5c72d1",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "31-10-2024",
@@ -5265,7 +5265,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d758be5b-15ed-448c-bdf6-6f4b1bb4342d",
+    "ID": "d758be5b-15ed-448c-bdf6-6f4b1bb4342d",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "10-09-2024",
@@ -5274,7 +5274,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1797b15d-41f7-4ae9-a995-a8f5fa009265",
+    "ID": "1797b15d-41f7-4ae9-a995-a8f5fa009265",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "07-02-2024",
@@ -5283,7 +5283,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6c7dc559-cdbc-4c6b-9146-a6e8417b67ed",
+    "ID": "6c7dc559-cdbc-4c6b-9146-a6e8417b67ed",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "29-03-2024",
@@ -5292,7 +5292,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d78b08e1-e34b-4878-84b7-cc57c211fb24",
+    "ID": "d78b08e1-e34b-4878-84b7-cc57c211fb24",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "01-03-2024",
@@ -5301,7 +5301,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f2e1ab84-eb63-4022-aed0-e757ccfab4a5",
+    "ID": "f2e1ab84-eb63-4022-aed0-e757ccfab4a5",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "26-06-2024",
@@ -5310,7 +5310,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "416e022b-6ce6-44c9-9445-ec854f92cb81",
+    "ID": "416e022b-6ce6-44c9-9445-ec854f92cb81",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "27-03-2024",
@@ -5319,7 +5319,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3b7ac50b-e351-4c3c-bec7-7de392388688",
+    "ID": "3b7ac50b-e351-4c3c-bec7-7de392388688",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "11-10-2024",
@@ -5328,7 +5328,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "94d0ead3-7222-44de-8937-a6b4705bf8eb",
+    "ID": "94d0ead3-7222-44de-8937-a6b4705bf8eb",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "25-04-2024",
@@ -5337,7 +5337,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "619d4ee5-8ac6-401a-a4c4-4912bea3e704",
+    "ID": "619d4ee5-8ac6-401a-a4c4-4912bea3e704",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "30-07-2024",
@@ -5346,7 +5346,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "45d5a63c-7416-4883-8579-ba5c4855581f",
+    "ID": "45d5a63c-7416-4883-8579-ba5c4855581f",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "10-05-2024",
@@ -5355,7 +5355,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "29c4734c-28a2-48a7-aae2-bb46289678c6",
+    "ID": "29c4734c-28a2-48a7-aae2-bb46289678c6",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "13-10-2024",
@@ -5364,7 +5364,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ce836971-de56-4905-9c77-a8c4a70fa01d",
+    "ID": "ce836971-de56-4905-9c77-a8c4a70fa01d",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "06-07-2024",
@@ -5373,7 +5373,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "207b899f-9f50-4926-b536-00a33cffc303",
+    "ID": "207b899f-9f50-4926-b536-00a33cffc303",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "09-05-2024",
@@ -5382,7 +5382,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "71ed8c1d-d9a4-44a0-8814-6766e1ced70a",
+    "ID": "71ed8c1d-d9a4-44a0-8814-6766e1ced70a",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "11-07-2024",
@@ -5391,7 +5391,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6a453a8e-cc69-4479-acfc-be7204162c1b",
+    "ID": "6a453a8e-cc69-4479-acfc-be7204162c1b",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "27-07-2024",
@@ -5400,7 +5400,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f2e7c273-5bb7-48f6-bee5-315ae9df3b87",
+    "ID": "f2e7c273-5bb7-48f6-bee5-315ae9df3b87",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "07-09-2024",
@@ -5409,7 +5409,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9e10c1a2-28ac-4c43-b0fb-7fd9e5ecf952",
+    "ID": "9e10c1a2-28ac-4c43-b0fb-7fd9e5ecf952",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "05-04-2024",
@@ -5418,7 +5418,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "93aea4fd-a72d-416c-83fa-40987402e870",
+    "ID": "93aea4fd-a72d-416c-83fa-40987402e870",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "08-03-2024",
@@ -5427,7 +5427,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ed915f30-b13c-4aff-81af-5de43362c0be",
+    "ID": "ed915f30-b13c-4aff-81af-5de43362c0be",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "12-12-2024",
@@ -5436,7 +5436,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "387741cb-b714-4d51-95dd-c0600bcaf5b6",
+    "ID": "387741cb-b714-4d51-95dd-c0600bcaf5b6",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "23-11-2024",
@@ -5445,7 +5445,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "898315b8-9a2c-43ac-b52a-8e9c42ab8523",
+    "ID": "898315b8-9a2c-43ac-b52a-8e9c42ab8523",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "01-01-2025",
@@ -5454,7 +5454,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9485ceb4-8f9a-487d-8b3a-744312aa3ede",
+    "ID": "9485ceb4-8f9a-487d-8b3a-744312aa3ede",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "18-08-2024",
@@ -5463,7 +5463,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "44750188-404d-4b54-a5f9-6051c70b7588",
+    "ID": "44750188-404d-4b54-a5f9-6051c70b7588",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "11-11-2024",
@@ -5472,7 +5472,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d7ee0794-4248-401f-9cbc-84eb7ff89fe4",
+    "ID": "d7ee0794-4248-401f-9cbc-84eb7ff89fe4",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "25-05-2024",
@@ -5481,7 +5481,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "819767fa-89ff-4ae6-bb56-5320b2235fee",
+    "ID": "819767fa-89ff-4ae6-bb56-5320b2235fee",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "25-01-2024",
@@ -5490,7 +5490,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1f0963ba-7514-41ed-880b-33fb5ffb03fe",
+    "ID": "1f0963ba-7514-41ed-880b-33fb5ffb03fe",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "02-01-2025",
@@ -5499,7 +5499,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8ed63f2a-92c7-4eca-b20d-14983661ab56",
+    "ID": "8ed63f2a-92c7-4eca-b20d-14983661ab56",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-08-2024",
@@ -5508,7 +5508,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "25595749-1090-45b3-9cf9-afe04cc95a85",
+    "ID": "25595749-1090-45b3-9cf9-afe04cc95a85",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "15-08-2024",
@@ -5517,7 +5517,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b52d5b4f-5eb1-416e-be36-7dd871e63c3d",
+    "ID": "b52d5b4f-5eb1-416e-be36-7dd871e63c3d",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "30-07-2024",
@@ -5526,7 +5526,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "83ee5e7b-d1c0-438b-9dee-75e002f97309",
+    "ID": "83ee5e7b-d1c0-438b-9dee-75e002f97309",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "14-04-2024",
@@ -5535,7 +5535,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a821ae9c-edec-4b51-90e0-f30dbc8e8b32",
+    "ID": "a821ae9c-edec-4b51-90e0-f30dbc8e8b32",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "14-08-2024",
@@ -5544,7 +5544,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e5456f0a-8d54-4b69-a9ef-678fc5e63a02",
+    "ID": "e5456f0a-8d54-4b69-a9ef-678fc5e63a02",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "15-04-2024",
@@ -5553,7 +5553,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "738ee982-8933-4b93-bfcf-4e3010d660fd",
+    "ID": "738ee982-8933-4b93-bfcf-4e3010d660fd",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "12-12-2024",
@@ -5562,7 +5562,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a6c371b4-7668-428d-86d4-0a2ea0235e69",
+    "ID": "a6c371b4-7668-428d-86d4-0a2ea0235e69",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "04-06-2024",
@@ -5571,7 +5571,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8f8ef0eb-afb8-4558-a117-a7c7f1ecdcee",
+    "ID": "8f8ef0eb-afb8-4558-a117-a7c7f1ecdcee",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "11-06-2024",
@@ -5580,7 +5580,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "11231ca3-fca1-4061-affb-153388244005",
+    "ID": "11231ca3-fca1-4061-affb-153388244005",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "19-10-2024",
@@ -5589,7 +5589,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "39b157c5-d525-43bd-8c90-09a5b581e53f",
+    "ID": "39b157c5-d525-43bd-8c90-09a5b581e53f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "10-04-2024",
@@ -5598,7 +5598,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0522d26a-cb00-4fca-8dbf-c43da334167b",
+    "ID": "0522d26a-cb00-4fca-8dbf-c43da334167b",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "12-04-2024",
@@ -5607,7 +5607,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "228a2685-8a6b-45fb-b14e-2db8dca493da",
+    "ID": "228a2685-8a6b-45fb-b14e-2db8dca493da",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "07-11-2024",
@@ -5616,7 +5616,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6dab2b6c-0f36-43d3-89bd-c27c2eb586c9",
+    "ID": "6dab2b6c-0f36-43d3-89bd-c27c2eb586c9",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "09-07-2024",
@@ -5625,7 +5625,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d33bf1d7-75a2-4110-b7e0-a226b2dff25c",
+    "ID": "d33bf1d7-75a2-4110-b7e0-a226b2dff25c",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "20-05-2024",
@@ -5634,7 +5634,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b8a16aee-417b-46e6-af04-7778afbd3306",
+    "ID": "b8a16aee-417b-46e6-af04-7778afbd3306",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "07-01-2025",
@@ -5643,7 +5643,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "49517ec6-c6d2-4f6d-9451-1fde22316608",
+    "ID": "49517ec6-c6d2-4f6d-9451-1fde22316608",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "25-02-2024",
@@ -5652,7 +5652,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7f0b353f-696c-4fa9-96b3-dce4e042aaf8",
+    "ID": "7f0b353f-696c-4fa9-96b3-dce4e042aaf8",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "12-07-2024",
@@ -5661,7 +5661,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "97e1105a-d6dd-425a-bd00-87d265022320",
+    "ID": "97e1105a-d6dd-425a-bd00-87d265022320",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-10-2024",
@@ -5670,7 +5670,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "91fd4b82-d704-458e-b6c8-36fb0e3a5a54",
+    "ID": "91fd4b82-d704-458e-b6c8-36fb0e3a5a54",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "17-11-2024",
@@ -5679,7 +5679,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fb241666-58cb-4a03-be35-671c748933c7",
+    "ID": "fb241666-58cb-4a03-be35-671c748933c7",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Active",
     "LastMaintenance": "25-04-2024",
@@ -5688,7 +5688,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b770505a-960e-4256-ba32-dfc0ef59ef94",
+    "ID": "b770505a-960e-4256-ba32-dfc0ef59ef94",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "14-12-2024",
@@ -5697,7 +5697,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0cc4170c-c59d-4450-b2d8-e2ea8b793719",
+    "ID": "0cc4170c-c59d-4450-b2d8-e2ea8b793719",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "03-08-2024",
@@ -5706,7 +5706,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c384abee-d439-4e60-a5ed-b3dafdfda40f",
+    "ID": "c384abee-d439-4e60-a5ed-b3dafdfda40f",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "23-07-2024",
@@ -5715,7 +5715,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "95f4411e-2276-4d8e-843a-dcc18d21009f",
+    "ID": "95f4411e-2276-4d8e-843a-dcc18d21009f",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "29-01-2024",
@@ -5724,7 +5724,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9f59f4a6-3f7f-49f8-a20a-859b049f1ed3",
+    "ID": "9f59f4a6-3f7f-49f8-a20a-859b049f1ed3",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "04-12-2024",
@@ -5733,7 +5733,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "460fa07f-57d6-4af3-9d18-94e300f6aca4",
+    "ID": "460fa07f-57d6-4af3-9d18-94e300f6aca4",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "21-02-2024",
@@ -5742,7 +5742,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "cbb438a9-9abe-49d7-a373-4bf0ce65b3e0",
+    "ID": "cbb438a9-9abe-49d7-a373-4bf0ce65b3e0",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "01-11-2024",
@@ -5751,7 +5751,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7694d36e-a126-42fe-88bb-d479b17b54df",
+    "ID": "7694d36e-a126-42fe-88bb-d479b17b54df",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "30-12-2024",
@@ -5760,7 +5760,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "39ed0f9a-642b-4efb-a92f-99b840907760",
+    "ID": "39ed0f9a-642b-4efb-a92f-99b840907760",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "27-01-2024",
@@ -5769,7 +5769,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "66f5962c-eb41-4f37-89de-7f72a85823c0",
+    "ID": "66f5962c-eb41-4f37-89de-7f72a85823c0",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "18-02-2024",
@@ -5778,7 +5778,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8a42d615-43aa-459e-824d-e77476783ab1",
+    "ID": "8a42d615-43aa-459e-824d-e77476783ab1",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "13-04-2024",
@@ -5787,7 +5787,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "94124b99-f76a-4187-b07f-be13f33b8a0a",
+    "ID": "94124b99-f76a-4187-b07f-be13f33b8a0a",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "21-12-2024",
@@ -5796,7 +5796,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "66e375c2-61d8-4973-97b2-50ade5722f4c",
+    "ID": "66e375c2-61d8-4973-97b2-50ade5722f4c",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "15-12-2024",
@@ -5805,7 +5805,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ef5a0db5-947b-4933-af21-c50815261c39",
+    "ID": "ef5a0db5-947b-4933-af21-c50815261c39",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "11-05-2024",
@@ -5814,7 +5814,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "98c76257-1fe0-45c3-b7df-98575ff02edf",
+    "ID": "98c76257-1fe0-45c3-b7df-98575ff02edf",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "27-09-2024",
@@ -5823,7 +5823,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "060b38d9-2497-4f5f-8c4c-dcb1703e56f6",
+    "ID": "060b38d9-2497-4f5f-8c4c-dcb1703e56f6",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Active",
     "LastMaintenance": "22-11-2024",
@@ -5832,7 +5832,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "37a76be4-c3d3-47ad-977a-a87346195d6e",
+    "ID": "37a76be4-c3d3-47ad-977a-a87346195d6e",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "30-06-2024",
@@ -5841,7 +5841,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3c906151-ecfe-4ca8-83fc-aea9295dc109",
+    "ID": "3c906151-ecfe-4ca8-83fc-aea9295dc109",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "05-01-2025",
@@ -5850,7 +5850,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5d79f404-7d41-45db-bc14-f488e401516f",
+    "ID": "5d79f404-7d41-45db-bc14-f488e401516f",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "24-10-2024",
@@ -5859,7 +5859,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "5a20ca68-cc00-4449-a520-7affe763d01e",
+    "ID": "5a20ca68-cc00-4449-a520-7affe763d01e",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "03-02-2024",
@@ -5868,7 +5868,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e20b9018-3059-4e9a-b2eb-a40f59e65411",
+    "ID": "e20b9018-3059-4e9a-b2eb-a40f59e65411",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "21-12-2024",
@@ -5877,7 +5877,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "bc2178ef-d42c-4c0b-bb96-f50333a60c18",
+    "ID": "bc2178ef-d42c-4c0b-bb96-f50333a60c18",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "05-06-2024",
@@ -5886,7 +5886,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "19d2a308-bb0f-4a22-87d4-2dbe3d1f69e2",
+    "ID": "19d2a308-bb0f-4a22-87d4-2dbe3d1f69e2",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "08-04-2024",
@@ -5895,7 +5895,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a1eadc45-4031-48c1-8e70-a7c7cb99921d",
+    "ID": "a1eadc45-4031-48c1-8e70-a7c7cb99921d",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "05-04-2024",
@@ -5904,7 +5904,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "478e74d1-fc24-4253-9b11-ac9cbcfdebdc",
+    "ID": "478e74d1-fc24-4253-9b11-ac9cbcfdebdc",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "06-07-2024",
@@ -5913,7 +5913,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "9aa14caf-d5d7-4110-b09c-e0ca010e6c3e",
+    "ID": "9aa14caf-d5d7-4110-b09c-e0ca010e6c3e",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "05-04-2024",
@@ -5922,7 +5922,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2a5560d2-cd25-4ed3-9a28-caf2eaa67159",
+    "ID": "2a5560d2-cd25-4ed3-9a28-caf2eaa67159",
     "DeviceType": "ECG Rhythm Sensor",
     "Status": "Inactive",
     "LastMaintenance": "28-07-2024",
@@ -5931,7 +5931,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8165e1a9-55d1-4b09-8a11-53bb2f01cd80",
+    "ID": "8165e1a9-55d1-4b09-8a11-53bb2f01cd80",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "31-08-2024",
@@ -5940,7 +5940,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "d576ad17-8d24-435e-82f6-0be523c6456c",
+    "ID": "d576ad17-8d24-435e-82f6-0be523c6456c",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "27-06-2024",
@@ -5949,7 +5949,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f879d14b-0057-4236-a271-e84a76231301",
+    "ID": "f879d14b-0057-4236-a271-e84a76231301",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "25-05-2024",
@@ -5958,7 +5958,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "99cf26f3-9c83-45ff-b1e0-3eb4d86d196f",
+    "ID": "99cf26f3-9c83-45ff-b1e0-3eb4d86d196f",
     "DeviceType": "Heart Rate Monitor",
     "Status": "Inactive",
     "LastMaintenance": "23-12-2024",
@@ -5967,7 +5967,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fc3c30f3-7618-4b66-9ce6-37314fc17e2d",
+    "ID": "fc3c30f3-7618-4b66-9ce6-37314fc17e2d",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "06-09-2024",
@@ -5976,7 +5976,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4b9f0807-51ea-42ba-841d-abe313c2a87b",
+    "ID": "4b9f0807-51ea-42ba-841d-abe313c2a87b",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "23-09-2024",
@@ -5985,7 +5985,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f5db3303-8bf7-42c5-84b1-39a910f6b99d",
+    "ID": "f5db3303-8bf7-42c5-84b1-39a910f6b99d",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "06-08-2024",
@@ -5994,7 +5994,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "533489a9-f289-4723-864b-24b52496f338",
+    "ID": "533489a9-f289-4723-864b-24b52496f338",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "13-06-2024",
@@ -6003,7 +6003,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "23742723-0498-4a1b-8924-1841898853e5",
+    "ID": "23742723-0498-4a1b-8924-1841898853e5",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "07-08-2024",
@@ -6012,7 +6012,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f7869dde-4423-4896-abdd-f6f00f5ea8b0",
+    "ID": "f7869dde-4423-4896-abdd-f6f00f5ea8b0",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "16-09-2024",
@@ -6021,7 +6021,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3e9f3bf0-3c9c-45c5-814e-70a98bbe7f61",
+    "ID": "3e9f3bf0-3c9c-45c5-814e-70a98bbe7f61",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "22-11-2024",
@@ -6030,7 +6030,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b6f59c78-4f43-494c-951d-ed4beef49c27",
+    "ID": "b6f59c78-4f43-494c-951d-ed4beef49c27",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "25-03-2024",
@@ -6039,7 +6039,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fe1d1b61-6280-4692-ac75-15fad6a70bca",
+    "ID": "fe1d1b61-6280-4692-ac75-15fad6a70bca",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "31-03-2024",
@@ -6048,7 +6048,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a17aa946-499f-489e-9cbb-b4a59291e741",
+    "ID": "a17aa946-499f-489e-9cbb-b4a59291e741",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "08-11-2024",
@@ -6057,7 +6057,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "30ffa0e1-d4e5-4935-bfd3-67b913036234",
+    "ID": "30ffa0e1-d4e5-4935-bfd3-67b913036234",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "15-01-2025",
@@ -6066,7 +6066,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c266c0d2-8e32-4609-a2ad-71e6b2dc5a77",
+    "ID": "c266c0d2-8e32-4609-a2ad-71e6b2dc5a77",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "26-08-2024",
@@ -6075,7 +6075,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "19b1aba0-6295-4860-8837-b6b77d7e7a06",
+    "ID": "19b1aba0-6295-4860-8837-b6b77d7e7a06",
     "DeviceType": "Glucose Monitor",
     "Status": "Active",
     "LastMaintenance": "04-11-2024",
@@ -6084,7 +6084,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ee21d8c9-ca3b-4bd4-aa17-421c965b7376",
+    "ID": "ee21d8c9-ca3b-4bd4-aa17-421c965b7376",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "10-12-2024",
@@ -6093,7 +6093,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7a26aea8-334c-4e21-ac43-b73efa0ac6c8",
+    "ID": "7a26aea8-334c-4e21-ac43-b73efa0ac6c8",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "10-10-2024",
@@ -6102,7 +6102,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "dab1cd4e-86fc-4e2d-ad9b-e5ea6c52bf4a",
+    "ID": "dab1cd4e-86fc-4e2d-ad9b-e5ea6c52bf4a",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "15-04-2024",
@@ -6111,7 +6111,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "eb35654c-ff49-42b0-ba86-75913d72f4a4",
+    "ID": "eb35654c-ff49-42b0-ba86-75913d72f4a4",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "06-08-2024",
@@ -6120,7 +6120,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "3e758911-fa8a-4633-940c-f2dcf55d880c",
+    "ID": "3e758911-fa8a-4633-940c-f2dcf55d880c",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "14-05-2024",
@@ -6129,7 +6129,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "44103b63-04a4-487d-9f24-55be29365abd",
+    "ID": "44103b63-04a4-487d-9f24-55be29365abd",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "15-05-2024",
@@ -6138,7 +6138,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c45b6f63-5821-45c2-81c2-95c249c6a283",
+    "ID": "c45b6f63-5821-45c2-81c2-95c249c6a283",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "15-04-2024",
@@ -6147,7 +6147,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2838a26b-0423-4385-8bef-27c6165cbfd2",
+    "ID": "2838a26b-0423-4385-8bef-27c6165cbfd2",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "09-02-2024",
@@ -6156,7 +6156,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "991c8224-cd0d-452d-b90b-d9c0a35d04bd",
+    "ID": "991c8224-cd0d-452d-b90b-d9c0a35d04bd",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "25-10-2024",
@@ -6165,7 +6165,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8861b1cd-aff1-43f6-bf98-ce5f45b52797",
+    "ID": "8861b1cd-aff1-43f6-bf98-ce5f45b52797",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "18-02-2024",
@@ -6174,7 +6174,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "667d1579-720e-423c-b527-7dd1373d280e",
+    "ID": "667d1579-720e-423c-b527-7dd1373d280e",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "08-01-2025",
@@ -6183,7 +6183,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "a146f903-be6b-4980-af58-4ba0086c13e2",
+    "ID": "a146f903-be6b-4980-af58-4ba0086c13e2",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "14-11-2024",
@@ -6192,7 +6192,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "fefa0242-753d-49e5-9f79-c109bb369ea1",
+    "ID": "fefa0242-753d-49e5-9f79-c109bb369ea1",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "06-01-2025",
@@ -6201,7 +6201,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "7b176073-e9fc-4eee-9ab7-34295ab360ff",
+    "ID": "7b176073-e9fc-4eee-9ab7-34295ab360ff",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "24-01-2024",
@@ -6210,7 +6210,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "2dccb4aa-6ad2-4395-b49c-017502179cd8",
+    "ID": "2dccb4aa-6ad2-4395-b49c-017502179cd8",
     "DeviceType": "Oxygen Monitor",
     "Status": "Inactive",
     "LastMaintenance": "16-09-2024",
@@ -6219,7 +6219,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6dd8b299-da97-4dec-906f-81c9393332aa",
+    "ID": "6dd8b299-da97-4dec-906f-81c9393332aa",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "19-05-2024",
@@ -6228,7 +6228,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ec7a8acd-0552-4d43-91c5-63bd79ea387f",
+    "ID": "ec7a8acd-0552-4d43-91c5-63bd79ea387f",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "18-07-2024",
@@ -6237,7 +6237,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "70091dac-0d3b-4aa2-8e1e-b87bb6173b42",
+    "ID": "70091dac-0d3b-4aa2-8e1e-b87bb6173b42",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "10-02-2024",
@@ -6246,7 +6246,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "56c878b3-cdfa-4f78-92b4-84342b8fe647",
+    "ID": "56c878b3-cdfa-4f78-92b4-84342b8fe647",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "28-06-2024",
@@ -6255,7 +6255,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ecfa1bc7-ee6c-49bd-910b-ba0b5ef3be1d",
+    "ID": "ecfa1bc7-ee6c-49bd-910b-ba0b5ef3be1d",
     "DeviceType": "Temperature Sensor",
     "Status": "Active",
     "LastMaintenance": "17-05-2024",
@@ -6264,7 +6264,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "78ab62dc-47e0-408b-a1c3-360fb9fd2290",
+    "ID": "78ab62dc-47e0-408b-a1c3-360fb9fd2290",
     "DeviceType": "Weight Sensor",
     "Status": "Active",
     "LastMaintenance": "08-09-2024",
@@ -6273,7 +6273,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "ecbdbcf8-e3d2-4d84-81c9-20ed3dc973ce",
+    "ID": "ecbdbcf8-e3d2-4d84-81c9-20ed3dc973ce",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "21-10-2024",
@@ -6282,7 +6282,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "022a2fbb-6a24-4f5a-ac15-f22f4553b2ef",
+    "ID": "022a2fbb-6a24-4f5a-ac15-f22f4553b2ef",
     "DeviceType": "Weight Sensor",
     "Status": "Inactive",
     "LastMaintenance": "09-02-2024",
@@ -6291,7 +6291,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "368828a7-182a-484d-820c-9d41103124a6",
+    "ID": "368828a7-182a-484d-820c-9d41103124a6",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "12-08-2024",
@@ -6300,7 +6300,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c737d193-a2df-49e0-bafe-264b5ae104ff",
+    "ID": "c737d193-a2df-49e0-bafe-264b5ae104ff",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "22-11-2024",
@@ -6309,7 +6309,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c0c47c8a-65eb-4227-b159-1d299aef7876",
+    "ID": "c0c47c8a-65eb-4227-b159-1d299aef7876",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "27-12-2024",
@@ -6318,7 +6318,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "0ebc8598-2340-412e-8996-2abb48b8871b",
+    "ID": "0ebc8598-2340-412e-8996-2abb48b8871b",
     "DeviceType": "ECG",
     "Status": "Active",
     "LastMaintenance": "08-05-2024",
@@ -6327,7 +6327,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "e63486c3-fc2e-4711-9dd3-f360c32f11a7",
+    "ID": "e63486c3-fc2e-4711-9dd3-f360c32f11a7",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "04-02-2024",
@@ -6336,7 +6336,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "f035539e-6e21-4072-bb09-b19713c1f374",
+    "ID": "f035539e-6e21-4072-bb09-b19713c1f374",
     "DeviceType": "Pulse Oximeter",
     "Status": "Active",
     "LastMaintenance": "29-01-2024",
@@ -6345,7 +6345,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b3dd8e31-f679-4e02-9670-1f97a86d750c",
+    "ID": "b3dd8e31-f679-4e02-9670-1f97a86d750c",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Active",
     "LastMaintenance": "25-04-2024",
@@ -6354,7 +6354,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "c97a54d1-0091-40dc-a60b-a481dee1500b",
+    "ID": "c97a54d1-0091-40dc-a60b-a481dee1500b",
     "DeviceType": "Temperature Sensor",
     "Status": "Inactive",
     "LastMaintenance": "10-06-2024",
@@ -6363,7 +6363,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "02b350de-3372-48cf-bc04-27d9a73281fc",
+    "ID": "02b350de-3372-48cf-bc04-27d9a73281fc",
     "DeviceType": "Oxygen Monitor",
     "Status": "Active",
     "LastMaintenance": "04-03-2024",
@@ -6372,7 +6372,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "1301db33-de8c-4516-89a6-1098d755f4fa",
+    "ID": "1301db33-de8c-4516-89a6-1098d755f4fa",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "03-06-2024",
@@ -6381,7 +6381,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "6a350191-9108-44bf-aaaf-7451183ff32a",
+    "ID": "6a350191-9108-44bf-aaaf-7451183ff32a",
     "DeviceType": "Pulse Oximeter",
     "Status": "Inactive",
     "LastMaintenance": "07-11-2024",
@@ -6390,7 +6390,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "8dbbfc65-6768-4b0f-a600-9f8a9cb76b90",
+    "ID": "8dbbfc65-6768-4b0f-a600-9f8a9cb76b90",
     "DeviceType": "Blood Pressure Sensor",
     "Status": "Inactive",
     "LastMaintenance": "10-05-2024",
@@ -6399,7 +6399,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "4c4bc4b6-4c64-4030-b27c-f5413c30ab30",
+    "ID": "4c4bc4b6-4c64-4030-b27c-f5413c30ab30",
     "DeviceType": "ECG",
     "Status": "Inactive",
     "LastMaintenance": "26-04-2024",
@@ -6408,7 +6408,7 @@
     "UpdatedDate": "16-01-2025 11:25:00"
   },
   {
-    "Id": "b7abdd34-8962-4e27-9bc0-fdf7676de5e8",
+    "ID": "b7abdd34-8962-4e27-9bc0-fdf7676de5e8",
     "DeviceType": "Glucose Monitor",
     "Status": "Inactive",
     "LastMaintenance": "11-06-2024",
