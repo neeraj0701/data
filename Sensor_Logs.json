@@ -30878,5 +30878,245 @@
         "DataType": "Temperature Sensor",
         "Value": 39.7,
         "Timestamp": "11-02-2025 01:02:52"
+    },
+    {
+        "ID": "7eb42957-3432-468b-800c-cfd7e4f62ae0",
+        "PatientID": "e0f27b95-e7cb-68d0-b6d9-b4281512037e",
+        "DeviceID": "dda1f838-6ab9-42c5-b504-a0884c95c12f",
+        "DataType": "Heart Rate Monitor",
+        "Value": 119,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "a48328f4-544a-4d37-94ab-3b191398a039",
+        "PatientID": "6b6e8cda-703a-6a17-4943-b3bd1d709084",
+        "DeviceID": "c384abee-d439-4e60-a5ed-b3dafdfda40f",
+        "DataType": "Pulse Oximeter",
+        "Value": 97.0,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "f1eed041-6ff7-4c6f-874f-a16e91217ac3",
+        "PatientID": "83d1e9b6-facd-e50f-6efb-2bdf2bc80145",
+        "DeviceID": "aac52439-dd09-43d7-a276-207519c7d6ca",
+        "DataType": "Pulse Oximeter",
+        "Value": 97.0,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "a77d6cca-f965-48c5-9ad1-04d26e19a119",
+        "PatientID": "27ba919a-3f7c-0c4f-31f8-56932ab1ad93",
+        "DeviceID": "aac52439-dd09-43d7-a276-207519c7d6ca",
+        "DataType": "Heart Rate Monitor",
+        "Value": 119,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "ec0eb846-f0c3-445c-addf-2e1d78b4eb5e",
+        "PatientID": "56d82cb9-01fb-63bf-0ae4-5f2bdd236747",
+        "DeviceID": "f8bd4ca3-9fb0-44c2-9bef-4218923f3d13",
+        "DataType": "ECG Rhythm Sensor",
+        "Value": "Regular",
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "b0e14809-7ca2-4fef-adcf-ab6a0d80b8be",
+        "PatientID": "1278fd47-3048-8534-9bc5-07a90d596b01",
+        "DeviceID": "c384abee-d439-4e60-a5ed-b3dafdfda40f",
+        "DataType": "Temperature Sensor",
+        "Value": 39.7,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "519a45a6-58ca-4968-9e68-ba3fee4f07dc",
+        "PatientID": "5e3d58dd-39d9-19df-3539-8d54d3c0e4d5",
+        "DeviceID": "893231bd-e4ea-4b97-bd84-2914a2de8265",
+        "DataType": "Temperature Sensor",
+        "Value": 39.7,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "a3beb82f-2d52-4bf0-ad4b-407db5c914f5",
+        "PatientID": "55755f3f-ae6a-00fb-c58a-246074c8b798",
+        "DeviceID": "f17ea92e-32b0-44ad-aeba-4dd5fe2e0e17",
+        "DataType": "Oxygen Monitor",
+        "Value": 95.4,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "18cb40db-7d59-4f70-b020-97fc1f9a85f9",
+        "PatientID": "0ce49233-2b01-ef26-e9d9-036950db4586",
+        "DeviceID": "cf3ec46f-6d63-444f-ab30-0031f5a22aa1",
+        "DataType": "Oxygen Monitor",
+        "Value": 95.4,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "41bece4e-842e-49aa-8ee8-90d74e3b3a9d",
+        "PatientID": "609e985d-e60f-aec0-49bf-78fd9945151e",
+        "DeviceID": "be10b714-0d4f-4490-97fe-7dd445cc3b3b",
+        "DataType": "Pulse Oximeter",
+        "Value": 97.0,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "847e3d20-9e9a-4360-9f51-2f8794048559",
+        "PatientID": "ef045053-7be8-48a5-935e-1115da877558",
+        "DeviceID": "f8bd4ca3-9fb0-44c2-9bef-4218923f3d13",
+        "DataType": "Oxygen Monitor",
+        "Value": 95.4,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "2c673d17-3b8d-4f9e-9f79-efc04d180f30",
+        "PatientID": "ac37d304-7eaf-6e1e-9267-0043892b88f1",
+        "DeviceID": "c384abee-d439-4e60-a5ed-b3dafdfda40f",
+        "DataType": "Heart Rate Monitor",
+        "Value": 119,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "3712e0dd-c44c-4042-a235-ef6f4c9d9a10",
+        "PatientID": "c7c160d0-9f14-c10b-9767-d42551ab308b",
+        "DeviceID": "dda1f838-6ab9-42c5-b504-a0884c95c12f",
+        "DataType": "Heart Rate Monitor",
+        "Value": 119,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "5f00e41c-cacd-4a58-bb89-14378e0c80f4",
+        "PatientID": "df607b64-3d5e-5795-1646-edd2ccf55192",
+        "DeviceID": "aac52439-dd09-43d7-a276-207519c7d6ca",
+        "DataType": "Temperature Sensor",
+        "Value": 39.7,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "9b4315d9-69ed-499e-9d93-0b65db18b5f4",
+        "PatientID": "0d131071-8a0f-0dfa-0d65-2bcb93d628a0",
+        "DeviceID": "106b20f8-dd1d-4fff-9390-d1e1c7baeb96",
+        "DataType": "Temperature Sensor",
+        "Value": 39.7,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "f20c102d-e19c-47b0-ba55-d7bb6235d12d",
+        "PatientID": "9f021233-d200-606b-2bb3-3b8761424ac2",
+        "DeviceID": "893231bd-e4ea-4b97-bd84-2914a2de8265",
+        "DataType": "Heart Rate Monitor",
+        "Value": 119,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "83f29fb8-3302-4858-8057-334c698bc03e",
+        "PatientID": "3de74169-7f67-9304-91d4-757e0f3a14d2",
+        "DeviceID": "f17ea92e-32b0-44ad-aeba-4dd5fe2e0e17",
+        "DataType": "Oxygen Monitor",
+        "Value": 95.4,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "1486691c-29b2-4e0d-b4a4-c81ec2806541",
+        "PatientID": "f55956c4-ac53-0777-18ec-b2fac3a7113a",
+        "DeviceID": "f17ea92e-32b0-44ad-aeba-4dd5fe2e0e17",
+        "DataType": "Oxygen Monitor",
+        "Value": 95.4,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "47f2e406-833c-4c5b-8f8c-aa68b7fc7422",
+        "PatientID": "85b9044a-d232-ff24-308f-d04f505139c8",
+        "DeviceID": "dda1f838-6ab9-42c5-b504-a0884c95c12f",
+        "DataType": "Oxygen Monitor",
+        "Value": 95.4,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "4ae86437-d47a-4b35-ab13-701ae590a12d",
+        "PatientID": "7412b008-76f9-b713-c514-2a5d82e3b39e",
+        "DeviceID": "f17ea92e-32b0-44ad-aeba-4dd5fe2e0e17",
+        "DataType": "Oxygen Monitor",
+        "Value": 95.4,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "9f6b1a35-46d9-4498-875f-4835db9e6fa5",
+        "PatientID": "609e985d-e60f-aec0-49bf-78fd9945151e",
+        "DeviceID": "4ef74eba-2f8e-467b-ba0a-142ce865b25d",
+        "DataType": "Heart Rate Monitor",
+        "Value": 119,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "64b01054-032a-41bb-9890-0d4dfd9279e2",
+        "PatientID": "0ce49233-2b01-ef26-e9d9-036950db4586",
+        "DeviceID": "aac52439-dd09-43d7-a276-207519c7d6ca",
+        "DataType": "Pulse Oximeter",
+        "Value": 97.0,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "fd9a4749-fce1-4352-936e-f1f87b742d16",
+        "PatientID": "3de74169-7f67-9304-91d4-757e0f3a14d2",
+        "DeviceID": "dda1f838-6ab9-42c5-b504-a0884c95c12f",
+        "DataType": "Temperature Sensor",
+        "Value": 39.7,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "b08f3b28-655a-4b93-8360-40517e72b2b0",
+        "PatientID": "5e3d58dd-39d9-19df-3539-8d54d3c0e4d5",
+        "DeviceID": "f8bd4ca3-9fb0-44c2-9bef-4218923f3d13",
+        "DataType": "Oxygen Monitor",
+        "Value": 95.4,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "bbec2306-6544-4a87-a4ff-0e084372ba29",
+        "PatientID": "609e985d-e60f-aec0-49bf-78fd9945151e",
+        "DeviceID": "f17ea92e-32b0-44ad-aeba-4dd5fe2e0e17",
+        "DataType": "Pulse Oximeter",
+        "Value": 97.0,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "25f63af0-8b32-4757-b358-fd67dcefe9b2",
+        "PatientID": "27ba919a-3f7c-0c4f-31f8-56932ab1ad93",
+        "DeviceID": "dda1f838-6ab9-42c5-b504-a0884c95c12f",
+        "DataType": "Temperature Sensor",
+        "Value": 39.7,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "b4fe0550-3b1e-450b-aab0-3e9e9d4605c5",
+        "PatientID": "0ce49233-2b01-ef26-e9d9-036950db4586",
+        "DeviceID": "dda1f838-6ab9-42c5-b504-a0884c95c12f",
+        "DataType": "Pulse Oximeter",
+        "Value": 97.0,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "b8e4b5f8-3c1a-4f0a-a897-227beabb0bca",
+        "PatientID": "df607b64-3d5e-5795-1646-edd2ccf55192",
+        "DeviceID": "106b20f8-dd1d-4fff-9390-d1e1c7baeb96",
+        "DataType": "Pulse Oximeter",
+        "Value": 97.0,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "074ee13c-bf31-41b8-9def-ecb2a129d7e1",
+        "PatientID": "0d131071-8a0f-0dfa-0d65-2bcb93d628a0",
+        "DeviceID": "4ef74eba-2f8e-467b-ba0a-142ce865b25d",
+        "DataType": "Temperature Sensor",
+        "Value": 39.7,
+        "Timestamp": "11-02-2025 01:12:55"
+    },
+    {
+        "ID": "310f0b95-7b81-49d8-93a6-dff62acb3f2d",
+        "PatientID": "6b6e8cda-703a-6a17-4943-b3bd1d709084",
+        "DeviceID": "aac52439-dd09-43d7-a276-207519c7d6ca",
+        "DataType": "Pulse Oximeter",
+        "Value": 97.0,
+        "Timestamp": "11-02-2025 01:12:55"
     }
 ]
